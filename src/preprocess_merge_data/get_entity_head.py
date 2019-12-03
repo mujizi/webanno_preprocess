@@ -9,7 +9,6 @@ def span2head(cluster):
 
 def get_entity_head(dic):
     clusters = dic["clusters"]
-    # print(clusters)
     new_clusters = []
     for cluster in clusters:
         cluster = span2head(cluster)
