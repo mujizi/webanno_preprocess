@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=Lithium chloride: 3.5%
+#Text=Ethylene glycol: 10.8%
+#Text=The viscosity of this solution was 0.73 Pa.s.
+1-1	0-7	Lithium	
+1-2	8-16	chloride	
+1-3	16-17	:	
+1-4	18-22	3.5%	
+1-5	23-31	Ethylene	
+1-6	32-38	glycol	
+1-7	38-39	:	
+1-8	40-45	10.8%	
+1-9	46-49	The	
+1-10	50-59	viscosity	
+1-11	60-62	of	
+1-12	63-67	this	
+1-13	68-76	solution	
+1-14	77-80	was	
+1-15	81-85	0.73	
+1-16	86-90	Pa.s	
+1-17	90-91	.	
+
+#Text=After setting of the membrane at 95% relative humidity and 26.degree.
+2-1	92-97	After	
+2-2	98-105	setting	
+2-3	106-108	of	
+2-4	109-112	the	
+2-5	113-121	membrane	
+2-6	122-124	at	
+2-7	125-128	95%	
+2-8	129-137	relative	
+2-9	138-146	humidity	
+2-10	147-150	and	
+2-11	151-153	26	
+2-12	153-154	.	
+2-13	154-160	degree	
+2-14	160-161	.	
+
+#Text=C. in stationary air (90 minutes), the membrane was washed in water and dried.
+3-1	162-163	C	
+3-2	163-164	.	
+3-3	165-167	in	
+3-4	168-178	stationary	
+3-5	179-182	air	
+3-6	183-184	(	
+3-7	184-186	90	
+3-8	187-194	minutes	
+3-9	194-195	)	
+3-10	195-196	,	
+3-11	197-200	the	
+3-12	201-209	membrane	
+3-13	210-213	was	
+3-14	214-220	washed	
+3-15	221-223	in	
+3-16	224-229	water	
+3-17	230-233	and	
+3-18	234-239	dried	
+3-19	239-240	.	
+
+#Text=The following parameters were determined for the thus-obtained membrane:
+#Text=Bubble point: 4.3 bar
+4-1	241-244	The	
+4-2	245-254	following	
+4-3	255-265	parameters	
+4-4	266-270	were	
+4-5	271-281	determined	
+4-6	282-285	for	
+4-7	286-289	the	
+4-8	290-303	thus-obtained	
+4-9	304-312	membrane	
+4-10	312-313	:	
+4-11	314-320	Bubble	
+4-12	321-326	point	
+4-13	326-327	:	
+4-14	328-331	4.3	
+4-15	332-335	bar	

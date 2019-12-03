@@ -1,0 +1,735 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+
+
+#Text=[0061] FIGS. 9-10 illustrate this concept.
+1-1	0-1	[	_	
+1-2	1-5	0061	_	
+1-3	5-6	]	_	
+1-4	7-11	FIGS	_	
+1-5	11-12	.	_	
+1-6	13-14	9	_	
+1-7	14-15	-	_	
+1-8	15-17	10	_	
+1-9	18-28	illustrate	_	
+1-10	29-33	this	_	
+1-11	34-41	concept	_	
+1-12	41-42	.	_	
+
+#Text=In this example, the filter module 110 has two bandpass wavelength filters.
+2-1	43-45	In	_	
+2-2	46-50	this	_	
+2-3	51-58	example	_	
+2-4	58-59	,	_	
+2-5	60-63	the	_	
+2-6	64-70	filter	_	
+2-7	71-77	module	_	
+2-8	78-81	110	_	
+2-9	82-85	has	_	
+2-10	86-89	two	_	
+2-11	90-98	bandpass	_	
+2-12	99-109	wavelength	_	
+2-13	110-117	filters	_	
+2-14	117-118	.	_	
+
+#Text=Filter F1 is centered at 450 nm and filter F2 is centered at 650 nm.
+3-1	119-125	Filter	_	
+3-2	126-128	F1	_	
+3-3	129-131	is	_	
+3-4	132-140	centered	_	
+3-5	141-143	at	_	
+3-6	144-147	450	_	
+3-7	148-150	nm	_	
+3-8	151-154	and	_	
+3-9	155-161	filter	_	
+3-10	162-164	F2	_	
+3-11	165-167	is	_	
+3-12	168-176	centered	_	
+3-13	177-179	at	_	
+3-14	180-183	650	_	
+3-15	184-186	nm	_	
+3-16	186-187	.	_	
+
+#Text=FIG. 9A shows the subarray 133 when only filter F1 is used.
+4-1	188-191	FIG	_	
+4-2	191-192	.	_	
+4-3	193-195	9A	_	
+4-4	196-201	shows	_	
+4-5	202-205	the	_	
+4-6	206-214	subarray	_	
+4-7	215-218	133	_	
+4-8	219-223	when	_	
+4-9	224-228	only	_	
+4-10	229-235	filter	_	
+4-11	236-238	F1	_	
+4-12	239-241	is	_	
+4-13	242-246	used	_	
+4-14	246-247	.	_	
+
+#Text=The corresponding image of a petal is shown in FIG. 10A.
+5-1	248-251	The	_	
+5-2	252-265	corresponding	_	
+5-3	266-271	image	_	
+5-4	272-274	of	_	
+5-5	275-276	a	_	
+5-6	277-282	petal	_	
+5-7	283-285	is	_	
+5-8	286-291	shown	_	
+5-9	292-294	in	_	
+5-10	295-298	FIG	_	
+5-11	298-299	.	_	
+5-12	300-303	10A	_	
+5-13	303-304	.	_	
+
+#Text=Note that there are spots on the surface.
+6-1	305-309	Note	_	
+6-2	310-314	that	_	
+6-3	315-320	there	_	
+6-4	321-324	are	_	
+6-5	325-330	spots	_	
+6-6	331-333	on	_	
+6-7	334-337	the	_	
+6-8	338-345	surface	_	
+6-9	345-346	.	_	
+
+#Text=FIG. 9B shows the subarray 133 when only filter F2 is used.
+7-1	347-350	FIG	_	
+7-2	350-351	.	_	
+7-3	352-354	9B	_	
+7-4	355-360	shows	_	
+7-5	361-364	the	_	
+7-6	365-373	subarray	_	
+7-7	374-377	133	_	
+7-8	378-382	when	_	
+7-9	383-387	only	_	
+7-10	388-394	filter	_	
+7-11	395-397	F2	_	
+7-12	398-400	is	_	
+7-13	401-405	used	_	
+7-14	405-406	.	_	
+
+#Text=The corresponding image of a petal is shown in FIG. 10B.
+8-1	407-410	The	_	
+8-2	411-424	corresponding	_	
+8-3	425-430	image	_	
+8-4	431-433	of	_	
+8-5	434-435	a	_	
+8-6	436-441	petal	_	
+8-7	442-444	is	_	
+8-8	445-450	shown	_	
+8-9	451-453	in	_	
+8-10	454-457	FIG	_	
+8-11	457-458	.	_	
+8-12	459-462	10B	_	
+8-13	462-463	.	_	
+
+#Text=Note that there are rings on the petal surface.
+9-1	464-468	Note	_	
+9-2	469-473	that	_	
+9-3	474-479	there	_	
+9-4	480-483	are	_	
+9-5	484-489	rings	_	
+9-6	490-492	on	_	
+9-7	493-496	the	_	
+9-8	497-502	petal	_	
+9-9	503-510	surface	_	
+9-10	510-511	.	_	
+
+#Text=FIG. 9C shows the subarray 133 when both filters F1 and F2 are used, but they are used in equal proportion.
+10-1	512-515	FIG	_	
+10-2	515-516	.	_	
+10-3	517-519	9C	_	
+10-4	520-525	shows	_	
+10-5	526-529	the	_	
+10-6	530-538	subarray	_	
+10-7	539-542	133	_	
+10-8	543-547	when	_	
+10-9	548-552	both	_	
+10-10	553-560	filters	_	
+10-11	561-563	F1	_	
+10-12	564-567	and	_	
+10-13	568-570	F2	_	
+10-14	571-574	are	_	
+10-15	575-579	used	_	
+10-16	579-580	,	_	
+10-17	581-584	but	_	
+10-18	585-589	they	_	
+10-19	590-593	are	_	
+10-20	594-598	used	_	
+10-21	599-601	in	_	
+10-22	602-607	equal	_	
+10-23	608-618	proportion	_	
+10-24	618-619	.	_	
+
+#Text=That is, filter F1 occupies 50% of the pupil and filter F2 occupies the other 50%.
+11-1	620-624	That	_	
+11-2	625-627	is	_	
+11-3	627-628	,	_	
+11-4	629-635	filter	_	
+11-5	636-638	F1	_	
+11-6	639-647	occupies	_	
+11-7	648-651	50%	_	
+11-8	652-654	of	_	
+11-9	655-658	the	_	
+11-10	659-664	pupil	_	
+11-11	665-668	and	_	
+11-12	669-675	filter	_	
+11-13	676-678	F2	_	
+11-14	679-687	occupies	_	
+11-15	688-691	the	_	
+11-16	692-697	other	_	
+11-17	698-701	50%	_	
+11-18	701-702	.	_	
+
+#Text=The resulting multimode image is shown in FIG. 10C.
+12-1	703-706	The	_	
+12-2	707-716	resulting	_	
+12-3	717-726	multimode	_	
+12-4	727-732	image	_	
+12-5	733-735	is	_	
+12-6	736-741	shown	_	
+12-7	742-744	in	_	
+12-8	745-748	FIG	_	
+12-9	748-749	.	_	
+12-10	750-753	10C	_	
+12-11	753-754	.	_	
+
+#Text=Note that the rings at 650 nm are visible but the spots at 450 nm are not.
+13-1	755-759	Note	_	
+13-2	760-764	that	_	
+13-3	765-768	the	_	
+13-4	769-774	rings	_	
+13-5	775-777	at	_	
+13-6	778-781	650	_	
+13-7	782-784	nm	_	
+13-8	785-788	are	_	
+13-9	789-796	visible	_	
+13-10	797-800	but	_	
+13-11	801-804	the	_	
+13-12	805-810	spots	_	
+13-13	811-813	at	_	
+13-14	814-817	450	_	
+13-15	818-820	nm	_	
+13-16	821-824	are	_	
+13-17	825-828	not	_	
+13-18	828-829	.	_	
+
+#Text=This is because the 450 nm component requires longer exposure or stronger illumination.
+14-1	830-834	This	_	
+14-2	835-837	is	_	
+14-3	838-845	because	_	
+14-4	846-849	the	_	
+14-5	850-853	450	_	
+14-6	854-856	nm	_	
+14-7	857-866	component	_	
+14-8	867-875	requires	_	
+14-9	876-882	longer	_	
+14-10	883-891	exposure	_	
+14-11	892-894	or	_	
+14-12	895-903	stronger	_	
+14-13	904-916	illumination	_	
+14-14	916-917	.	_	
+
+#Text=However, just increasing the exposure could overexpose the 650 nm component.
+#Text=[0062] FIGS. 9D and 10D show a solution.
+15-1	918-925	However	_	
+15-2	925-926	,	_	
+15-3	927-931	just	_	
+15-4	932-942	increasing	_	
+15-5	943-946	the	_	
+15-6	947-955	exposure	_	
+15-7	956-961	could	_	
+15-8	962-972	overexpose	_	
+15-9	973-976	the	_	
+15-10	977-980	650	_	
+15-11	981-983	nm	_	
+15-12	984-993	component	_	
+15-13	993-994	.	_	
+15-14	995-996	[	_	
+15-15	996-1000	0062	_	
+15-16	1000-1001	]	_	
+15-17	1002-1006	FIGS	_	
+15-18	1006-1007	.	_	
+15-19	1008-1010	9D	_	
+15-20	1011-1014	and	_	
+15-21	1015-1018	10D	_	
+15-22	1019-1023	show	_	
+15-23	1024-1025	a	_	
+15-24	1026-1034	solution	_	
+15-25	1034-1035	.	_	
+
+#Text=The filter module is positioned so that the 450 nm filter F2 occupies more of the pupil area, as shown in FIG. 9D.
+16-1	1036-1039	The	_	
+16-2	1040-1046	filter	_	
+16-3	1047-1053	module	_	
+16-4	1054-1056	is	_	
+16-5	1057-1067	positioned	_	
+16-6	1068-1070	so	_	
+16-7	1071-1075	that	_	
+16-8	1076-1079	the	_	
+16-9	1080-1083	450	_	
+16-10	1084-1086	nm	_	
+16-11	1087-1093	filter	_	
+16-12	1094-1096	F2	_	
+16-13	1097-1105	occupies	_	
+16-14	1106-1110	more	_	
+16-15	1111-1113	of	_	
+16-16	1114-1117	the	_	
+16-17	1118-1123	pupil	_	
+16-18	1124-1128	area	_	
+16-19	1128-1129	,	_	
+16-20	1130-1132	as	_	
+16-21	1133-1138	shown	_	
+16-22	1139-1141	in	_	
+16-23	1142-1145	FIG	_	
+16-24	1145-1146	.	_	
+16-25	1147-1149	9D	_	
+16-26	1149-1150	.	_	
+
+#Text=The exposure condition is also adjusted so that components from both filters F1 and F2 receive the correct exposure.
+17-1	1151-1154	The	_	
+17-2	1155-1163	exposure	_	
+17-3	1164-1173	condition	_	
+17-4	1174-1176	is	_	
+17-5	1177-1181	also	_	
+17-6	1182-1190	adjusted	_	
+17-7	1191-1193	so	_	
+17-8	1194-1198	that	_	
+17-9	1199-1209	components	_	
+17-10	1210-1214	from	_	
+17-11	1215-1219	both	_	
+17-12	1220-1227	filters	_	
+17-13	1228-1230	F1	_	
+17-14	1231-1234	and	_	
+17-15	1235-1237	F2	_	
+17-16	1238-1245	receive	_	
+17-17	1246-1249	the	_	
+17-18	1250-1257	correct	_	
+17-19	1258-1266	exposure	_	
+17-20	1266-1267	.	_	
+
+#Text=In this example, the sum of the photons collected at all detectors behind each filter is optimized.
+18-1	1268-1270	In	_	
+18-2	1271-1275	this	_	
+18-3	1276-1283	example	_	
+18-4	1283-1284	,	_	
+18-5	1285-1288	the	_	
+18-6	1289-1292	sum	_	
+18-7	1293-1295	of	_	
+18-8	1296-1299	the	_	
+18-9	1300-1307	photons	_	
+18-10	1308-1317	collected	_	
+18-11	1318-1320	at	_	
+18-12	1321-1324	all	_	
+18-13	1325-1334	detectors	_	
+18-14	1335-1341	behind	_	
+18-15	1342-1346	each	_	
+18-16	1347-1353	filter	_	
+18-17	1354-1356	is	_	
+18-18	1357-1366	optimized	_	
+18-19	1366-1367	.	_	
+
+#Text=Care is taken to adjust the exposure/light power versus the filter area such that the detectors behind each filter is not saturated.
+19-1	1368-1372	Care	_	
+19-2	1373-1375	is	_	
+19-3	1376-1381	taken	_	
+19-4	1382-1384	to	_	
+19-5	1385-1391	adjust	_	
+19-6	1392-1395	the	_	
+19-7	1396-1404	exposure	_	
+19-8	1404-1405	/	_	
+19-9	1405-1410	light	_	
+19-10	1411-1416	power	_	
+19-11	1417-1423	versus	_	
+19-12	1424-1427	the	_	
+19-13	1428-1434	filter	_	
+19-14	1435-1439	area	_	
+19-15	1440-1444	such	_	
+19-16	1445-1449	that	_	
+19-17	1450-1453	the	_	
+19-18	1454-1463	detectors	_	
+19-19	1464-1470	behind	_	
+19-20	1471-1475	each	_	
+19-21	1476-1482	filter	_	
+19-22	1483-1485	is	_	
+19-23	1486-1489	not	_	
+19-24	1490-1499	saturated	_	
+19-25	1499-1500	.	_	
+
+#Text=The resulting multimode image is shown in FIG. 10D.
+20-1	1501-1504	The	_	
+20-2	1505-1514	resulting	_	
+20-3	1515-1524	multimode	_	
+20-4	1525-1530	image	_	
+20-5	1531-1533	is	_	
+20-6	1534-1539	shown	_	
+20-7	1540-1542	in	_	
+20-8	1543-1546	FIG	_	
+20-9	1546-1547	.	_	
+20-10	1548-1551	10D	_	
+20-11	1551-1552	.	_	
+
+#Text=Both the 450 nm spots and the 650 nm rings are visible.
+#Text=[0063] FIG. 11 is a flow diagram of this solution.
+21-1	1553-1557	Both	_	
+21-2	1558-1561	the	_	
+21-3	1562-1565	450	_	
+21-4	1566-1568	nm	_	
+21-5	1569-1574	spots	_	
+21-6	1575-1578	and	_	
+21-7	1579-1582	the	_	
+21-8	1583-1586	650	_	
+21-9	1587-1589	nm	_	
+21-10	1590-1595	rings	_	
+21-11	1596-1599	are	_	
+21-12	1600-1607	visible	_	
+21-13	1607-1608	.	_	
+21-14	1609-1610	[	_	
+21-15	1610-1614	0063	_	
+21-16	1614-1615	]	_	
+21-17	1616-1619	FIG	_	
+21-18	1619-1620	.	_	
+21-19	1621-1623	11	_	
+21-20	1624-1626	is	_	
+21-21	1627-1628	a	_	
+21-22	1629-1633	flow	_	
+21-23	1634-1641	diagram	_	
+21-24	1642-1644	of	_	
+21-25	1645-1649	this	*[1]	
+21-26	1650-1658	solution	*[1]	
+21-27	1658-1659	.	_	
+
+#Text=The filter module begins at some initial position 1110.
+22-1	1660-1663	The	_	
+22-2	1664-1670	filter	_	
+22-3	1671-1677	module	_	
+22-4	1678-1684	begins	_	
+22-5	1685-1687	at	_	
+22-6	1688-1692	some	_	
+22-7	1693-1700	initial	_	
+22-8	1701-1709	position	_	
+22-9	1710-1714	1110	_	
+22-10	1714-1715	.	_	
+
+#Text=For example, it may be positioned so that different filters cover the same pupil area.
+23-1	1716-1719	For	_	
+23-2	1720-1727	example	_	
+23-3	1727-1728	,	_	
+23-4	1729-1731	it	_	
+23-5	1732-1735	may	_	
+23-6	1736-1738	be	_	
+23-7	1739-1749	positioned	_	
+23-8	1750-1752	so	_	
+23-9	1753-1757	that	_	
+23-10	1758-1767	different	_	
+23-11	1768-1775	filters	_	
+23-12	1776-1781	cover	_	
+23-13	1782-1785	the	_	
+23-14	1786-1790	same	_	
+23-15	1791-1796	pupil	_	
+23-16	1797-1801	area	_	
+23-17	1801-1802	.	_	
+
+#Text=With the filter module in this position, a multimode image is captured 1120 and processed 1130.
+24-1	1803-1807	With	_	
+24-2	1808-1811	the	_	
+24-3	1812-1818	filter	_	
+24-4	1819-1825	module	_	
+24-5	1826-1828	in	_	
+24-6	1829-1833	this	_	
+24-7	1834-1842	position	_	
+24-8	1842-1843	,	_	
+24-9	1844-1845	a	_	
+24-10	1846-1855	multimode	_	
+24-11	1856-1861	image	_	
+24-12	1862-1864	is	_	
+24-13	1865-1873	captured	_	
+24-14	1874-1878	1120	_	
+24-15	1879-1882	and	_	
+24-16	1883-1892	processed	_	
+24-17	1893-1897	1130	_	
+24-18	1897-1898	.	_	
+
+#Text=The processed image is used to calculate 1140 an image quality metric.
+25-1	1899-1902	The	_	
+25-2	1903-1912	processed	_	
+25-3	1913-1918	image	_	
+25-4	1919-1921	is	_	
+25-5	1922-1926	used	_	
+25-6	1927-1929	to	_	
+25-7	1930-1939	calculate	_	
+25-8	1940-1944	1140	_	
+25-9	1945-1947	an	_	
+25-10	1948-1953	image	_	
+25-11	1954-1961	quality	_	
+25-12	1962-1968	metric	_	
+25-13	1968-1969	.	_	
+
+#Text=Examples of image quality metric include SNR, signal energy, contrast, brightness and exposure value.
+26-1	1970-1978	Examples	_	
+26-2	1979-1981	of	_	
+26-3	1982-1987	image	_	
+26-4	1988-1995	quality	_	
+26-5	1996-2002	metric	_	
+26-6	2003-2010	include	_	
+26-7	2011-2014	SNR	_	
+26-8	2014-2015	,	_	
+26-9	2016-2022	signal	_	
+26-10	2023-2029	energy	_	
+26-11	2029-2030	,	_	
+26-12	2031-2039	contrast	_	
+26-13	2039-2040	,	_	
+26-14	2041-2051	brightness	_	
+26-15	2052-2055	and	_	
+26-16	2056-2064	exposure	_	
+26-17	2065-2070	value	_	
+26-18	2070-2071	.	_	
+
+#Text=If the quality is not sufficient 1150, then the position of the filter module and the exposure condition are adjusted 1160.
+27-1	2072-2074	If	_	
+27-2	2075-2078	the	_	
+27-3	2079-2086	quality	_	
+27-4	2087-2089	is	_	
+27-5	2090-2093	not	_	
+27-6	2094-2104	sufficient	_	
+27-7	2105-2109	1150	_	
+27-8	2109-2110	,	_	
+27-9	2111-2115	then	_	
+27-10	2116-2119	the	_	
+27-11	2120-2128	position	_	
+27-12	2129-2131	of	_	
+27-13	2132-2135	the	_	
+27-14	2136-2142	filter	_	
+27-15	2143-2149	module	_	
+27-16	2150-2153	and	_	
+27-17	2154-2157	the	_	
+27-18	2158-2166	exposure	_	
+27-19	2167-2176	condition	_	
+27-20	2177-2180	are	_	
+27-21	2181-2189	adjusted	_	
+27-22	2190-2194	1160	_	
+27-23	2194-2195	.	_	
+
+#Text=This is repeated until sufficient quality is obtained.
+28-1	2196-2200	This	_	
+28-2	2201-2203	is	_	
+28-3	2204-2212	repeated	_	
+28-4	2213-2218	until	_	
+28-5	2219-2229	sufficient	_	
+28-6	2230-2237	quality	_	
+28-7	2238-2240	is	_	
+28-8	2241-2249	obtained	_	
+28-9	2249-2250	.	_	
+
+#Text=The resulting settings may be store 1170.
+#Text=[0064] The multimode image can be processed 1130 in many ways, which may affect the image quality metric 1140.
+29-1	2251-2254	The	_	
+29-2	2255-2264	resulting	_	
+29-3	2265-2273	settings	_	
+29-4	2274-2277	may	_	
+29-5	2278-2280	be	_	
+29-6	2281-2286	store	_	
+29-7	2287-2291	1170	_	
+29-8	2291-2292	.	_	
+29-9	2293-2294	[	_	
+29-10	2294-2298	0064	_	
+29-11	2298-2299	]	_	
+29-12	2300-2303	The	_	
+29-13	2304-2313	multimode	_	
+29-14	2314-2319	image	_	
+29-15	2320-2323	can	_	
+29-16	2324-2326	be	_	
+29-17	2327-2336	processed	_	
+29-18	2337-2341	1130	_	
+29-19	2342-2344	in	_	
+29-20	2345-2349	many	_	
+29-21	2350-2354	ways	_	
+29-22	2354-2355	,	_	
+29-23	2356-2361	which	_	
+29-24	2362-2365	may	_	
+29-25	2366-2372	affect	_	
+29-26	2373-2376	the	_	
+29-27	2377-2382	image	_	
+29-28	2383-2390	quality	_	
+29-29	2391-2397	metric	_	
+29-30	2398-2402	1140	_	
+29-31	2402-2403	.	_	
+
+#Text=For example, the processed image could be produced by summing or averaging all the detectors corresponding to each filter.
+30-1	2404-2407	For	_	
+30-2	2408-2415	example	_	
+30-3	2415-2416	,	_	
+30-4	2417-2420	the	_	
+30-5	2421-2430	processed	_	
+30-6	2431-2436	image	_	
+30-7	2437-2442	could	_	
+30-8	2443-2445	be	_	
+30-9	2446-2454	produced	_	
+30-10	2455-2457	by	_	
+30-11	2458-2465	summing	_	
+30-12	2466-2468	or	_	
+30-13	2469-2478	averaging	_	
+30-14	2479-2482	all	_	
+30-15	2483-2486	the	_	
+30-16	2487-2496	detectors	_	
+30-17	2497-2510	corresponding	_	
+30-18	2511-2513	to	_	
+30-19	2514-2518	each	_	
+30-20	2519-2525	filter	_	
+30-21	2525-2526	.	_	
+
+#Text=Alternately, several sub-images for one filter could be produced by demultiplexing the detectors behind a lenslet into one sub-image.
+31-1	2527-2538	Alternately	_	
+31-2	2538-2539	,	_	
+31-3	2540-2547	several	_	
+31-4	2548-2558	sub-images	_	
+31-5	2559-2562	for	_	
+31-6	2563-2566	one	_	
+31-7	2567-2573	filter	_	
+31-8	2574-2579	could	_	
+31-9	2580-2582	be	_	
+31-10	2583-2591	produced	_	
+31-11	2592-2594	by	_	
+31-12	2595-2609	demultiplexing	_	
+31-13	2610-2613	the	_	
+31-14	2614-2623	detectors	_	
+31-15	2624-2630	behind	_	
+31-16	2631-2632	a	_	
+31-17	2633-2640	lenslet	_	
+31-18	2641-2645	into	_	
+31-19	2646-2649	one	_	
+31-20	2650-2659	sub-image	_	
+31-21	2659-2660	.	_	
+
+#Text=If the second method is chosen, then further processing might be applied to better define the image quality metric.
+32-1	2661-2663	If	_	
+32-2	2664-2667	the	_	
+32-3	2668-2674	second	_	
+32-4	2675-2681	method	_	
+32-5	2682-2684	is	_	
+32-6	2685-2691	chosen	_	
+32-7	2691-2692	,	_	
+32-8	2693-2697	then	_	
+32-9	2698-2705	further	_	
+32-10	2706-2716	processing	_	
+32-11	2717-2722	might	_	
+32-12	2723-2725	be	_	
+32-13	2726-2733	applied	_	
+32-14	2734-2736	to	_	
+32-15	2737-2743	better	_	
+32-16	2744-2750	define	_	
+32-17	2751-2754	the	_	
+32-18	2755-2760	image	_	
+32-19	2761-2768	quality	_	
+32-20	2769-2775	metric	_	
+32-21	2775-2776	.	_	
+
+#Text=This additional processing could be averaging all the sub-images for a given filter, or choosing features that are best in each sub-image to define a "sharpest feature" image, a "highest SNR" image, etc.
+#Text=[0065] The following is another example method for determining the exposure condition corresponding to the position for the filter module.
+33-1	2777-2781	This	_	
+33-2	2782-2792	additional	_	
+33-3	2793-2803	processing	_	
+33-4	2804-2809	could	_	
+33-5	2810-2812	be	_	
+33-6	2813-2822	averaging	_	
+33-7	2823-2826	all	_	
+33-8	2827-2830	the	_	
+33-9	2831-2841	sub-images	_	
+33-10	2842-2845	for	_	
+33-11	2846-2847	a	_	
+33-12	2848-2853	given	_	
+33-13	2854-2860	filter	_	
+33-14	2860-2861	,	_	
+33-15	2862-2864	or	_	
+33-16	2865-2873	choosing	_	
+33-17	2874-2882	features	_	
+33-18	2883-2887	that	_	
+33-19	2888-2891	are	_	
+33-20	2892-2896	best	_	
+33-21	2897-2899	in	_	
+33-22	2900-2904	each	_	
+33-23	2905-2914	sub-image	_	
+33-24	2915-2917	to	_	
+33-25	2918-2924	define	_	
+33-26	2925-2926	a	_	
+33-27	2927-2928	"	_	
+33-28	2928-2936	sharpest	_	
+33-29	2937-2944	feature	_	
+33-30	2944-2945	"	_	
+33-31	2946-2951	image	_	
+33-32	2951-2952	,	_	
+33-33	2953-2954	a	_	
+33-34	2955-2956	"	_	
+33-35	2956-2963	highest	_	
+33-36	2964-2967	SNR	_	
+33-37	2967-2968	"	_	
+33-38	2969-2974	image	_	
+33-39	2974-2975	,	_	
+33-40	2976-2979	etc	_	
+33-41	2979-2980	.	_	
+33-42	2981-2982	[	_	
+33-43	2982-2986	0065	_	
+33-44	2986-2987	]	_	
+33-45	2988-2991	The	_	
+33-46	2992-3001	following	_	
+33-47	3002-3004	is	_	
+33-48	3005-3012	another	_	
+33-49	3013-3020	example	_	
+33-50	3021-3027	method	_	
+33-51	3028-3031	for	_	
+33-52	3032-3043	determining	_	
+33-53	3044-3047	the	_	
+33-54	3048-3056	exposure	_	
+33-55	3057-3066	condition	_	
+33-56	3067-3080	corresponding	_	
+33-57	3081-3083	to	_	
+33-58	3084-3087	the	_	
+33-59	3088-3096	position	_	
+33-60	3097-3100	for	_	
+33-61	3101-3104	the	_	
+33-62	3105-3111	filter	_	
+33-63	3112-3118	module	_	
+33-64	3118-3119	.	_	
+
+#Text=Let Q be the image quality metric.
+34-1	3120-3123	Let	_	
+34-2	3124-3125	Q	_	
+34-3	3126-3128	be	_	
+34-4	3129-3132	the	_	
+34-5	3133-3138	image	_	
+34-6	3139-3146	quality	_	
+34-7	3147-3153	metric	_	
+34-8	3153-3154	.	_	
+
+#Text=Assume there are K filters f.sub.k.
+35-1	3155-3161	Assume	_	
+35-2	3162-3167	there	_	
+35-3	3168-3171	are	_	
+35-4	3172-3173	K	_	
+35-5	3174-3181	filters	_	
+35-6	3182-3189	f.sub.k	_	
+35-7	3189-3190	.	_	
+
+#Text=In this example, there is an initial calibration (steps 1 and 2) before taking a sequence of images.
+36-1	3191-3193	In	_	
+36-2	3194-3198	this	_	
+36-3	3199-3206	example	_	
+36-4	3206-3207	,	_	
+36-5	3208-3213	there	_	
+36-6	3214-3216	is	_	
+36-7	3217-3219	an	_	
+36-8	3220-3227	initial	_	
+36-9	3228-3239	calibration	_	
+36-10	3240-3241	(	_	
+36-11	3241-3246	steps	_	
+36-12	3247-3248	1	_	
+36-13	3249-3252	and	_	
+36-14	3253-3254	2	_	
+36-15	3254-3255	)	_	
+36-16	3256-3262	before	_	
+36-17	3263-3269	taking	_	
+36-18	3270-3271	a	_	
+36-19	3272-3280	sequence	_	
+36-20	3281-3283	of	_	
+36-21	3284-3290	images	_	
+36-22	3290-3291	.	_	

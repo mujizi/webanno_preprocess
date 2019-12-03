@@ -1,0 +1,337 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=BACKGROUND OF THE INVENTION
+#Text=This invention pertains to the construction arts and, more particularly, to the construction of walls and ceilings using wallboard panels.
+1-1	0-10	BACKGROUND	_	_	
+1-2	11-13	OF	_	_	
+1-3	14-17	THE	_	_	
+1-4	18-27	INVENTION	_	_	
+1-5	28-32	This	_	_	
+1-6	33-42	invention	_	_	
+1-7	43-51	pertains	_	_	
+1-8	52-54	to	_	_	
+1-9	55-58	the	_	_	
+1-10	59-71	construction	_	_	
+1-11	72-76	arts	_	_	
+1-12	77-80	and	_	_	
+1-13	80-81	,	_	_	
+1-14	82-86	more	_	_	
+1-15	87-99	particularly	_	_	
+1-16	99-100	,	_	_	
+1-17	101-103	to	_	_	
+1-18	104-107	the	_	_	
+1-19	108-120	construction	_	_	
+1-20	121-123	of	_	_	
+1-21	124-129	walls	_	_	
+1-22	130-133	and	_	_	
+1-23	134-142	ceilings	_	_	
+1-24	143-148	using	_	_	
+1-25	149-158	wallboard	_	_	
+1-26	159-165	panels	_	_	
+1-27	165-166	.	_	_	
+
+#Text=These panels are usually rectangular -- a standard size, for example, being 4 .times. 12 feet.
+2-1	167-172	These	_	_	
+2-2	173-179	panels	_	_	
+2-3	180-183	are	_	_	
+2-4	184-191	usually	_	_	
+2-5	192-203	rectangular	_	_	
+2-6	204-205	-	_	_	
+2-7	205-206	-	_	_	
+2-8	207-208	a	_	_	
+2-9	209-217	standard	_	_	
+2-10	218-222	size	_	_	
+2-11	222-223	,	_	_	
+2-12	224-227	for	_	_	
+2-13	228-235	example	_	_	
+2-14	235-236	,	_	_	
+2-15	237-242	being	_	_	
+2-16	243-244	4	_	_	
+2-17	245-246	.	_	_	
+2-18	246-251	times	_	_	
+2-19	251-252	.	_	_	
+2-20	253-255	12	_	_	
+2-21	256-260	feet	_	_	
+2-22	260-261	.	_	_	
+
+#Text=The surfaces along the longer edges are usually recessed for receiving tape.
+3-1	262-265	The	_	_	
+3-2	266-274	surfaces	_	_	
+3-3	275-280	along	_	_	
+3-4	281-284	the	_	_	
+3-5	285-291	longer	_	_	
+3-6	292-297	edges	_	_	
+3-7	298-301	are	_	_	
+3-8	302-309	usually	_	_	
+3-9	310-318	recessed	_	_	
+3-10	319-322	for	_	_	
+3-11	323-332	receiving	_	_	
+3-12	333-337	tape	_	_	
+3-13	337-338	.	_	_	
+
+#Text=Thus, the finished wall surface along these edges is normally smooth and flat.
+4-1	339-343	Thus	_	_	
+4-2	343-344	,	_	_	
+4-3	345-348	the	_	_	
+4-4	349-357	finished	_	_	
+4-5	358-362	wall	_	_	
+4-6	363-370	surface	_	_	
+4-7	371-376	along	_	_	
+4-8	377-382	these	_	_	
+4-9	383-388	edges	_	_	
+4-10	389-391	is	_	_	
+4-11	392-400	normally	_	_	
+4-12	401-407	smooth	_	_	
+4-13	408-411	and	_	_	
+4-14	412-416	flat	_	_	
+4-15	416-417	.	_	_	
+
+#Text=The shorter edges, however, are not so recessed, nor are the edges which result from cutting the panels on the job.
+5-1	418-421	The	*[1]	8-10[2_1]	
+5-2	422-429	shorter	*[1]	_	
+5-3	430-435	edges	*[1]	_	
+5-4	435-436	,	*[1]	_	
+5-5	437-444	however	*[1]	_	
+5-6	444-445	,	*[1]	_	
+5-7	446-449	are	*[1]	_	
+5-8	450-453	not	*[1]	_	
+5-9	454-456	so	*[1]	_	
+5-10	457-465	recessed	*[1]	_	
+5-11	465-466	,	*[1]	_	
+5-12	467-470	nor	*[1]	_	
+5-13	471-474	are	*[1]	_	
+5-14	475-478	the	*[1]	_	
+5-15	479-484	edges	*[1]	_	
+5-16	485-490	which	*[1]	_	
+5-17	491-497	result	*[1]	_	
+5-18	498-502	from	*[1]	_	
+5-19	503-510	cutting	*[1]	_	
+5-20	511-514	the	*[1]	_	
+5-21	515-521	panels	*[1]	_	
+5-22	522-524	on	*[1]	_	
+5-23	525-528	the	*[1]	_	
+5-24	529-532	job	*[1]	_	
+5-25	532-533	.	*[1]	_	
+
+#Text=It has been customary in the art to butt these edges on a joist to which both panels can be secured by nailing or adhesive.
+6-1	534-536	It	_	_	
+6-2	537-540	has	_	_	
+6-3	541-545	been	_	_	
+6-4	546-555	customary	_	_	
+6-5	556-558	in	_	_	
+6-6	559-562	the	_	_	
+6-7	563-566	art	_	_	
+6-8	567-569	to	_	_	
+6-9	570-574	butt	_	_	
+6-10	575-580	these	_	_	
+6-11	581-586	edges	_	_	
+6-12	587-589	on	_	_	
+6-13	590-591	a	_	_	
+6-14	592-597	joist	_	_	
+6-15	598-600	to	_	_	
+6-16	601-606	which	_	_	
+6-17	607-611	both	_	_	
+6-18	612-618	panels	_	_	
+6-19	619-622	can	_	_	
+6-20	623-625	be	_	_	
+6-21	626-633	secured	_	_	
+6-22	634-636	by	_	_	
+6-23	637-644	nailing	_	_	
+6-24	645-647	or	_	_	
+6-25	648-656	adhesive	_	_	
+6-26	656-657	.	_	_	
+
+#Text=Subsequent taping and finishing, however, form a ridge which is particularly noticeable under conditions of oblique lighting.
+7-1	658-668	Subsequent	_	_	
+7-2	669-675	taping	_	_	
+7-3	676-679	and	_	_	
+7-4	680-689	finishing	_	_	
+7-5	689-690	,	_	_	
+7-6	691-698	however	_	_	
+7-7	698-699	,	_	_	
+7-8	700-704	form	_	_	
+7-9	705-706	a	_	_	
+7-10	707-712	ridge	_	_	
+7-11	713-718	which	_	_	
+7-12	719-721	is	_	_	
+7-13	722-734	particularly	_	_	
+7-14	735-745	noticeable	_	_	
+7-15	746-751	under	_	_	
+7-16	752-762	conditions	_	_	
+7-17	763-765	of	_	_	
+7-18	766-773	oblique	_	_	
+7-19	774-782	lighting	_	_	
+7-20	782-783	.	_	_	
+
+#Text=It has been proposed in the past to obviate this problem by forming the joint between joists while bending the ends of the panels inwardly at the joint to form a depression which can then be built out to the wall surface.
+8-1	784-786	It	_	_	
+8-2	787-790	has	_	_	
+8-3	791-795	been	_	_	
+8-4	796-804	proposed	_	_	
+8-5	805-807	in	_	_	
+8-6	808-811	the	_	_	
+8-7	812-816	past	_	_	
+8-8	817-819	to	_	_	
+8-9	820-827	obviate	_	_	
+8-10	828-832	this	*[2]	_	
+8-11	833-840	problem	*[2]	_	
+8-12	841-843	by	_	_	
+8-13	844-851	forming	_	_	
+8-14	852-855	the	_	_	
+8-15	856-861	joint	_	_	
+8-16	862-869	between	_	_	
+8-17	870-876	joists	_	_	
+8-18	877-882	while	_	_	
+8-19	883-890	bending	_	_	
+8-20	891-894	the	_	_	
+8-21	895-899	ends	_	_	
+8-22	900-902	of	_	_	
+8-23	903-906	the	_	_	
+8-24	907-913	panels	_	_	
+8-25	914-922	inwardly	_	_	
+8-26	923-925	at	_	_	
+8-27	926-929	the	_	_	
+8-28	930-935	joint	_	_	
+8-29	936-938	to	_	_	
+8-30	939-943	form	_	_	
+8-31	944-945	a	_	_	
+8-32	946-956	depression	_	_	
+8-33	957-962	which	_	_	
+8-34	963-966	can	_	_	
+8-35	967-971	then	_	_	
+8-36	972-974	be	_	_	
+8-37	975-980	built	_	_	
+8-38	981-984	out	_	_	
+8-39	985-987	to	_	_	
+8-40	988-991	the	_	_	
+8-41	992-996	wall	_	_	
+8-42	997-1004	surface	_	_	
+8-43	1004-1005	.	_	_	
+
+#Text=However, this requires a two-step process including the construction of a "back block" between joists to which adhesive is applied.
+9-1	1006-1013	However	_	_	
+9-2	1013-1014	,	_	_	
+9-3	1015-1019	this	_	_	
+9-4	1020-1028	requires	_	_	
+9-5	1029-1030	a	_	_	
+9-6	1031-1039	two-step	_	_	
+9-7	1040-1047	process	_	_	
+9-8	1048-1057	including	_	_	
+9-9	1058-1061	the	_	_	
+9-10	1062-1074	construction	_	_	
+9-11	1075-1077	of	_	_	
+9-12	1078-1079	a	_	_	
+9-13	1080-1081	"	_	_	
+9-14	1081-1085	back	_	_	
+9-15	1086-1091	block	_	_	
+9-16	1091-1092	"	_	_	
+9-17	1093-1100	between	_	_	
+9-18	1101-1107	joists	_	_	
+9-19	1108-1110	to	_	_	
+9-20	1111-1116	which	_	_	
+9-21	1117-1125	adhesive	_	_	
+9-22	1126-1128	is	_	_	
+9-23	1129-1136	applied	_	_	
+9-24	1136-1137	.	_	_	
+
+#Text=The panels are then installed and the abutting edges pressed inwardly against the adhesive until it sets.
+10-1	1138-1141	The	_	_	
+10-2	1142-1148	panels	_	_	
+10-3	1149-1152	are	_	_	
+10-4	1153-1157	then	_	_	
+10-5	1158-1167	installed	_	_	
+10-6	1168-1171	and	_	_	
+10-7	1172-1175	the	_	_	
+10-8	1176-1184	abutting	_	_	
+10-9	1185-1190	edges	_	_	
+10-10	1191-1198	pressed	_	_	
+10-11	1199-1207	inwardly	_	_	
+10-12	1208-1215	against	_	_	
+10-13	1216-1219	the	_	_	
+10-14	1220-1228	adhesive	_	_	
+10-15	1229-1234	until	_	_	
+10-16	1235-1237	it	_	_	
+10-17	1238-1242	sets	_	_	
+10-18	1242-1243	.	_	_	
+
+#Text=Accordingly, it is the primary object of this invention to provide a simplified wall or ceiling construction which eliminates the ridge formed at butt joints.
+11-1	1244-1255	Accordingly	_	_	
+11-2	1255-1256	,	_	_	
+11-3	1257-1259	it	_	_	
+11-4	1260-1262	is	_	_	
+11-5	1263-1266	the	_	_	
+11-6	1267-1274	primary	_	_	
+11-7	1275-1281	object	_	_	
+11-8	1282-1284	of	_	_	
+11-9	1285-1289	this	_	_	
+11-10	1290-1299	invention	_	_	
+11-11	1300-1302	to	_	_	
+11-12	1303-1310	provide	_	_	
+11-13	1311-1312	a	_	_	
+11-14	1313-1323	simplified	_	_	
+11-15	1324-1328	wall	_	_	
+11-16	1329-1331	or	_	_	
+11-17	1332-1339	ceiling	_	_	
+11-18	1340-1352	construction	_	_	
+11-19	1353-1358	which	_	_	
+11-20	1359-1369	eliminates	_	_	
+11-21	1370-1373	the	_	_	
+11-22	1374-1379	ridge	_	_	
+11-23	1380-1386	formed	_	_	
+11-24	1387-1389	at	_	_	
+11-25	1390-1394	butt	_	_	
+11-26	1395-1401	joints	_	_	
+11-27	1401-1402	.	_	_	
+
+#Text=Other objects are to provide such a construction which employs inexpensive clips which are readily installed on the job.
+12-1	1403-1408	Other	_	_	
+12-2	1409-1416	objects	_	_	
+12-3	1417-1420	are	_	_	
+12-4	1421-1423	to	_	_	
+12-5	1424-1431	provide	_	_	
+12-6	1432-1436	such	_	_	
+12-7	1437-1438	a	_	_	
+12-8	1439-1451	construction	_	_	
+12-9	1452-1457	which	_	_	
+12-10	1458-1465	employs	_	_	
+12-11	1466-1477	inexpensive	_	_	
+12-12	1478-1483	clips	_	_	
+12-13	1484-1489	which	_	_	
+12-14	1490-1493	are	_	_	
+12-15	1494-1501	readily	_	_	
+12-16	1502-1511	installed	_	_	
+12-17	1512-1514	on	_	_	
+12-18	1515-1518	the	_	_	
+12-19	1519-1522	job	_	_	
+12-20	1522-1523	.	_	_	
+
+#Text=Other objects, features, and advantages will be readily apparent from the following description and the appended claims.
+13-1	1524-1529	Other	_	_	
+13-2	1530-1537	objects	_	_	
+13-3	1537-1538	,	_	_	
+13-4	1539-1547	features	_	_	
+13-5	1547-1548	,	_	_	
+13-6	1549-1552	and	_	_	
+13-7	1553-1563	advantages	_	_	
+13-8	1564-1568	will	_	_	
+13-9	1569-1571	be	_	_	
+13-10	1572-1579	readily	_	_	
+13-11	1580-1588	apparent	_	_	
+13-12	1589-1593	from	_	_	
+13-13	1594-1597	the	_	_	
+13-14	1598-1607	following	_	_	
+13-15	1608-1619	description	_	_	
+13-16	1620-1623	and	_	_	
+13-17	1624-1627	the	_	_	
+13-18	1628-1636	appended	_	_	
+13-19	1637-1643	claims	_	_	
+13-20	1643-1644	.	_	_	
+
+#Text=SUMMARY OF THE INVENTION
+14-1	1645-1652	SUMMARY	_	_	
+14-2	1653-1655	OF	_	_	
+14-3	1656-1659	THE	_	_	
+14-4	1660-1669	INVENTION	_	_	

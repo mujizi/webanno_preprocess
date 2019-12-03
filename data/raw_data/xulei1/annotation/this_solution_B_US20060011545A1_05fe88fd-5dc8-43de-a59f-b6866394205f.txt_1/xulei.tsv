@@ -1,0 +1,343 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=[0109] FIG. 4 illustrates the individual filtration steps with raising or lowering of the bags 12 and 54, the direction of flow in the plasma filter 28 being indicated by an arrow.
+#Text=[0110] Moreover, the arrangement 70 according to FIG. 3 can be provided with a bag 72 containing an additive solution.
+1-1	0-1	[	_	_	
+1-2	1-5	0109	_	_	
+1-3	5-6	]	_	_	
+1-4	7-10	FIG	_	_	
+1-5	10-11	.	_	_	
+1-6	12-13	4	_	_	
+1-7	14-25	illustrates	_	_	
+1-8	26-29	the	_	_	
+1-9	30-40	individual	_	_	
+1-10	41-51	filtration	_	_	
+1-11	52-57	steps	_	_	
+1-12	58-62	with	_	_	
+1-13	63-70	raising	_	_	
+1-14	71-73	or	_	_	
+1-15	74-82	lowering	_	_	
+1-16	83-85	of	_	_	
+1-17	86-89	the	_	_	
+1-18	90-94	bags	_	_	
+1-19	95-97	12	_	_	
+1-20	98-101	and	_	_	
+1-21	102-104	54	_	_	
+1-22	104-105	,	_	_	
+1-23	106-109	the	_	_	
+1-24	110-119	direction	_	_	
+1-25	120-122	of	_	_	
+1-26	123-127	flow	_	_	
+1-27	128-130	in	_	_	
+1-28	131-134	the	_	_	
+1-29	135-141	plasma	_	_	
+1-30	142-148	filter	_	_	
+1-31	149-151	28	_	_	
+1-32	152-157	being	_	_	
+1-33	158-167	indicated	_	_	
+1-34	168-170	by	_	_	
+1-35	171-173	an	_	_	
+1-36	174-179	arrow	_	_	
+1-37	179-180	.	_	_	
+1-38	181-182	[	_	_	
+1-39	182-186	0110	_	_	
+1-40	186-187	]	_	_	
+1-41	188-196	Moreover	_	_	
+1-42	196-197	,	_	_	
+1-43	198-201	the	_	_	
+1-44	202-213	arrangement	_	_	
+1-45	214-216	70	_	_	
+1-46	217-226	according	_	_	
+1-47	227-229	to	_	_	
+1-48	230-233	FIG	_	_	
+1-49	233-234	.	_	_	
+1-50	235-236	3	_	_	
+1-51	237-240	can	_	_	
+1-52	241-243	be	_	_	
+1-53	244-252	provided	_	_	
+1-54	253-257	with	_	_	
+1-55	258-259	a	_	_	
+1-56	260-263	bag	_	_	
+1-57	264-266	72	_	_	
+1-58	267-277	containing	_	_	
+1-59	278-280	an	_	_	
+1-60	281-289	additive	_	_	
+1-61	290-298	solution	_	_	
+1-62	298-299	.	_	_	
+
+#Text=The bag 72 is connected to the whole-blood bag 12 via a closable line 71.
+2-1	300-303	The	_	_	
+2-2	304-307	bag	_	_	
+2-3	308-310	72	_	_	
+2-4	311-313	is	_	_	
+2-5	314-323	connected	_	_	
+2-6	324-326	to	_	_	
+2-7	327-330	the	_	_	
+2-8	331-342	whole-blood	_	_	
+2-9	343-346	bag	_	_	
+2-10	347-349	12	_	_	
+2-11	350-353	via	_	_	
+2-12	354-355	a	_	_	
+2-13	356-364	closable	_	_	
+2-14	365-369	line	_	_	
+2-15	370-372	71	_	_	
+2-16	372-373	.	_	_	
+
+#Text=At the end of the filtration procedure, therefore, the erythrocyte concentrate contained in the whole-blood bag 12 can be set to a predetermined hematocrit value with the additive solution.
+#Text=[0111] Finally, in a further embodiment, a saline solution is provided in a further bag 74 which is connected to the whole-blood bag-via a line 73.
+3-1	374-376	At	_	_	
+3-2	377-380	the	_	_	
+3-3	381-384	end	_	_	
+3-4	385-387	of	_	_	
+3-5	388-391	the	_	_	
+3-6	392-402	filtration	_	_	
+3-7	403-412	procedure	_	_	
+3-8	412-413	,	_	_	
+3-9	414-423	therefore	_	_	
+3-10	423-424	,	_	_	
+3-11	425-428	the	_	_	
+3-12	429-440	erythrocyte	_	_	
+3-13	441-452	concentrate	_	_	
+3-14	453-462	contained	_	_	
+3-15	463-465	in	_	_	
+3-16	466-469	the	_	_	
+3-17	470-481	whole-blood	_	_	
+3-18	482-485	bag	_	_	
+3-19	486-488	12	_	_	
+3-20	489-492	can	_	_	
+3-21	493-495	be	_	_	
+3-22	496-499	set	_	_	
+3-23	500-502	to	_	_	
+3-24	503-504	a	_	_	
+3-25	505-518	predetermined	_	_	
+3-26	519-529	hematocrit	_	_	
+3-27	530-535	value	_	_	
+3-28	536-540	with	_	_	
+3-29	541-544	the	_	_	
+3-30	545-553	additive	_	_	
+3-31	554-562	solution	_	_	
+3-32	562-563	.	_	_	
+3-33	564-565	[	*[1]	4-1[2_1]	
+3-34	565-569	0111	*[1]	_	
+3-35	569-570	]	*[1]	_	
+3-36	571-578	Finally	*[1]	_	
+3-37	578-579	,	*[1]	_	
+3-38	580-582	in	*[1]	_	
+3-39	583-584	a	*[1]	_	
+3-40	585-592	further	*[1]	_	
+3-41	593-603	embodiment	*[1]	_	
+3-42	603-604	,	*[1]	_	
+3-43	605-606	a	*[1]	_	
+3-44	607-613	saline	*[1]	_	
+3-45	614-622	solution	*[1]	_	
+3-46	623-625	is	*[1]	_	
+3-47	626-634	provided	*[1]	_	
+3-48	635-637	in	*[1]	_	
+3-49	638-639	a	*[1]	_	
+3-50	640-647	further	*[1]	_	
+3-51	648-651	bag	*[1]	_	
+3-52	652-654	74	*[1]	_	
+3-53	655-660	which	*[1]	_	
+3-54	661-663	is	*[1]	_	
+3-55	664-673	connected	*[1]	_	
+3-56	674-676	to	*[1]	_	
+3-57	677-680	the	*[1]	_	
+3-58	681-692	whole-blood	*[1]	_	
+3-59	693-700	bag-via	*[1]	_	
+3-60	701-702	a	*[1]	_	
+3-61	703-707	line	*[1]	_	
+3-62	708-710	73	*[1]	_	
+3-63	710-711	.	*[1]	_	
+
+#Text=This solution can be used to wash the erythrocyte concentrate in the whole-blood bag 12, by which means the plasma content can be lowered.
+4-1	712-716	This	*[2]	_	
+4-2	717-725	solution	*[2]	_	
+4-3	726-729	can	_	_	
+4-4	730-732	be	_	_	
+4-5	733-737	used	_	_	
+4-6	738-740	to	_	_	
+4-7	741-745	wash	_	_	
+4-8	746-749	the	_	_	
+4-9	750-761	erythrocyte	_	_	
+4-10	762-773	concentrate	_	_	
+4-11	774-776	in	_	_	
+4-12	777-780	the	_	_	
+4-13	781-792	whole-blood	_	_	
+4-14	793-796	bag	_	_	
+4-15	797-799	12	_	_	
+4-16	799-800	,	_	_	
+4-17	801-803	by	_	_	
+4-18	804-809	which	_	_	
+4-19	810-815	means	_	_	
+4-20	816-819	the	_	_	
+4-21	820-826	plasma	_	_	
+4-22	827-834	content	_	_	
+4-23	835-838	can	_	_	
+4-24	839-841	be	_	_	
+4-25	842-849	lowered	_	_	
+4-26	849-850	.	_	_	
+
+#Text=As has already been described above, saline solution is fed into the whole-blood bag 12 via the line 73 and then mixed with the erythrocyte concentrate.
+5-1	851-853	As	_	_	
+5-2	854-857	has	_	_	
+5-3	858-865	already	_	_	
+5-4	866-870	been	_	_	
+5-5	871-880	described	_	_	
+5-6	881-886	above	_	_	
+5-7	886-887	,	_	_	
+5-8	888-894	saline	_	_	
+5-9	895-903	solution	_	_	
+5-10	904-906	is	_	_	
+5-11	907-910	fed	_	_	
+5-12	911-915	into	_	_	
+5-13	916-919	the	_	_	
+5-14	920-931	whole-blood	_	_	
+5-15	932-935	bag	_	_	
+5-16	936-938	12	_	_	
+5-17	939-942	via	_	_	
+5-18	943-946	the	_	_	
+5-19	947-951	line	_	_	
+5-20	952-954	73	_	_	
+5-21	955-958	and	_	_	
+5-22	959-963	then	_	_	
+5-23	964-969	mixed	_	_	
+5-24	970-974	with	_	_	
+5-25	975-978	the	_	_	
+5-26	979-990	erythrocyte	_	_	
+5-27	991-1002	concentrate	_	_	
+5-28	1002-1003	.	_	_	
+
+#Text=Thereafter, renewed filtration under gravitational force takes place through the plasma filter 28.
+6-1	1004-1014	Thereafter	_	_	
+6-2	1014-1015	,	_	_	
+6-3	1016-1023	renewed	_	_	
+6-4	1024-1034	filtration	_	_	
+6-5	1035-1040	under	_	_	
+6-6	1041-1054	gravitational	_	_	
+6-7	1055-1060	force	_	_	
+6-8	1061-1066	takes	_	_	
+6-9	1067-1072	place	_	_	
+6-10	1073-1080	through	_	_	
+6-11	1081-1084	the	_	_	
+6-12	1085-1091	plasma	_	_	
+6-13	1092-1098	filter	_	_	
+6-14	1099-1101	28	_	_	
+6-15	1101-1102	.	_	_	
+
+#Text=Additive solution, as has been described above, is then added to the concentrate.
+7-1	1103-1111	Additive	_	_	
+7-2	1112-1120	solution	_	_	
+7-3	1120-1121	,	_	_	
+7-4	1122-1124	as	_	_	
+7-5	1125-1128	has	_	_	
+7-6	1129-1133	been	_	_	
+7-7	1134-1143	described	_	_	
+7-8	1144-1149	above	_	_	
+7-9	1149-1150	,	_	_	
+7-10	1151-1153	is	_	_	
+7-11	1154-1158	then	_	_	
+7-12	1159-1164	added	_	_	
+7-13	1165-1167	to	_	_	
+7-14	1168-1171	the	_	_	
+7-15	1172-1183	concentrate	_	_	
+7-16	1183-1184	.	_	_	
+
+#Text=EXAMPLE
+#Text=[0112] 552 g of whole blood (hematocrit 40.8%), which has been stored for 30 minutes after withdrawal from a donor, are subjected to plasma separation at 26.degree.
+8-1	1185-1192	EXAMPLE	_	_	
+8-2	1193-1194	[	_	_	
+8-3	1194-1198	0112	_	_	
+8-4	1198-1199	]	_	_	
+8-5	1200-1203	552	_	_	
+8-6	1204-1205	g	_	_	
+8-7	1206-1208	of	_	_	
+8-8	1209-1214	whole	_	_	
+8-9	1215-1220	blood	_	_	
+8-10	1221-1222	(	_	_	
+8-11	1222-1232	hematocrit	_	_	
+8-12	1233-1238	40.8%	_	_	
+8-13	1238-1239	)	_	_	
+8-14	1239-1240	,	_	_	
+8-15	1241-1246	which	_	_	
+8-16	1247-1250	has	_	_	
+8-17	1251-1255	been	_	_	
+8-18	1256-1262	stored	_	_	
+8-19	1263-1266	for	_	_	
+8-20	1267-1269	30	_	_	
+8-21	1270-1277	minutes	_	_	
+8-22	1278-1283	after	_	_	
+8-23	1284-1294	withdrawal	_	_	
+8-24	1295-1299	from	_	_	
+8-25	1300-1301	a	_	_	
+8-26	1302-1307	donor	_	_	
+8-27	1307-1308	,	_	_	
+8-28	1309-1312	are	_	_	
+8-29	1313-1322	subjected	_	_	
+8-30	1323-1325	to	_	_	
+8-31	1326-1332	plasma	_	_	
+8-32	1333-1343	separation	_	_	
+8-33	1344-1346	at	_	_	
+8-34	1347-1349	26	_	_	
+8-35	1349-1350	.	_	_	
+8-36	1350-1356	degree	_	_	
+8-37	1356-1357	.	_	_	
+
+#Text=C.
+9-1	1358-1359	C	_	_	
+9-2	1359-1360	.	_	_	
+
+#Text=The whole blood is first passed through a leukocyte filter and freed of leukocytes outside the filtration system (cf.
+10-1	1361-1364	The	_	_	
+10-2	1365-1370	whole	_	_	
+10-3	1371-1376	blood	_	_	
+10-4	1377-1379	is	_	_	
+10-5	1380-1385	first	_	_	
+10-6	1386-1392	passed	_	_	
+10-7	1393-1400	through	_	_	
+10-8	1401-1402	a	_	_	
+10-9	1403-1412	leukocyte	_	_	
+10-10	1413-1419	filter	_	_	
+10-11	1420-1423	and	_	_	
+10-12	1424-1429	freed	_	_	
+10-13	1430-1432	of	_	_	
+10-14	1433-1443	leukocytes	_	_	
+10-15	1444-1451	outside	_	_	
+10-16	1452-1455	the	_	_	
+10-17	1456-1466	filtration	_	_	
+10-18	1467-1473	system	_	_	
+10-19	1474-1475	(	_	_	
+10-20	1475-1477	cf	_	_	
+10-21	1477-1478	.	_	_	
+
+#Text=FIG. 3).
+11-1	1479-1482	FIG	_	_	
+11-2	1482-1483	.	_	_	
+11-3	1484-1485	3	_	_	
+11-4	1485-1486	)	_	_	
+11-5	1486-1487	.	_	_	
+
+#Text=Thereafter, the plasma separation is then conducted at temperatures of 32-26.degree.
+12-1	1488-1498	Thereafter	_	_	
+12-2	1498-1499	,	_	_	
+12-3	1500-1503	the	_	_	
+12-4	1504-1510	plasma	_	_	
+12-5	1511-1521	separation	_	_	
+12-6	1522-1524	is	_	_	
+12-7	1525-1529	then	_	_	
+12-8	1530-1539	conducted	_	_	
+12-9	1540-1542	at	_	_	
+12-10	1543-1555	temperatures	_	_	
+12-11	1556-1558	of	_	_	
+12-12	1559-1561	32	_	_	
+12-13	1561-1562	-	_	_	
+12-14	1562-1564	26	_	_	
+12-15	1564-1565	.	_	_	
+12-16	1565-1571	degree	_	_	
+12-17	1571-1572	.	_	_	
+
+#Text=C.
+13-1	1573-1574	C	_	_	
+13-2	1574-1575	.	_	_	

@@ -1,0 +1,235 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=Accelerated stability studies were conducted for the above formulation.
+1-1	0-11	Accelerated	
+1-2	12-21	stability	
+1-3	22-29	studies	
+1-4	30-34	were	
+1-5	35-44	conducted	
+1-6	45-48	for	
+1-7	49-52	the	
+1-8	53-58	above	
+1-9	59-70	formulation	
+1-10	70-71	.	
+
+#Text=In order to remain within the definition of stability for a PVP-I solution as defined in the USP for 0.3% PVP-I solutions, the maximum allowable limits for the above formulation was 0.36% PVP-I and minimum was 0.25% PVP-I.
+2-1	72-74	In	
+2-2	75-80	order	
+2-3	81-83	to	
+2-4	84-90	remain	
+2-5	91-97	within	
+2-6	98-101	the	
+2-7	102-112	definition	
+2-8	113-115	of	
+2-9	116-125	stability	
+2-10	126-129	for	
+2-11	130-131	a	
+2-12	132-137	PVP-I	
+2-13	138-146	solution	
+2-14	147-149	as	
+2-15	150-157	defined	
+2-16	158-160	in	
+2-17	161-164	the	
+2-18	165-168	USP	
+2-19	169-172	for	
+2-20	173-177	0.3%	
+2-21	178-183	PVP-I	
+2-22	184-193	solutions	
+2-23	193-194	,	
+2-24	195-198	the	
+2-25	199-206	maximum	
+2-26	207-216	allowable	
+2-27	217-223	limits	
+2-28	224-227	for	
+2-29	228-231	the	
+2-30	232-237	above	
+2-31	238-249	formulation	
+2-32	250-253	was	
+2-33	254-259	0.36%	
+2-34	260-265	PVP-I	
+2-35	266-269	and	
+2-36	270-277	minimum	
+2-37	278-281	was	
+2-38	282-287	0.25%	
+2-39	288-293	PVP-I	
+2-40	293-294	.	
+
+#Text=Thus, stability of a 0.30% solution should be above 0.25% PVP-I (or 0.025% available iodine) to be considered stable.
+3-1	295-299	Thus	
+3-2	299-300	,	
+3-3	301-310	stability	
+3-4	311-313	of	
+3-5	314-315	a	
+3-6	316-321	0.30%	
+3-7	322-330	solution	
+3-8	331-337	should	
+3-9	338-340	be	
+3-10	341-346	above	
+3-11	347-352	0.25%	
+3-12	353-358	PVP-I	
+3-13	359-360	(	
+3-14	360-362	or	
+3-15	363-369	0.025%	
+3-16	370-379	available	
+3-17	380-386	iodine	
+3-18	386-387	)	
+3-19	388-390	to	
+3-20	391-393	be	
+3-21	394-404	considered	
+3-22	405-411	stable	
+3-23	411-412	.	
+
+#Text=The formulation fell below this level after three months at room temperature, and after one month at 40.degree.
+4-1	413-416	The	
+4-2	417-428	formulation	
+4-3	429-433	fell	
+4-4	434-439	below	
+4-5	440-444	this	
+4-6	445-450	level	
+4-7	451-456	after	
+4-8	457-462	three	
+4-9	463-469	months	
+4-10	470-472	at	
+4-11	473-477	room	
+4-12	478-489	temperature	
+4-13	489-490	,	
+4-14	491-494	and	
+4-15	495-500	after	
+4-16	501-504	one	
+4-17	505-510	month	
+4-18	511-513	at	
+4-19	514-516	40	
+4-20	516-517	.	
+4-21	517-523	degree	
+4-22	523-524	.	
+
+#Text=C. and 80% relative humidity.
+5-1	525-526	C	
+5-2	526-527	.	
+5-3	528-531	and	
+5-4	532-535	80%	
+5-5	536-544	relative	
+5-6	545-553	humidity	
+5-7	553-554	.	
+
+#Text=Therefore, the stability of these solutions in glass bottles cannot be maintained.
+6-1	555-564	Therefore	
+6-2	564-565	,	
+6-3	566-569	the	
+6-4	570-579	stability	
+6-5	580-582	of	
+6-6	583-588	these	
+6-7	589-598	solutions	
+6-8	599-601	in	
+6-9	602-607	glass	
+6-10	608-615	bottles	
+6-11	616-622	cannot	
+6-12	623-625	be	
+6-13	626-636	maintained	
+6-14	636-637	.	
+
+#Text=EXAMPLE 2
+#Text=A non-isotonic 0.3% PVP-I solution was prepared which was not buffered at the above pH of 5.4, but only with adjusting the pH at 4.0.
+7-1	638-645	EXAMPLE	
+7-2	646-647	2	
+7-3	648-649	A	
+7-4	650-662	non-isotonic	
+7-5	663-667	0.3%	
+7-6	668-673	PVP-I	
+7-7	674-682	solution	
+7-8	683-686	was	
+7-9	687-695	prepared	
+7-10	696-701	which	
+7-11	702-705	was	
+7-12	706-709	not	
+7-13	710-718	buffered	
+7-14	719-721	at	
+7-15	722-725	the	
+7-16	726-731	above	
+7-17	732-734	pH	
+7-18	735-737	of	
+7-19	738-741	5.4	
+7-20	741-742	,	
+7-21	743-746	but	
+7-22	747-751	only	
+7-23	752-756	with	
+7-24	757-766	adjusting	
+7-25	767-770	the	
+7-26	771-773	pH	
+7-27	774-776	at	
+7-28	777-780	4.0	
+7-29	780-781	.	
+
+#Text=The formula for this solution was as follows:
+#Text=Three batches of the above formula were made and tested for stability.
+8-1	782-785	The	
+8-2	786-793	formula	
+8-3	794-797	for	
+8-4	798-802	this	
+8-5	803-811	solution	
+8-6	812-815	was	
+8-7	816-818	as	
+8-8	819-826	follows	
+8-9	826-827	:	
+8-10	828-833	Three	
+8-11	834-841	batches	
+8-12	842-844	of	
+8-13	845-848	the	
+8-14	849-854	above	
+8-15	855-862	formula	
+8-16	863-867	were	
+8-17	868-872	made	
+8-18	873-876	and	
+8-19	877-883	tested	
+8-20	884-887	for	
+8-21	888-897	stability	
+8-22	897-898	.	
+
+#Text=The results are provided in Table 3 below.
+9-1	899-902	The	
+9-2	903-910	results	
+9-3	911-914	are	
+9-4	915-923	provided	
+9-5	924-926	in	
+9-6	927-932	Table	
+9-7	933-934	3	
+9-8	935-940	below	
+9-9	940-941	.	
+
+#Text=Surprisingly, it was discovered that stability of the PVP-I solution was maintained for a period of 3 years, in amber glass bottles, using the USP allowable overage of 20% extra PVP-I.
+10-1	942-954	Surprisingly	
+10-2	954-955	,	
+10-3	956-958	it	
+10-4	959-962	was	
+10-5	963-973	discovered	
+10-6	974-978	that	
+10-7	979-988	stability	
+10-8	989-991	of	
+10-9	992-995	the	
+10-10	996-1001	PVP-I	
+10-11	1002-1010	solution	
+10-12	1011-1014	was	
+10-13	1015-1025	maintained	
+10-14	1026-1029	for	
+10-15	1030-1031	a	
+10-16	1032-1038	period	
+10-17	1039-1041	of	
+10-18	1042-1043	3	
+10-19	1044-1049	years	
+10-20	1049-1050	,	
+10-21	1051-1053	in	
+10-22	1054-1059	amber	
+10-23	1060-1065	glass	
+10-24	1066-1073	bottles	
+10-25	1073-1074	,	
+10-26	1075-1080	using	
+10-27	1081-1084	the	
+10-28	1085-1088	USP	
+10-29	1089-1098	allowable	
+10-30	1099-1106	overage	
+10-31	1107-1109	of	
+10-32	1110-1113	20%	
+10-33	1114-1119	extra	
+10-34	1120-1125	PVP-I	
+10-35	1125-1126	.	

@@ -1,0 +1,296 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=2.
+1-1	0-1	2	_	_	
+1-2	1-2	.	_	_	
+
+#Text=Description of the Prior Art
+#Text=Roughly 700,000 patients die from heart disease in the U.S. each year and 35,000 to 70,000 of these could benefit from mechanical circulatory support or a heart transplant.
+2-1	3-14	Description	_	_	
+2-2	15-17	of	_	_	
+2-3	18-21	the	_	_	
+2-4	22-27	Prior	_	_	
+2-5	28-31	Art	_	_	
+2-6	32-39	Roughly	_	_	
+2-7	40-47	700,000	_	_	
+2-8	48-56	patients	_	_	
+2-9	57-60	die	_	_	
+2-10	61-65	from	_	_	
+2-11	66-71	heart	_	_	
+2-12	72-79	disease	_	_	
+2-13	80-82	in	_	_	
+2-14	83-86	the	_	_	
+2-15	87-90	U.S	_	_	
+2-16	90-91	.	_	_	
+2-17	92-96	each	_	_	
+2-18	97-101	year	_	_	
+2-19	102-105	and	_	_	
+2-20	106-112	35,000	_	_	
+2-21	113-115	to	_	_	
+2-22	116-122	70,000	_	_	
+2-23	123-125	of	_	_	
+2-24	126-131	these	_	_	
+2-25	132-137	could	_	_	
+2-26	138-145	benefit	_	_	
+2-27	146-150	from	_	_	
+2-28	151-161	mechanical	_	_	
+2-29	162-173	circulatory	_	_	
+2-30	174-181	support	_	_	
+2-31	182-184	or	_	_	
+2-32	185-186	a	_	_	
+2-33	187-192	heart	_	_	
+2-34	193-203	transplant	_	_	
+2-35	203-204	.	_	_	
+
+#Text=However, only about 2,500 transplant hearts become available each year.
+3-1	205-212	However	_	_	
+3-2	212-213	,	_	_	
+3-3	214-218	only	_	_	
+3-4	219-224	about	_	_	
+3-5	225-230	2,500	_	_	
+3-6	231-241	transplant	_	_	
+3-7	242-248	hearts	_	_	
+3-8	249-255	become	_	_	
+3-9	256-265	available	_	_	
+3-10	266-270	each	_	_	
+3-11	271-275	year	_	_	
+3-12	275-276	.	_	_	
+
+#Text=This translates to a profound need for a reliable mechanical blood pump to serve as a cardiac assist device or artificial heart.
+4-1	277-281	This	*[1]	5-7[2_1]	
+4-2	282-292	translates	*[1]	_	
+4-3	293-295	to	*[1]	_	
+4-4	296-297	a	*[1]	_	
+4-5	298-306	profound	*[1]	_	
+4-6	307-311	need	*[1]	_	
+4-7	312-315	for	*[1]	_	
+4-8	316-317	a	*[1]	_	
+4-9	318-326	reliable	*[1]	_	
+4-10	327-337	mechanical	*[1]	_	
+4-11	338-343	blood	*[1]	_	
+4-12	344-348	pump	*[1]	_	
+4-13	349-351	to	*[1]	_	
+4-14	352-357	serve	*[1]	_	
+4-15	358-360	as	*[1]	_	
+4-16	361-362	a	*[1]	_	
+4-17	363-370	cardiac	*[1]	_	
+4-18	371-377	assist	*[1]	_	
+4-19	378-384	device	*[1]	_	
+4-20	385-387	or	*[1]	_	
+4-21	388-398	artificial	*[1]	_	
+4-22	399-404	heart	*[1]	_	
+4-23	404-405	.	*[1]	_	
+
+#Text=Several prior-art devices attempt to solve this problem.
+5-1	406-413	Several	_	_	
+5-2	414-423	prior-art	_	_	
+5-3	424-431	devices	_	_	
+5-4	432-439	attempt	_	_	
+5-5	440-442	to	_	_	
+5-6	443-448	solve	_	_	
+5-7	449-453	this	*[2]	_	
+5-8	454-461	problem	*[2]	_	
+5-9	461-462	.	_	_	
+
+#Text=Indeed, numerous embodiments of blood pumps exist, but are subject to significant operational problems.
+6-1	463-469	Indeed	_	_	
+6-2	469-470	,	_	_	
+6-3	471-479	numerous	_	_	
+6-4	480-491	embodiments	_	_	
+6-5	492-494	of	_	_	
+6-6	495-500	blood	_	_	
+6-7	501-506	pumps	_	_	
+6-8	507-512	exist	_	_	
+6-9	512-513	,	_	_	
+6-10	514-517	but	_	_	
+6-11	518-521	are	_	_	
+6-12	522-529	subject	_	_	
+6-13	530-532	to	_	_	
+6-14	533-544	significant	_	_	
+6-15	545-556	operational	_	_	
+6-16	557-565	problems	_	_	
+6-17	565-566	.	_	_	
+
+#Text=Such prior-art pumps are discussed hereinbelow.
+7-1	567-571	Such	_	_	
+7-2	572-581	prior-art	_	_	
+7-3	582-587	pumps	_	_	
+7-4	588-591	are	_	_	
+7-5	592-601	discussed	_	_	
+7-6	602-613	hereinbelow	_	_	
+7-7	613-614	.	_	_	
+
+#Text=In U.S.
+8-1	615-617	In	_	_	
+8-2	618-621	U.S	_	_	
+8-3	621-622	.	_	_	
+
+#Text=Pat.
+9-1	623-626	Pat	_	_	
+9-2	626-627	.	_	_	
+
+#Text=No. 4,688,998 issued to Olsen et al., a motor stator is disclosed that consists of C-shaped rings.
+10-1	628-630	No	_	_	
+10-2	630-631	.	_	_	
+10-3	632-641	4,688,998	_	_	
+10-4	642-648	issued	_	_	
+10-5	649-651	to	_	_	
+10-6	652-657	Olsen	_	_	
+10-7	658-660	et	_	_	
+10-8	661-663	al	_	_	
+10-9	663-664	.	_	_	
+10-10	664-665	,	_	_	
+10-11	666-667	a	_	_	
+10-12	668-673	motor	_	_	
+10-13	674-680	stator	_	_	
+10-14	681-683	is	_	_	
+10-15	684-693	disclosed	_	_	
+10-16	694-698	that	_	_	
+10-17	699-707	consists	_	_	
+10-18	708-710	of	_	_	
+10-19	711-719	C-shaped	_	_	
+10-20	720-725	rings	_	_	
+10-21	725-726	.	_	_	
+
+#Text=The rings substantially increase the diameter of the pump contrary to the anatomical requirement of small size and weight.
+11-1	727-730	The	_	_	
+11-2	731-736	rings	_	_	
+11-3	737-750	substantially	_	_	
+11-4	751-759	increase	_	_	
+11-5	760-763	the	_	_	
+11-6	764-772	diameter	_	_	
+11-7	773-775	of	_	_	
+11-8	776-779	the	_	_	
+11-9	780-784	pump	_	_	
+11-10	785-793	contrary	_	_	
+11-11	794-796	to	_	_	
+11-12	797-800	the	_	_	
+11-13	801-811	anatomical	_	_	
+11-14	812-823	requirement	_	_	
+11-15	824-826	of	_	_	
+11-16	827-832	small	_	_	
+11-17	833-837	size	_	_	
+11-18	838-841	and	_	_	
+11-19	842-848	weight	_	_	
+11-20	848-849	.	_	_	
+
+#Text=In U.S.
+12-1	850-852	In	_	_	
+12-2	853-856	U.S	_	_	
+12-3	856-857	.	_	_	
+
+#Text=Pat.
+13-1	858-861	Pat	_	_	
+13-2	861-862	.	_	_	
+
+#Text=Nos. 4,763,032, 4,994,748, 5,078,741, 5,326,344, and 5,385,581, all issued to Bramm et al., a device is disclosed that requires two inflow channels, which increase the total blood-wetted surface.
+14-1	863-866	Nos	_	_	
+14-2	866-867	.	_	_	
+14-3	868-877	4,763,032	_	_	
+14-4	877-878	,	_	_	
+14-5	879-888	4,994,748	_	_	
+14-6	888-889	,	_	_	
+14-7	890-899	5,078,741	_	_	
+14-8	899-900	,	_	_	
+14-9	901-910	5,326,344	_	_	
+14-10	910-911	,	_	_	
+14-11	912-915	and	_	_	
+14-12	916-925	5,385,581	_	_	
+14-13	925-926	,	_	_	
+14-14	927-930	all	_	_	
+14-15	931-937	issued	_	_	
+14-16	938-940	to	_	_	
+14-17	941-946	Bramm	_	_	
+14-18	947-949	et	_	_	
+14-19	950-952	al	_	_	
+14-20	952-953	.	_	_	
+14-21	953-954	,	_	_	
+14-22	955-956	a	_	_	
+14-23	957-963	device	_	_	
+14-24	964-966	is	_	_	
+14-25	967-976	disclosed	_	_	
+14-26	977-981	that	_	_	
+14-27	982-990	requires	_	_	
+14-28	991-994	two	_	_	
+14-29	995-1001	inflow	_	_	
+14-30	1002-1010	channels	_	_	
+14-31	1010-1011	,	_	_	
+14-32	1012-1017	which	_	_	
+14-33	1018-1026	increase	_	_	
+14-34	1027-1030	the	_	_	
+14-35	1031-1036	total	_	_	
+14-36	1037-1049	blood-wetted	_	_	
+14-37	1050-1057	surface	_	_	
+14-38	1057-1058	.	_	_	
+
+#Text=Among other things, this large contact area between artificial materials and the blood increases immune system response to the pump as well as the probability of thromboembolism.
+15-1	1059-1064	Among	_	_	
+15-2	1065-1070	other	_	_	
+15-3	1071-1077	things	_	_	
+15-4	1077-1078	,	_	_	
+15-5	1079-1083	this	_	_	
+15-6	1084-1089	large	_	_	
+15-7	1090-1097	contact	_	_	
+15-8	1098-1102	area	_	_	
+15-9	1103-1110	between	_	_	
+15-10	1111-1121	artificial	_	_	
+15-11	1122-1131	materials	_	_	
+15-12	1132-1135	and	_	_	
+15-13	1136-1139	the	_	_	
+15-14	1140-1145	blood	_	_	
+15-15	1146-1155	increases	_	_	
+15-16	1156-1162	immune	_	_	
+15-17	1163-1169	system	_	_	
+15-18	1170-1178	response	_	_	
+15-19	1179-1181	to	_	_	
+15-20	1182-1185	the	_	_	
+15-21	1186-1190	pump	_	_	
+15-22	1191-1193	as	_	_	
+15-23	1194-1198	well	_	_	
+15-24	1199-1201	as	_	_	
+15-25	1202-1205	the	_	_	
+15-26	1206-1217	probability	_	_	
+15-27	1218-1220	of	_	_	
+15-28	1221-1236	thromboembolism	_	_	
+15-29	1236-1237	.	_	_	
+
+#Text=Further, connecting the two inlets of the pump to the heart is complex and requires additional tubing.
+16-1	1238-1245	Further	_	_	
+16-2	1245-1246	,	_	_	
+16-3	1247-1257	connecting	_	_	
+16-4	1258-1261	the	_	_	
+16-5	1262-1265	two	_	_	
+16-6	1266-1272	inlets	_	_	
+16-7	1273-1275	of	_	_	
+16-8	1276-1279	the	_	_	
+16-9	1280-1284	pump	_	_	
+16-10	1285-1287	to	_	_	
+16-11	1288-1291	the	_	_	
+16-12	1292-1297	heart	_	_	
+16-13	1298-1300	is	_	_	
+16-14	1301-1308	complex	_	_	
+16-15	1309-1312	and	_	_	
+16-16	1313-1321	requires	_	_	
+16-17	1322-1332	additional	_	_	
+16-18	1333-1339	tubing	_	_	
+16-19	1339-1340	.	_	_	
+
+#Text=Thus, anatomical interference of such pumps with natural organs and structures is increased.
+17-1	1341-1345	Thus	_	_	
+17-2	1345-1346	,	_	_	
+17-3	1347-1357	anatomical	_	_	
+17-4	1358-1370	interference	_	_	
+17-5	1371-1373	of	_	_	
+17-6	1374-1378	such	_	_	
+17-7	1379-1384	pumps	_	_	
+17-8	1385-1389	with	_	_	
+17-9	1390-1397	natural	_	_	
+17-10	1398-1404	organs	_	_	
+17-11	1405-1408	and	_	_	
+17-12	1409-1419	structures	_	_	
+17-13	1420-1422	is	_	_	
+17-14	1423-1432	increased	_	_	
+17-15	1432-1433	.	_	_	

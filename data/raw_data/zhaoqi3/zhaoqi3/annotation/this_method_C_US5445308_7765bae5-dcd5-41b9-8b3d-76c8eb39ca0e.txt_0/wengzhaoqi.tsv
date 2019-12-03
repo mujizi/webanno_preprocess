@@ -1,0 +1,686 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=Increased power consumption generates increased heat.
+1-1	0-9	Increased	_	_	
+1-2	10-15	power	_	_	
+1-3	16-27	consumption	_	_	
+1-4	28-37	generates	_	_	
+1-5	38-47	increased	_	_	
+1-6	48-52	heat	_	_	
+1-7	52-53	.	_	_	
+
+#Text=Thermal expansion caused by heating up the components, however, is not uniform.
+2-1	54-61	Thermal	_	_	
+2-2	62-71	expansion	_	_	
+2-3	72-78	caused	_	_	
+2-4	79-81	by	_	_	
+2-5	82-89	heating	_	_	
+2-6	90-92	up	_	_	
+2-7	93-96	the	_	_	
+2-8	97-107	components	_	_	
+2-9	107-108	,	_	_	
+2-10	109-116	however	_	_	
+2-11	116-117	,	_	_	
+2-12	118-120	is	_	_	
+2-13	121-124	not	_	_	
+2-14	125-132	uniform	_	_	
+2-15	132-133	.	_	_	
+
+#Text=Thermal expansion varies with temperature gradients and mismatches between coefficients of thermal expansion.
+3-1	134-141	Thermal	_	_	
+3-2	142-151	expansion	_	_	
+3-3	152-158	varies	_	_	
+3-4	159-163	with	_	_	
+3-5	164-175	temperature	_	_	
+3-6	176-185	gradients	_	_	
+3-7	186-189	and	_	_	
+3-8	190-200	mismatches	_	_	
+3-9	201-208	between	_	_	
+3-10	209-221	coefficients	_	_	
+3-11	222-224	of	_	_	
+3-12	225-232	thermal	_	_	
+3-13	233-242	expansion	_	_	
+3-14	242-243	.	_	_	
+
+#Text=Mechanical stresses result from these differences which contribute to the finite lifetime and failure rate of the components.
+4-1	244-254	Mechanical	_	_	
+4-2	255-263	stresses	_	_	
+4-3	264-270	result	_	_	
+4-4	271-275	from	_	_	
+4-5	276-281	these	_	_	
+4-6	282-293	differences	_	_	
+4-7	294-299	which	_	_	
+4-8	300-310	contribute	_	_	
+4-9	311-313	to	_	_	
+4-10	314-317	the	_	_	
+4-11	318-324	finite	_	_	
+4-12	325-333	lifetime	_	_	
+4-13	334-337	and	_	_	
+4-14	338-345	failure	_	_	
+4-15	346-350	rate	_	_	
+4-16	351-353	of	_	_	
+4-17	354-357	the	_	_	
+4-18	358-368	components	_	_	
+4-19	368-369	.	_	_	
+
+#Text=Moreover, the components have limited temperature tolerance.
+5-1	370-378	Moreover	_	_	
+5-2	378-379	,	_	_	
+5-3	380-383	the	_	_	
+5-4	384-394	components	_	_	
+5-5	395-399	have	_	_	
+5-6	400-407	limited	_	_	
+5-7	408-419	temperature	_	_	
+5-8	420-429	tolerance	_	_	
+5-9	429-430	.	_	_	
+
+#Text=For instance, integrated circuit chip temperatures must often be below 100.degree.
+6-1	431-434	For	_	_	
+6-2	435-443	instance	_	_	
+6-3	443-444	,	_	_	
+6-4	445-455	integrated	_	_	
+6-5	456-463	circuit	_	_	
+6-6	464-468	chip	_	_	
+6-7	469-481	temperatures	_	_	
+6-8	482-486	must	_	_	
+6-9	487-492	often	_	_	
+6-10	493-495	be	_	_	
+6-11	496-501	below	_	_	
+6-12	502-505	100	_	_	
+6-13	505-506	.	_	_	
+6-14	506-512	degree	_	_	
+6-15	512-513	.	_	_	
+
+#Text=C. to assure proper and reliable electrical performance.
+7-1	514-515	C	_	_	
+7-2	515-516	.	_	_	
+7-3	517-519	to	_	_	
+7-4	520-526	assure	_	_	
+7-5	527-533	proper	_	_	
+7-6	534-537	and	_	_	
+7-7	538-546	reliable	_	_	
+7-8	547-557	electrical	_	_	
+7-9	558-569	performance	_	_	
+7-10	569-570	.	_	_	
+
+#Text=As a result, heat transfer and heat removal techniques have become critical.
+8-1	571-573	As	_	_	
+8-2	574-575	a	_	_	
+8-3	576-582	result	_	_	
+8-4	582-583	,	_	_	
+8-5	584-588	heat	_	_	
+8-6	589-597	transfer	_	_	
+8-7	598-601	and	_	_	
+8-8	602-606	heat	_	_	
+8-9	607-614	removal	_	_	
+8-10	615-625	techniques	_	_	
+8-11	626-630	have	_	_	
+8-12	631-637	become	_	_	
+8-13	638-646	critical	_	_	
+8-14	646-647	.	_	_	
+
+#Text=An important aspect of heat conduction in microelectronic packages is the transfer of heat across the interface of two surfaces, for example an integrated circuit chip mounted on an electrical interconnect substrate.
+9-1	648-650	An	_	_	
+9-2	651-660	important	_	_	
+9-3	661-667	aspect	_	_	
+9-4	668-670	of	_	_	
+9-5	671-675	heat	_	_	
+9-6	676-686	conduction	_	_	
+9-7	687-689	in	_	_	
+9-8	690-705	microelectronic	_	_	
+9-9	706-714	packages	_	_	
+9-10	715-717	is	_	_	
+9-11	718-721	the	_	_	
+9-12	722-730	transfer	_	_	
+9-13	731-733	of	_	_	
+9-14	734-738	heat	_	_	
+9-15	739-745	across	_	_	
+9-16	746-749	the	_	_	
+9-17	750-759	interface	_	_	
+9-18	760-762	of	_	_	
+9-19	763-766	two	_	_	
+9-20	767-775	surfaces	_	_	
+9-21	775-776	,	_	_	
+9-22	777-780	for	_	_	
+9-23	781-788	example	_	_	
+9-24	789-791	an	_	_	
+9-25	792-802	integrated	_	_	
+9-26	803-810	circuit	_	_	
+9-27	811-815	chip	_	_	
+9-28	816-823	mounted	_	_	
+9-29	824-826	on	_	_	
+9-30	827-829	an	_	_	
+9-31	830-840	electrical	_	_	
+9-32	841-853	interconnect	_	_	
+9-33	854-863	substrate	_	_	
+9-34	863-864	.	_	_	
+
+#Text=Generally, when two surfaces are pressed together the contact is imperfect and the actual heat transfer area of the joint is only a small fraction of the total area.
+10-1	865-874	Generally	_	_	
+10-2	874-875	,	_	_	
+10-3	876-880	when	_	_	
+10-4	881-884	two	_	_	
+10-5	885-893	surfaces	_	_	
+10-6	894-897	are	_	_	
+10-7	898-905	pressed	_	_	
+10-8	906-914	together	_	_	
+10-9	915-918	the	_	_	
+10-10	919-926	contact	_	_	
+10-11	927-929	is	_	_	
+10-12	930-939	imperfect	_	_	
+10-13	940-943	and	_	_	
+10-14	944-947	the	_	_	
+10-15	948-954	actual	_	_	
+10-16	955-959	heat	_	_	
+10-17	960-968	transfer	_	_	
+10-18	969-973	area	_	_	
+10-19	974-976	of	_	_	
+10-20	977-980	the	_	_	
+10-21	981-986	joint	_	_	
+10-22	987-989	is	_	_	
+10-23	990-994	only	_	_	
+10-24	995-996	a	_	_	
+10-25	997-1002	small	_	_	
+10-26	1003-1011	fraction	_	_	
+10-27	1012-1014	of	_	_	
+10-28	1015-1018	the	_	_	
+10-29	1019-1024	total	_	_	
+10-30	1025-1029	area	_	_	
+10-31	1029-1030	.	_	_	
+
+#Text=This constriction and then spreading of the heat flux in the vicinity of the joint is manifested by a temperature drop at the interface, which results in increased thermal resistance.
+11-1	1031-1035	This	_	_	
+11-2	1036-1048	constriction	_	_	
+11-3	1049-1052	and	_	_	
+11-4	1053-1057	then	_	_	
+11-5	1058-1067	spreading	_	_	
+11-6	1068-1070	of	_	_	
+11-7	1071-1074	the	_	_	
+11-8	1075-1079	heat	_	_	
+11-9	1080-1084	flux	_	_	
+11-10	1085-1087	in	_	_	
+11-11	1088-1091	the	_	_	
+11-12	1092-1100	vicinity	_	_	
+11-13	1101-1103	of	_	_	
+11-14	1104-1107	the	_	_	
+11-15	1108-1113	joint	_	_	
+11-16	1114-1116	is	_	_	
+11-17	1117-1127	manifested	_	_	
+11-18	1128-1130	by	_	_	
+11-19	1131-1132	a	_	_	
+11-20	1133-1144	temperature	_	_	
+11-21	1145-1149	drop	_	_	
+11-22	1150-1152	at	_	_	
+11-23	1153-1156	the	_	_	
+11-24	1157-1166	interface	_	_	
+11-25	1166-1167	,	_	_	
+11-26	1168-1173	which	_	_	
+11-27	1174-1181	results	_	_	
+11-28	1182-1184	in	_	_	
+11-29	1185-1194	increased	_	_	
+11-30	1195-1202	thermal	_	_	
+11-31	1203-1213	resistance	_	_	
+11-32	1213-1214	.	_	_	
+
+#Text=Thermally conductive adhesives with dispersed solids have been devised for heat sink attachment of electrical components and for attachment of integrated circuit chips to substrates and other packaging structures.
+12-1	1215-1224	Thermally	*[1]	15-6[2_1]|15-13[3_1]	
+12-2	1225-1235	conductive	*[1]	_	
+12-3	1236-1245	adhesives	*[1]	_	
+12-4	1246-1250	with	*[1]	_	
+12-5	1251-1260	dispersed	*[1]	_	
+12-6	1261-1267	solids	*[1]	_	
+12-7	1268-1272	have	*[1]	_	
+12-8	1273-1277	been	*[1]	_	
+12-9	1278-1285	devised	*[1]	_	
+12-10	1286-1289	for	*[1]	_	
+12-11	1290-1294	heat	*[1]	_	
+12-12	1295-1299	sink	*[1]	_	
+12-13	1300-1310	attachment	*[1]	_	
+12-14	1311-1313	of	*[1]	_	
+12-15	1314-1324	electrical	*[1]	_	
+12-16	1325-1335	components	*[1]	_	
+12-17	1336-1339	and	*[1]	_	
+12-18	1340-1343	for	*[1]	_	
+12-19	1344-1354	attachment	*[1]	_	
+12-20	1355-1357	of	*[1]	_	
+12-21	1358-1368	integrated	*[1]	_	
+12-22	1369-1376	circuit	*[1]	_	
+12-23	1377-1382	chips	*[1]	_	
+12-24	1383-1385	to	*[1]	_	
+12-25	1386-1396	substrates	*[1]	_	
+12-26	1397-1400	and	*[1]	_	
+12-27	1401-1406	other	*[1]	_	
+12-28	1407-1416	packaging	*[1]	_	
+12-29	1417-1427	structures	*[1]	_	
+12-30	1427-1428	.	*[1]	_	
+
+#Text=Silver filled epoxies and the like for electrical and thermal interface connections are well known.
+13-1	1429-1435	Silver	_	_	
+13-2	1436-1442	filled	_	_	
+13-3	1443-1450	epoxies	_	_	
+13-4	1451-1454	and	_	_	
+13-5	1455-1458	the	_	_	
+13-6	1459-1463	like	_	_	
+13-7	1464-1467	for	_	_	
+13-8	1468-1478	electrical	_	_	
+13-9	1479-1482	and	_	_	
+13-10	1483-1490	thermal	_	_	
+13-11	1491-1500	interface	_	_	
+13-12	1501-1512	connections	_	_	
+13-13	1513-1516	are	_	_	
+13-14	1517-1521	well	_	_	
+13-15	1522-1527	known	_	_	
+13-16	1527-1528	.	_	_	
+
+#Text=A primary goal is to provide both a dependable mechanical bond and a highly conductive path for heat flow.
+14-1	1529-1530	A	_	_	
+14-2	1531-1538	primary	_	_	
+14-3	1539-1543	goal	_	_	
+14-4	1544-1546	is	_	_	
+14-5	1547-1549	to	_	_	
+14-6	1550-1557	provide	_	_	
+14-7	1558-1562	both	_	_	
+14-8	1563-1564	a	_	_	
+14-9	1565-1575	dependable	_	_	
+14-10	1576-1586	mechanical	_	_	
+14-11	1587-1591	bond	_	_	
+14-12	1592-1595	and	_	_	
+14-13	1596-1597	a	_	_	
+14-14	1598-1604	highly	_	_	
+14-15	1605-1615	conductive	_	_	
+14-16	1616-1620	path	_	_	
+14-17	1621-1624	for	_	_	
+14-18	1625-1629	heat	_	_	
+14-19	1630-1634	flow	_	_	
+14-20	1634-1635	.	_	_	
+
+#Text=Although the basic theory of this method appears sound, in practice this method may have serious drawbacks.
+15-1	1636-1644	Although	_	_	
+15-2	1645-1648	the	_	_	
+15-3	1649-1654	basic	_	_	
+15-4	1655-1661	theory	_	_	
+15-5	1662-1664	of	_	_	
+15-6	1665-1669	this	*[2]	_	
+15-7	1670-1676	method	*[2]	_	
+15-8	1677-1684	appears	_	_	
+15-9	1685-1690	sound	_	_	
+15-10	1690-1691	,	_	_	
+15-11	1692-1694	in	_	_	
+15-12	1695-1703	practice	_	_	
+15-13	1704-1708	this	*[3]	_	
+15-14	1709-1715	method	*[3]	_	
+15-15	1716-1719	may	_	_	
+15-16	1720-1724	have	_	_	
+15-17	1725-1732	serious	_	_	
+15-18	1733-1742	drawbacks	_	_	
+15-19	1742-1743	.	_	_	
+
+#Text=Since the thermal conductivity of such adhesives depends on the ability of the solids within the adhesives to contact each other and the surfaces to be joined, limited contact areas introduce constriction resistance and reduce the thermal conductance of the joint.
+16-1	1744-1749	Since	_	_	
+16-2	1750-1753	the	_	_	
+16-3	1754-1761	thermal	_	_	
+16-4	1762-1774	conductivity	_	_	
+16-5	1775-1777	of	_	_	
+16-6	1778-1782	such	_	_	
+16-7	1783-1792	adhesives	_	_	
+16-8	1793-1800	depends	_	_	
+16-9	1801-1803	on	_	_	
+16-10	1804-1807	the	_	_	
+16-11	1808-1815	ability	_	_	
+16-12	1816-1818	of	_	_	
+16-13	1819-1822	the	_	_	
+16-14	1823-1829	solids	_	_	
+16-15	1830-1836	within	_	_	
+16-16	1837-1840	the	_	_	
+16-17	1841-1850	adhesives	_	_	
+16-18	1851-1853	to	_	_	
+16-19	1854-1861	contact	_	_	
+16-20	1862-1866	each	_	_	
+16-21	1867-1872	other	_	_	
+16-22	1873-1876	and	_	_	
+16-23	1877-1880	the	_	_	
+16-24	1881-1889	surfaces	_	_	
+16-25	1890-1892	to	_	_	
+16-26	1893-1895	be	_	_	
+16-27	1896-1902	joined	_	_	
+16-28	1902-1903	,	_	_	
+16-29	1904-1911	limited	_	_	
+16-30	1912-1919	contact	_	_	
+16-31	1920-1925	areas	_	_	
+16-32	1926-1935	introduce	_	_	
+16-33	1936-1948	constriction	_	_	
+16-34	1949-1959	resistance	_	_	
+16-35	1960-1963	and	_	_	
+16-36	1964-1970	reduce	_	_	
+16-37	1971-1974	the	_	_	
+16-38	1975-1982	thermal	_	_	
+16-39	1983-1994	conductance	_	_	
+16-40	1995-1997	of	_	_	
+16-41	1998-2001	the	_	_	
+16-42	2002-2007	joint	_	_	
+16-43	2007-2008	.	_	_	
+
+#Text=Similar problems arise for electrically conductive adhesives resulting in reduced electrical conductance.
+17-1	2009-2016	Similar	_	_	
+17-2	2017-2025	problems	_	_	
+17-3	2026-2031	arise	_	_	
+17-4	2032-2035	for	_	_	
+17-5	2036-2048	electrically	_	_	
+17-6	2049-2059	conductive	_	_	
+17-7	2060-2069	adhesives	_	_	
+17-8	2070-2079	resulting	_	_	
+17-9	2080-2082	in	_	_	
+17-10	2083-2090	reduced	_	_	
+17-11	2091-2101	electrical	_	_	
+17-12	2102-2113	conductance	_	_	
+17-13	2113-2114	.	_	_	
+
+#Text=There has been some recent activity directed towards overcoming this primary shortcoming.
+18-1	2115-2120	There	_	_	
+18-2	2121-2124	has	_	_	
+18-3	2125-2129	been	_	_	
+18-4	2130-2134	some	_	_	
+18-5	2135-2141	recent	_	_	
+18-6	2142-2150	activity	_	_	
+18-7	2151-2159	directed	_	_	
+18-8	2160-2167	towards	_	_	
+18-9	2168-2178	overcoming	_	_	
+18-10	2179-2183	this	_	_	
+18-11	2184-2191	primary	_	_	
+18-12	2192-2203	shortcoming	_	_	
+18-13	2203-2204	.	_	_	
+
+#Text=A main thrust has been the use of low temperature solder (or fusable alloy) fillers with melting points (or melting ranges for non-eutectics) between approximately 40.degree.
+19-1	2205-2206	A	_	_	
+19-2	2207-2211	main	_	_	
+19-3	2212-2218	thrust	_	_	
+19-4	2219-2222	has	_	_	
+19-5	2223-2227	been	_	_	
+19-6	2228-2231	the	_	_	
+19-7	2232-2235	use	_	_	
+19-8	2236-2238	of	_	_	
+19-9	2239-2242	low	_	_	
+19-10	2243-2254	temperature	_	_	
+19-11	2255-2261	solder	_	_	
+19-12	2262-2263	(	_	_	
+19-13	2263-2265	or	_	_	
+19-14	2266-2273	fusable	_	_	
+19-15	2274-2279	alloy	_	_	
+19-16	2279-2280	)	_	_	
+19-17	2281-2288	fillers	_	_	
+19-18	2289-2293	with	_	_	
+19-19	2294-2301	melting	_	_	
+19-20	2302-2308	points	_	_	
+19-21	2309-2310	(	_	_	
+19-22	2310-2312	or	_	_	
+19-23	2313-2320	melting	_	_	
+19-24	2321-2327	ranges	_	_	
+19-25	2328-2331	for	_	_	
+19-26	2332-2345	non-eutectics	_	_	
+19-27	2345-2346	)	_	_	
+19-28	2347-2354	between	_	_	
+19-29	2355-2368	approximately	_	_	
+19-30	2369-2371	40	_	_	
+19-31	2371-2372	.	_	_	
+19-32	2372-2378	degree	_	_	
+19-33	2378-2379	.	_	_	
+
+#Text=C. and 100.degree.
+20-1	2380-2381	C	_	_	
+20-2	2381-2382	.	_	_	
+20-3	2383-2386	and	_	_	
+20-4	2387-2390	100	_	_	
+20-5	2390-2391	.	_	_	
+20-6	2391-2397	degree	_	_	
+20-7	2397-2398	.	_	_	
+
+#Text=C.
+21-1	2399-2400	C	_	_	
+21-2	2400-2401	.	_	_	
+
+#Text=A bond is formed by melting and resolidifying the metal.
+22-1	2402-2403	A	_	_	
+22-2	2404-2408	bond	_	_	
+22-3	2409-2411	is	_	_	
+22-4	2412-2418	formed	_	_	
+22-5	2419-2421	by	_	_	
+22-6	2422-2429	melting	_	_	
+22-7	2430-2433	and	_	_	
+22-8	2434-2447	resolidifying	_	_	
+22-9	2448-2451	the	_	_	
+22-10	2452-2457	metal	_	_	
+22-11	2457-2458	.	_	_	
+
+#Text=Tin, gold, solder and various alloys may be used.
+23-1	2459-2462	Tin	_	_	
+23-2	2462-2463	,	_	_	
+23-3	2464-2468	gold	_	_	
+23-4	2468-2469	,	_	_	
+23-5	2470-2476	solder	_	_	
+23-6	2477-2480	and	_	_	
+23-7	2481-2488	various	_	_	
+23-8	2489-2495	alloys	_	_	
+23-9	2496-2499	may	_	_	
+23-10	2500-2502	be	_	_	
+23-11	2503-2507	used	_	_	
+23-12	2507-2508	.	_	_	
+
+#Text=Solder fillers can be liquid at the cure temperature of the adhesive thereby enhancing the surface contact and later solidify at room temperature.
+24-1	2509-2515	Solder	_	_	
+24-2	2516-2523	fillers	_	_	
+24-3	2524-2527	can	_	_	
+24-4	2528-2530	be	_	_	
+24-5	2531-2537	liquid	_	_	
+24-6	2538-2540	at	_	_	
+24-7	2541-2544	the	_	_	
+24-8	2545-2549	cure	_	_	
+24-9	2550-2561	temperature	_	_	
+24-10	2562-2564	of	_	_	
+24-11	2565-2568	the	_	_	
+24-12	2569-2577	adhesive	_	_	
+24-13	2578-2585	thereby	_	_	
+24-14	2586-2595	enhancing	_	_	
+24-15	2596-2599	the	_	_	
+24-16	2600-2607	surface	_	_	
+24-17	2608-2615	contact	_	_	
+24-18	2616-2619	and	_	_	
+24-19	2620-2625	later	_	_	
+24-20	2626-2634	solidify	_	_	
+24-21	2635-2637	at	_	_	
+24-22	2638-2642	room	_	_	
+24-23	2643-2654	temperature	_	_	
+24-24	2654-2655	.	_	_	
+
+#Text=Such solder fillers include tin-bismuth based solders (e.g., 52/30/18 Bi/Pb/Sn) and indium-based solders (e.g., 95/5 Ga/In, 66.3/33.7 In/Bi).
+25-1	2656-2660	Such	_	_	
+25-2	2661-2667	solder	_	_	
+25-3	2668-2675	fillers	_	_	
+25-4	2676-2683	include	_	_	
+25-5	2684-2695	tin-bismuth	_	_	
+25-6	2696-2701	based	_	_	
+25-7	2702-2709	solders	_	_	
+25-8	2710-2711	(	_	_	
+25-9	2711-2714	e.g	_	_	
+25-10	2714-2715	.	_	_	
+25-11	2715-2716	,	_	_	
+25-12	2717-2719	52	_	_	
+25-13	2719-2720	/	_	_	
+25-14	2720-2722	30	_	_	
+25-15	2722-2723	/	_	_	
+25-16	2723-2725	18	_	_	
+25-17	2726-2728	Bi	_	_	
+25-18	2728-2729	/	_	_	
+25-19	2729-2731	Pb	_	_	
+25-20	2731-2732	/	_	_	
+25-21	2732-2734	Sn	_	_	
+25-22	2734-2735	)	_	_	
+25-23	2736-2739	and	_	_	
+25-24	2740-2752	indium-based	_	_	
+25-25	2753-2760	solders	_	_	
+25-26	2761-2762	(	_	_	
+25-27	2762-2765	e.g	_	_	
+25-28	2765-2766	.	_	_	
+25-29	2766-2767	,	_	_	
+25-30	2768-2770	95	_	_	
+25-31	2770-2771	/	_	_	
+25-32	2771-2772	5	_	_	
+25-33	2773-2775	Ga	_	_	
+25-34	2775-2776	/	_	_	
+25-35	2776-2778	In	_	_	
+25-36	2778-2779	,	_	_	
+25-37	2780-2784	66.3	_	_	
+25-38	2784-2785	/	_	_	
+25-39	2785-2789	33.7	_	_	
+25-40	2790-2792	In	_	_	
+25-41	2792-2793	/	_	_	
+25-42	2793-2795	Bi	_	_	
+25-43	2795-2796	)	_	_	
+25-44	2796-2797	.	_	_	
+
+#Text=For example, U.S.
+26-1	2798-2801	For	_	_	
+26-2	2802-2809	example	_	_	
+26-3	2809-2810	,	_	_	
+26-4	2811-2814	U.S	_	_	
+26-5	2814-2815	.	_	_	
+
+#Text=Pat.
+27-1	2816-2819	Pat	_	_	
+27-2	2819-2820	.	_	_	
+
+#Text=No. 5,062,896 by Wu-Song Huang discloses a paste which contains a meltable alloy (solders of the Bi/Sn, Bi/Sn/Pb, and Pb/Sn systems) in a solution of a polymer dissolved in a solvent such as NMP with a transient fluxing agent and an optional surfactant.
+28-1	2821-2823	No	_	_	
+28-2	2823-2824	.	_	_	
+28-3	2825-2834	5,062,896	_	_	
+28-4	2835-2837	by	_	_	
+28-5	2838-2845	Wu-Song	_	_	
+28-6	2846-2851	Huang	_	_	
+28-7	2852-2861	discloses	_	_	
+28-8	2862-2863	a	_	_	
+28-9	2864-2869	paste	_	_	
+28-10	2870-2875	which	_	_	
+28-11	2876-2884	contains	_	_	
+28-12	2885-2886	a	_	_	
+28-13	2887-2895	meltable	_	_	
+28-14	2896-2901	alloy	_	_	
+28-15	2902-2903	(	_	_	
+28-16	2903-2910	solders	_	_	
+28-17	2911-2913	of	_	_	
+28-18	2914-2917	the	_	_	
+28-19	2918-2920	Bi	_	_	
+28-20	2920-2921	/	_	_	
+28-21	2921-2923	Sn	_	_	
+28-22	2923-2924	,	_	_	
+28-23	2925-2927	Bi	_	_	
+28-24	2927-2928	/	_	_	
+28-25	2928-2930	Sn	_	_	
+28-26	2930-2931	/	_	_	
+28-27	2931-2933	Pb	_	_	
+28-28	2933-2934	,	_	_	
+28-29	2935-2938	and	_	_	
+28-30	2939-2941	Pb	_	_	
+28-31	2941-2942	/	_	_	
+28-32	2942-2944	Sn	_	_	
+28-33	2945-2952	systems	_	_	
+28-34	2952-2953	)	_	_	
+28-35	2954-2956	in	_	_	
+28-36	2957-2958	a	_	_	
+28-37	2959-2967	solution	_	_	
+28-38	2968-2970	of	_	_	
+28-39	2971-2972	a	_	_	
+28-40	2973-2980	polymer	_	_	
+28-41	2981-2990	dissolved	_	_	
+28-42	2991-2993	in	_	_	
+28-43	2994-2995	a	_	_	
+28-44	2996-3003	solvent	_	_	
+28-45	3004-3008	such	_	_	
+28-46	3009-3011	as	_	_	
+28-47	3012-3015	NMP	_	_	
+28-48	3016-3020	with	_	_	
+28-49	3021-3022	a	_	_	
+28-50	3023-3032	transient	_	_	
+28-51	3033-3040	fluxing	_	_	
+28-52	3041-3046	agent	_	_	
+28-53	3047-3050	and	_	_	
+28-54	3051-3053	an	_	_	
+28-55	3054-3062	optional	_	_	
+28-56	3063-3073	surfactant	_	_	
+28-57	3073-3074	.	_	_	
+
+#Text=Solder reflow occurs at a temperature in the range of approximately 160.degree.
+29-1	3075-3081	Solder	_	_	
+29-2	3082-3088	reflow	_	_	
+29-3	3089-3095	occurs	_	_	
+29-4	3096-3098	at	_	_	
+29-5	3099-3100	a	_	_	
+29-6	3101-3112	temperature	_	_	
+29-7	3113-3115	in	_	_	
+29-8	3116-3119	the	_	_	
+29-9	3120-3125	range	_	_	
+29-10	3126-3128	of	_	_	
+29-11	3129-3142	approximately	_	_	
+29-12	3143-3146	160	_	_	
+29-13	3146-3147	.	_	_	
+29-14	3147-3153	degree	_	_	
+29-15	3153-3154	.	_	_	
+
+#Text=C. to 250.degree.
+30-1	3155-3156	C	_	_	
+30-2	3156-3157	.	_	_	
+30-3	3158-3160	to	_	_	
+30-4	3161-3164	250	_	_	
+30-5	3164-3165	.	_	_	
+30-6	3165-3171	degree	_	_	
+30-7	3171-3172	.	_	_	
+
+#Text=C.
+31-1	3173-3174	C	_	_	
+31-2	3174-3175	.	_	_	
+
+#Text=The fluxing agent is driven off primarily as vapor during reflow and the surfactant if present is likewise driven off as a gaseous by-product of the process.
+32-1	3176-3179	The	_	_	
+32-2	3180-3187	fluxing	_	_	
+32-3	3188-3193	agent	_	_	
+32-4	3194-3196	is	_	_	
+32-5	3197-3203	driven	_	_	
+32-6	3204-3207	off	_	_	
+32-7	3208-3217	primarily	_	_	
+32-8	3218-3220	as	_	_	
+32-9	3221-3226	vapor	_	_	
+32-10	3227-3233	during	_	_	
+32-11	3234-3240	reflow	_	_	
+32-12	3241-3244	and	_	_	
+32-13	3245-3248	the	_	_	
+32-14	3249-3259	surfactant	_	_	
+32-15	3260-3262	if	_	_	
+32-16	3263-3270	present	_	_	
+32-17	3271-3273	is	_	_	
+32-18	3274-3282	likewise	_	_	
+32-19	3283-3289	driven	_	_	
+32-20	3290-3293	off	_	_	
+32-21	3294-3296	as	_	_	
+32-22	3297-3298	a	_	_	
+32-23	3299-3306	gaseous	_	_	
+32-24	3307-3317	by-product	_	_	
+32-25	3318-3320	of	_	_	
+32-26	3321-3324	the	_	_	
+32-27	3325-3332	process	_	_	
+32-28	3332-3333	.	_	_	
+
+#Text=The joint appears to contain a solid solder connection throughout its operation.
+33-1	3334-3337	The	_	_	
+33-2	3338-3343	joint	_	_	
+33-3	3344-3351	appears	_	_	
+33-4	3352-3354	to	_	_	
+33-5	3355-3362	contain	_	_	
+33-6	3363-3364	a	_	_	
+33-7	3365-3370	solid	_	_	
+33-8	3371-3377	solder	_	_	
+33-9	3378-3388	connection	_	_	
+33-10	3389-3399	throughout	_	_	
+33-11	3400-3403	its	_	_	
+33-12	3404-3413	operation	_	_	
+33-13	3413-3414	.	_	_	

@@ -1,0 +1,149 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+
+
+#Text=Run 14
+#Text=Acid pre-treatment was performed exactly as in Run 10.
+1-1	0-3	Run	_	
+1-2	4-6	14	_	
+1-3	7-11	Acid	_	
+1-4	12-25	pre-treatment	_	
+1-5	26-29	was	_	
+1-6	30-39	performed	_	
+1-7	40-47	exactly	_	
+1-8	48-50	as	_	
+1-9	51-53	in	_	
+1-10	54-57	Run	_	
+1-11	58-60	10	_	
+1-12	60-61	.	_	
+
+#Text=Peroxymonophosphoric acid was prepared as in Run 1, but using the 10 following initial mixture:
+#Text=After cooling, 1.2 g of sodium hydroxide was added to the reacted mixture to produce a pH of 0.9, and the solution was then analyzed and found to contain. 3.6% peroxymonophosphoric acid.
+2-1	62-82	Peroxymonophosphoric	_	
+2-2	83-87	acid	_	
+2-3	88-91	was	_	
+2-4	92-100	prepared	_	
+2-5	101-103	as	_	
+2-6	104-106	in	_	
+2-7	107-110	Run	_	
+2-8	111-112	1	_	
+2-9	112-113	,	_	
+2-10	114-117	but	_	
+2-11	118-123	using	_	
+2-12	124-127	the	_	
+2-13	128-130	10	_	
+2-14	131-140	following	_	
+2-15	141-148	initial	_	
+2-16	149-156	mixture	_	
+2-17	156-157	:	_	
+2-18	158-163	After	_	
+2-19	164-171	cooling	_	
+2-20	171-172	,	_	
+2-21	173-176	1.2	_	
+2-22	177-178	g	_	
+2-23	179-181	of	_	
+2-24	182-188	sodium	_	
+2-25	189-198	hydroxide	_	
+2-26	199-202	was	_	
+2-27	203-208	added	_	
+2-28	209-211	to	_	
+2-29	212-215	the	_	
+2-30	216-223	reacted	_	
+2-31	224-231	mixture	_	
+2-32	232-234	to	_	
+2-33	235-242	produce	_	
+2-34	243-244	a	_	
+2-35	245-247	pH	_	
+2-36	248-250	of	_	
+2-37	251-254	0.9	_	
+2-38	254-255	,	_	
+2-39	256-259	and	_	
+2-40	260-263	the	_	
+2-41	264-272	solution	_	
+2-42	273-276	was	_	
+2-43	277-281	then	_	
+2-44	282-290	analyzed	_	
+2-45	291-294	and	_	
+2-46	295-300	found	_	
+2-47	301-303	to	_	
+2-48	304-311	contain	_	
+2-49	311-312	.	_	
+2-50	313-317	3.6%	_	
+2-51	318-338	peroxymonophosphoric	_	
+2-52	339-343	acid	_	
+2-53	343-344	.	_	
+
+#Text=A 25.3 g portion of this solution was added to the 1.07 g of acid-pre-treated, air-dried aspen wood, and the mixture held at room temperature (22.degree.
+3-1	345-346	A	_	
+3-2	347-351	25.3	_	
+3-3	352-353	g	_	
+3-4	354-361	portion	_	
+3-5	362-364	of	_	
+3-6	365-369	this	*[1]	
+3-7	370-378	solution	*[1]	
+3-8	379-382	was	_	
+3-9	383-388	added	_	
+3-10	389-391	to	_	
+3-11	392-395	the	_	
+3-12	396-400	1.07	_	
+3-13	401-402	g	_	
+3-14	403-405	of	_	
+3-15	406-422	acid-pre-treated	_	
+3-16	422-423	,	_	
+3-17	424-433	air-dried	_	
+3-18	434-439	aspen	_	
+3-19	440-444	wood	_	
+3-20	444-445	,	_	
+3-21	446-449	and	_	
+3-22	450-453	the	_	
+3-23	454-461	mixture	_	
+3-24	462-466	held	_	
+3-25	467-469	at	_	
+3-26	470-474	room	_	
+3-27	475-486	temperature	_	
+3-28	487-488	(	_	
+3-29	488-490	22	_	
+3-30	490-491	.	_	
+3-31	491-497	degree	_	
+3-32	497-498	.	_	
+
+#Text=C.) for 40 hours.
+4-1	499-500	C	_	
+4-2	500-501	.	_	
+4-3	501-502	)	_	
+4-4	503-506	for	_	
+4-5	507-509	40	_	
+4-6	510-515	hours	_	
+4-7	515-516	.	_	
+
+#Text=Extraction, washing, drying and analytical procedures were performed as in Run 1.
+5-1	517-527	Extraction	_	
+5-2	527-528	,	_	
+5-3	529-536	washing	_	
+5-4	536-537	,	_	
+5-5	538-544	drying	_	
+5-6	545-548	and	_	
+5-7	549-559	analytical	_	
+5-8	560-570	procedures	_	
+5-9	571-575	were	_	
+5-10	576-585	performed	_	
+5-11	586-588	as	_	
+5-12	589-591	in	_	
+5-13	592-595	Run	_	
+5-14	596-597	1	_	
+5-15	597-598	.	_	
+
+#Text=Example 3
+#Text=Delignification of Aspen Wood at Elevated pH without Pre-treatment.
+6-1	599-606	Example	_	
+6-2	607-608	3	_	
+6-3	609-624	Delignification	_	
+6-4	625-627	of	_	
+6-5	628-633	Aspen	_	
+6-6	634-638	Wood	_	
+6-7	639-641	at	_	
+6-8	642-650	Elevated	_	
+6-9	651-653	pH	_	
+6-10	654-661	without	_	
+6-11	662-675	Pre-treatment	_	
+6-12	675-676	.	_	

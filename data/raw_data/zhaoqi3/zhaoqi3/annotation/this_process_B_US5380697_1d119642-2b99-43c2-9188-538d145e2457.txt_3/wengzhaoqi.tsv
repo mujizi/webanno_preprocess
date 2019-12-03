@@ -1,0 +1,296 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=2) Dissolve 1699 g of (high purity) silver nitrate in 2100 ml deionized water.
+1-1	0-1	2	_	_	
+1-2	1-2	)	_	_	
+1-3	3-11	Dissolve	_	_	
+1-4	12-16	1699	_	_	
+1-5	17-18	g	_	_	
+1-6	19-21	of	_	_	
+1-7	22-23	(	_	_	
+1-8	23-27	high	_	_	
+1-9	28-34	purity	_	_	
+1-10	34-35	)	_	_	
+1-11	36-42	silver	_	_	
+1-12	43-50	nitrate	_	_	
+1-13	51-53	in	_	_	
+1-14	54-58	2100	_	_	
+1-15	59-61	ml	_	_	
+1-16	62-71	deionized	_	_	
+1-17	72-77	water	_	_	
+1-18	77-78	.	_	_	
+
+#Text=Adjust the temperature to 50.degree.
+2-1	79-85	Adjust	_	_	
+2-2	86-89	the	_	_	
+2-3	90-101	temperature	_	_	
+2-4	102-104	to	_	_	
+2-5	105-107	50	_	_	
+2-6	107-108	.	_	_	
+2-7	108-114	degree	_	_	
+2-8	114-115	.	_	_	
+
+#Text=C.
+#Text=3) Add sodium hydroxide solution slowly to silver nitrate solution with stirring while maintaining a temperature of 50.degree.
+3-1	116-117	C	_	_	
+3-2	117-118	.	_	_	
+3-3	119-120	3	_	_	
+3-4	120-121	)	_	_	
+3-5	122-125	Add	_	_	
+3-6	126-132	sodium	_	_	
+3-7	133-142	hydroxide	_	_	
+3-8	143-151	solution	_	_	
+3-9	152-158	slowly	_	_	
+3-10	159-161	to	_	_	
+3-11	162-168	silver	_	_	
+3-12	169-176	nitrate	_	_	
+3-13	177-185	solution	_	_	
+3-14	186-190	with	_	_	
+3-15	191-199	stirring	_	_	
+3-16	200-205	while	_	_	
+3-17	206-217	maintaining	_	_	
+3-18	218-219	a	_	_	
+3-19	220-231	temperature	_	_	
+3-20	232-234	of	_	_	
+3-21	235-237	50	_	_	
+3-22	237-238	.	_	_	
+3-23	238-244	degree	_	_	
+3-24	244-245	.	_	_	
+
+#Text=C.
+4-1	246-247	C	_	_	
+4-2	247-248	.	_	_	
+
+#Text=Stir for 15 minutes after addition is complete, and then lower the temperature to 40.degree.
+5-1	249-253	Stir	_	_	
+5-2	254-257	for	_	_	
+5-3	258-260	15	_	_	
+5-4	261-268	minutes	_	_	
+5-5	269-274	after	_	_	
+5-6	275-283	addition	_	_	
+5-7	284-286	is	_	_	
+5-8	287-295	complete	_	_	
+5-9	295-296	,	_	_	
+5-10	297-300	and	_	_	
+5-11	301-305	then	_	_	
+5-12	306-311	lower	_	_	
+5-13	312-315	the	_	_	
+5-14	316-327	temperature	_	_	
+5-15	328-330	to	_	_	
+5-16	331-333	40	_	_	
+5-17	333-334	.	_	_	
+5-18	334-340	degree	_	_	
+5-19	340-341	.	_	_	
+
+#Text=C.
+#Text=4) Insert clean filter wands and withdraw as much water as possible from the precipitate created in step (3) in order to remove sodium and nitrate ions.
+6-1	342-343	C	_	_	
+6-2	343-344	.	_	_	
+6-3	345-346	4	_	_	
+6-4	346-347	)	_	_	
+6-5	348-354	Insert	_	_	
+6-6	355-360	clean	_	_	
+6-7	361-367	filter	_	_	
+6-8	368-373	wands	_	_	
+6-9	374-377	and	_	_	
+6-10	378-386	withdraw	_	_	
+6-11	387-389	as	_	_	
+6-12	390-394	much	_	_	
+6-13	395-400	water	_	_	
+6-14	401-403	as	_	_	
+6-15	404-412	possible	_	_	
+6-16	413-417	from	_	_	
+6-17	418-421	the	_	_	
+6-18	422-433	precipitate	_	_	
+6-19	434-441	created	_	_	
+6-20	442-444	in	_	_	
+6-21	445-449	step	_	_	
+6-22	450-451	(	_	_	
+6-23	451-452	3	_	_	
+6-24	452-453	)	_	_	
+6-25	454-456	in	_	_	
+6-26	457-462	order	_	_	
+6-27	463-465	to	_	_	
+6-28	466-472	remove	_	_	
+6-29	473-479	sodium	_	_	
+6-30	480-483	and	_	_	
+6-31	484-491	nitrate	_	_	
+6-32	492-496	ions	_	_	
+6-33	496-497	.	_	_	
+
+#Text=Measure the conductivity of the water removed and add back as much fresh aleionized water as was removed by the filter wands.
+7-1	498-505	Measure	*[1]	10-2[2_1]	
+7-2	506-509	the	*[1]	_	
+7-3	510-522	conductivity	*[1]	_	
+7-4	523-525	of	*[1]	_	
+7-5	526-529	the	*[1]	_	
+7-6	530-535	water	*[1]	_	
+7-7	536-543	removed	*[1]	_	
+7-8	544-547	and	*[1]	_	
+7-9	548-551	add	*[1]	_	
+7-10	552-556	back	*[1]	_	
+7-11	557-559	as	*[1]	_	
+7-12	560-564	much	*[1]	_	
+7-13	565-570	fresh	*[1]	_	
+7-14	571-581	aleionized	*[1]	_	
+7-15	582-587	water	*[1]	_	
+7-16	588-590	as	*[1]	_	
+7-17	591-594	was	*[1]	_	
+7-18	595-602	removed	*[1]	_	
+7-19	603-605	by	*[1]	_	
+7-20	606-609	the	*[1]	_	
+7-21	610-616	filter	*[1]	_	
+7-22	617-622	wands	*[1]	_	
+7-23	622-623	.	*[1]	_	
+
+#Text=Stir for 15 minutes at 40.degree.
+8-1	624-628	Stir	_	_	
+8-2	629-632	for	_	_	
+8-3	633-635	15	_	_	
+8-4	636-643	minutes	_	_	
+8-5	644-646	at	_	_	
+8-6	647-649	40	_	_	
+8-7	649-650	.	_	_	
+8-8	650-656	degree	_	_	
+8-9	656-657	.	_	_	
+
+#Text=C.
+9-1	658-659	C	_	_	
+9-2	659-660	.	_	_	
+
+#Text=Repeat this process until the conductivity of the water removed is less than 90 .mu.mho/cm.
+10-1	661-667	Repeat	_	_	
+10-2	668-672	this	*[2]	_	
+10-3	673-680	process	*[2]	_	
+10-4	681-686	until	_	_	
+10-5	687-690	the	_	_	
+10-6	691-703	conductivity	_	_	
+10-7	704-706	of	_	_	
+10-8	707-710	the	_	_	
+10-9	711-716	water	_	_	
+10-10	717-724	removed	_	_	
+10-11	725-727	is	_	_	
+10-12	728-732	less	_	_	
+10-13	733-737	than	_	_	
+10-14	738-740	90	_	_	
+10-15	741-742	.	_	_	
+10-16	742-748	mu.mho	_	_	
+10-17	748-749	/	_	_	
+10-18	749-751	cm	_	_	
+10-19	751-752	.	_	_	
+
+#Text=Then add back 1500 ml deionized water.
+#Text=5) Add 630 g of high-purity oxalic acid dihydrate in approximately 100 g increments.
+11-1	753-757	Then	_	_	
+11-2	758-761	add	_	_	
+11-3	762-766	back	_	_	
+11-4	767-771	1500	_	_	
+11-5	772-774	ml	_	_	
+11-6	775-784	deionized	_	_	
+11-7	785-790	water	_	_	
+11-8	790-791	.	_	_	
+11-9	792-793	5	_	_	
+11-10	793-794	)	_	_	
+11-11	795-798	Add	_	_	
+11-12	799-802	630	_	_	
+11-13	803-804	g	_	_	
+11-14	805-807	of	_	_	
+11-15	808-819	high-purity	_	_	
+11-16	820-826	oxalic	_	_	
+11-17	827-831	acid	_	_	
+11-18	832-841	dihydrate	_	_	
+11-19	842-844	in	_	_	
+11-20	845-858	approximately	_	_	
+11-21	859-862	100	_	_	
+11-22	863-864	g	_	_	
+11-23	865-875	increments	_	_	
+11-24	875-876	.	_	_	
+
+#Text=Keep the temperature at 40.degree.
+12-1	877-881	Keep	_	_	
+12-2	882-885	the	_	_	
+12-3	886-897	temperature	_	_	
+12-4	898-900	at	_	_	
+12-5	901-903	40	_	_	
+12-6	903-904	.	_	_	
+12-7	904-910	degree	_	_	
+12-8	910-911	.	_	_	
+
+#Text=C. and stir to mix thoroughly.
+13-1	912-913	C	_	_	
+13-2	913-914	.	_	_	
+13-3	915-918	and	_	_	
+13-4	919-923	stir	_	_	
+13-5	924-926	to	_	_	
+13-6	927-930	mix	_	_	
+13-7	931-941	thoroughly	_	_	
+13-8	941-942	.	_	_	
+
+#Text=Add the last portion of oxalic acid dihydrate slowly and monitor pH to ensure that pH does not drop below 7.8.
+#Text=6) Remove as much water from the mixture as possible using clean filter wands in order to form a highly concentrated silver-containing slurry.
+14-1	943-946	Add	_	_	
+14-2	947-950	the	_	_	
+14-3	951-955	last	_	_	
+14-4	956-963	portion	_	_	
+14-5	964-966	of	_	_	
+14-6	967-973	oxalic	_	_	
+14-7	974-978	acid	_	_	
+14-8	979-988	dihydrate	_	_	
+14-9	989-995	slowly	_	_	
+14-10	996-999	and	_	_	
+14-11	1000-1007	monitor	_	_	
+14-12	1008-1010	pH	_	_	
+14-13	1011-1013	to	_	_	
+14-14	1014-1020	ensure	_	_	
+14-15	1021-1025	that	_	_	
+14-16	1026-1028	pH	_	_	
+14-17	1029-1033	does	_	_	
+14-18	1034-1037	not	_	_	
+14-19	1038-1042	drop	_	_	
+14-20	1043-1048	below	_	_	
+14-21	1049-1052	7.8	_	_	
+14-22	1052-1053	.	_	_	
+14-23	1054-1055	6	_	_	
+14-24	1055-1056	)	_	_	
+14-25	1057-1063	Remove	_	_	
+14-26	1064-1066	as	_	_	
+14-27	1067-1071	much	_	_	
+14-28	1072-1077	water	_	_	
+14-29	1078-1082	from	_	_	
+14-30	1083-1086	the	_	_	
+14-31	1087-1094	mixture	_	_	
+14-32	1095-1097	as	_	_	
+14-33	1098-1106	possible	_	_	
+14-34	1107-1112	using	_	_	
+14-35	1113-1118	clean	_	_	
+14-36	1119-1125	filter	_	_	
+14-37	1126-1131	wands	_	_	
+14-38	1132-1134	in	_	_	
+14-39	1135-1140	order	_	_	
+14-40	1141-1143	to	_	_	
+14-41	1144-1148	form	_	_	
+14-42	1149-1150	a	_	_	
+14-43	1151-1157	highly	_	_	
+14-44	1158-1170	concentrated	_	_	
+14-45	1171-1188	silver-containing	_	_	
+14-46	1189-1195	slurry	_	_	
+14-47	1195-1196	.	_	_	
+
+#Text=Cool the silver oxalate slurry to 30.degree.
+15-1	1197-1201	Cool	_	_	
+15-2	1202-1205	the	_	_	
+15-3	1206-1212	silver	_	_	
+15-4	1213-1220	oxalate	_	_	
+15-5	1221-1227	slurry	_	_	
+15-6	1228-1230	to	_	_	
+15-7	1231-1233	30	_	_	
+15-8	1233-1234	.	_	_	
+15-9	1234-1240	degree	_	_	
+15-10	1240-1241	.	_	_	
+
+#Text=C.
+16-1	1242-1243	C	_	_	
+16-2	1243-1244	.	_	_	

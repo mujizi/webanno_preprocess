@@ -1,0 +1,231 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=[0225] 36.
+1-1	0-1	[	_	_	
+1-2	1-5	0225	_	_	
+1-3	5-6	]	_	_	
+1-4	7-9	36	_	_	
+1-5	9-10	.	_	_	
+
+#Text=Acquisition Module
+#Text=[0226] Briefly, the acquisition module appends data from the six basic tables produced by the SCADA system into the four basic RDA tables.
+2-1	11-22	Acquisition	_	_	
+2-2	23-29	Module	_	_	
+2-3	30-31	[	*[1]	4-15[2_1]	
+2-4	31-35	0226	*[1]	_	
+2-5	35-36	]	*[1]	_	
+2-6	37-44	Briefly	*[1]	_	
+2-7	44-45	,	*[1]	_	
+2-8	46-49	the	*[1]	_	
+2-9	50-61	acquisition	*[1]	_	
+2-10	62-68	module	*[1]	_	
+2-11	69-76	appends	*[1]	_	
+2-12	77-81	data	*[1]	_	
+2-13	82-86	from	*[1]	_	
+2-14	87-90	the	*[1]	_	
+2-15	91-94	six	*[1]	_	
+2-16	95-100	basic	*[1]	_	
+2-17	101-107	tables	*[1]	_	
+2-18	108-116	produced	*[1]	_	
+2-19	117-119	by	*[1]	_	
+2-20	120-123	the	*[1]	_	
+2-21	124-129	SCADA	*[1]	_	
+2-22	130-136	system	*[1]	_	
+2-23	137-141	into	*[1]	_	
+2-24	142-145	the	*[1]	_	
+2-25	146-150	four	*[1]	_	
+2-26	151-156	basic	*[1]	_	
+2-27	157-160	RDA	*[1]	_	
+2-28	161-167	tables	*[1]	_	
+2-29	167-168	.	*[1]	_	
+
+#Text=The three ten-minute tables are each appended to their own corresponding RDA tables.
+3-1	169-172	The	_	_	
+3-2	173-178	three	_	_	
+3-3	179-189	ten-minute	_	_	
+3-4	190-196	tables	_	_	
+3-5	197-200	are	_	_	
+3-6	201-205	each	_	_	
+3-7	206-214	appended	_	_	
+3-8	215-217	to	_	_	
+3-9	218-223	their	_	_	
+3-10	224-227	own	_	_	
+3-11	228-241	corresponding	_	_	
+3-12	242-245	RDA	_	_	
+3-13	246-252	tables	_	_	
+3-14	252-253	.	_	_	
+
+#Text=The three error tables are all appended to 10MinErrors.
+#Text=[0227] In this process, the circuit ID and the items ID are converted via the appropriate asset query to a system an ID (simply called ID in the tables).
+4-1	254-257	The	_	_	
+4-2	258-263	three	_	_	
+4-3	264-269	error	_	_	
+4-4	270-276	tables	_	_	
+4-5	277-280	are	_	_	
+4-6	281-284	all	_	_	
+4-7	285-293	appended	_	_	
+4-8	294-296	to	_	_	
+4-9	297-308	10MinErrors	_	_	
+4-10	308-309	.	_	_	
+4-11	310-311	[	_	_	
+4-12	311-315	0227	_	_	
+4-13	315-316	]	_	_	
+4-14	317-319	In	_	_	
+4-15	320-324	this	*[2]	_	
+4-16	325-332	process	*[2]	_	
+4-17	332-333	,	_	_	
+4-18	334-337	the	_	_	
+4-19	338-345	circuit	_	_	
+4-20	346-348	ID	_	_	
+4-21	349-352	and	_	_	
+4-22	353-356	the	_	_	
+4-23	357-362	items	_	_	
+4-24	363-365	ID	_	_	
+4-25	366-369	are	_	_	
+4-26	370-379	converted	_	_	
+4-27	380-383	via	_	_	
+4-28	384-387	the	_	_	
+4-29	388-399	appropriate	_	_	
+4-30	400-405	asset	_	_	
+4-31	406-411	query	_	_	
+4-32	412-414	to	_	_	
+4-33	415-416	a	_	_	
+4-34	417-423	system	_	_	
+4-35	424-426	an	_	_	
+4-36	427-429	ID	_	_	
+4-37	430-431	(	_	_	
+4-38	431-437	simply	_	_	
+4-39	438-444	called	_	_	
+4-40	445-447	ID	_	_	
+4-41	448-450	in	_	_	
+4-42	451-454	the	_	_	
+4-43	455-461	tables	_	_	
+4-44	461-462	)	_	_	
+4-45	462-463	.	_	_	
+
+#Text=This ID is then used by all the remaining ERAM functions.
+#Text=[0228] This translation process is to maintain compatibility with a PMC style Asset/Resource tracking database.
+5-1	464-468	This	_	_	
+5-2	469-471	ID	_	_	
+5-3	472-474	is	_	_	
+5-4	475-479	then	_	_	
+5-5	480-484	used	_	_	
+5-6	485-487	by	_	_	
+5-7	488-491	all	_	_	
+5-8	492-495	the	_	_	
+5-9	496-505	remaining	_	_	
+5-10	506-510	ERAM	_	_	
+5-11	511-520	functions	_	_	
+5-12	520-521	.	_	_	
+5-13	522-523	[	_	_	
+5-14	523-527	0228	_	_	
+5-15	527-528	]	_	_	
+5-16	529-533	This	_	_	
+5-17	534-545	translation	_	_	
+5-18	546-553	process	_	_	
+5-19	554-556	is	_	_	
+5-20	557-559	to	_	_	
+5-21	560-568	maintain	_	_	
+5-22	569-582	compatibility	_	_	
+5-23	583-587	with	_	_	
+5-24	588-589	a	_	_	
+5-25	590-593	PMC	_	_	
+5-26	594-599	style	_	_	
+5-27	600-605	Asset	_	_	
+5-28	605-606	/	_	_	
+5-29	606-614	Resource	_	_	
+5-30	615-623	tracking	_	_	
+5-31	624-632	database	_	_	
+5-32	632-633	.	_	_	
+
+#Text=Also to insure the ability to link system sites via a WAN (Wide Area Network), each asset (i.e.
+6-1	634-638	Also	_	_	
+6-2	639-641	to	_	_	
+6-3	642-648	insure	_	_	
+6-4	649-652	the	_	_	
+6-5	653-660	ability	_	_	
+6-6	661-663	to	_	_	
+6-7	664-668	link	_	_	
+6-8	669-675	system	_	_	
+6-9	676-681	sites	_	_	
+6-10	682-685	via	_	_	
+6-11	686-687	a	_	_	
+6-12	688-691	WAN	_	_	
+6-13	692-693	(	_	_	
+6-14	693-697	Wide	_	_	
+6-15	698-702	Area	_	_	
+6-16	703-710	Network	_	_	
+6-17	710-711	)	_	_	
+6-18	711-712	,	_	_	
+6-19	713-717	each	_	_	
+6-20	718-723	asset	_	_	
+6-21	724-725	(	_	_	
+6-22	725-728	i.e	_	_	
+6-23	728-729	.	_	_	
+
+#Text=Turbine, Met Station, and Substation (metered circuit with a breaker)) is given a unique ID.
+7-1	730-737	Turbine	_	_	
+7-2	737-738	,	_	_	
+7-3	739-742	Met	_	_	
+7-4	743-750	Station	_	_	
+7-5	750-751	,	_	_	
+7-6	752-755	and	_	_	
+7-7	756-766	Substation	_	_	
+7-8	767-768	(	_	_	
+7-9	768-775	metered	_	_	
+7-10	776-783	circuit	_	_	
+7-11	784-788	with	_	_	
+7-12	789-790	a	_	_	
+7-13	791-798	breaker	_	_	
+7-14	798-799	)	_	_	
+7-15	799-800	)	_	_	
+7-16	801-803	is	_	_	
+7-17	804-809	given	_	_	
+7-18	810-811	a	_	_	
+7-19	812-818	unique	_	_	
+7-20	819-821	ID	_	_	
+7-21	821-822	.	_	_	
+
+#Text=(Long Integer)
+#Text=3 Translation SCADA Table Update Query Query RDA Data Table WTG10MIN ag10MinWtg AssetsWTG 10MinWtg MET10MIN ag10MinMet AssetsMET 10MinMet SUB10MIN ag10MinSub AssetsSUB 10MinSub WTGERR agErrWtg AssetsWTG 10MinErrors BREAKERR agErrBrk AssetsSUB 10MinErrors COMERR agErrCom AssetsAll 10MinErrors
+8-1	823-824	(	_	_	
+8-2	824-828	Long	_	_	
+8-3	829-836	Integer	_	_	
+8-4	836-837	)	_	_	
+8-5	838-839	3	_	_	
+8-6	840-851	Translation	_	_	
+8-7	852-857	SCADA	_	_	
+8-8	858-863	Table	_	_	
+8-9	864-870	Update	_	_	
+8-10	871-876	Query	_	_	
+8-11	877-882	Query	_	_	
+8-12	883-886	RDA	_	_	
+8-13	887-891	Data	_	_	
+8-14	892-897	Table	_	_	
+8-15	898-906	WTG10MIN	_	_	
+8-16	907-917	ag10MinWtg	_	_	
+8-17	918-927	AssetsWTG	_	_	
+8-18	928-936	10MinWtg	_	_	
+8-19	937-945	MET10MIN	_	_	
+8-20	946-956	ag10MinMet	_	_	
+8-21	957-966	AssetsMET	_	_	
+8-22	967-975	10MinMet	_	_	
+8-23	976-984	SUB10MIN	_	_	
+8-24	985-995	ag10MinSub	_	_	
+8-25	996-1005	AssetsSUB	_	_	
+8-26	1006-1014	10MinSub	_	_	
+8-27	1015-1021	WTGERR	_	_	
+8-28	1022-1030	agErrWtg	_	_	
+8-29	1031-1040	AssetsWTG	_	_	
+8-30	1041-1052	10MinErrors	_	_	
+8-31	1053-1061	BREAKERR	_	_	
+8-32	1062-1070	agErrBrk	_	_	
+8-33	1071-1080	AssetsSUB	_	_	
+8-34	1081-1092	10MinErrors	_	_	
+8-35	1093-1099	COMERR	_	_	
+8-36	1100-1108	agErrCom	_	_	
+8-37	1109-1118	AssetsAll	_	_	
+8-38	1119-1130	10MinErrors	_	_	

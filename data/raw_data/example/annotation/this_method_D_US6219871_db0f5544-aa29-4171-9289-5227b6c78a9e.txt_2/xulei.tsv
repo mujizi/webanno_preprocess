@@ -1,0 +1,316 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=and other desirable properties as is necessary for the functioning as described herein.
+#Text=2.
+1-1	0-3	and	
+1-2	4-9	other	
+1-3	10-19	desirable	
+1-4	20-30	properties	
+1-5	31-33	as	
+1-6	34-36	is	
+1-7	37-46	necessary	
+1-8	47-50	for	
+1-9	51-54	the	
+1-10	55-66	functioning	
+1-11	67-69	as	
+1-12	70-79	described	
+1-13	80-86	herein	
+1-14	86-87	.	
+1-15	88-89	2	
+1-16	89-90	.	
+
+#Text=Water Extraction Method Breakthrough
+#Text=It been found that if a plastic grocery bag is tied shut with articles of laundry and water inside, and a vacuum applied inside the bag, the grocery bag collapses due to atmospheric pressure.
+2-1	91-96	Water	
+2-2	97-107	Extraction	
+2-3	108-114	Method	
+2-4	115-127	Breakthrough	
+2-5	128-130	It	
+2-6	131-135	been	
+2-7	136-141	found	
+2-8	142-146	that	
+2-9	147-149	if	
+2-10	150-151	a	
+2-11	152-159	plastic	
+2-12	160-167	grocery	
+2-13	168-171	bag	
+2-14	172-174	is	
+2-15	175-179	tied	
+2-16	180-184	shut	
+2-17	185-189	with	
+2-18	190-198	articles	
+2-19	199-201	of	
+2-20	202-209	laundry	
+2-21	210-213	and	
+2-22	214-219	water	
+2-23	220-226	inside	
+2-24	226-227	,	
+2-25	228-231	and	
+2-26	232-233	a	
+2-27	234-240	vacuum	
+2-28	241-248	applied	
+2-29	249-255	inside	
+2-30	256-259	the	
+2-31	260-263	bag	
+2-32	263-264	,	
+2-33	265-268	the	
+2-34	269-276	grocery	
+2-35	277-280	bag	
+2-36	281-290	collapses	
+2-37	291-294	due	
+2-38	295-297	to	
+2-39	298-309	atmospheric	
+2-40	310-318	pressure	
+2-41	318-319	.	
+
+#Text=This collapse presses the water out of the articles of laundry inside the bag.
+3-1	320-324	This	
+3-2	325-333	collapse	
+3-3	334-341	presses	
+3-4	342-345	the	
+3-5	346-351	water	
+3-6	352-355	out	
+3-7	356-358	of	
+3-8	359-362	the	
+3-9	363-371	articles	
+3-10	372-374	of	
+3-11	375-382	laundry	
+3-12	383-389	inside	
+3-13	390-393	the	
+3-14	394-397	bag	
+3-15	397-398	.	
+
+#Text=Even more water is extracted by both mechanical and evaporative removal, when air is repeatedly allowed to re-enter the evacuated bag and the bag again evacuated.
+4-1	399-403	Even	
+4-2	404-408	more	
+4-3	409-414	water	
+4-4	415-417	is	
+4-5	418-427	extracted	
+4-6	428-430	by	
+4-7	431-435	both	
+4-8	436-446	mechanical	
+4-9	447-450	and	
+4-10	451-462	evaporative	
+4-11	463-470	removal	
+4-12	470-471	,	
+4-13	472-476	when	
+4-14	477-480	air	
+4-15	481-483	is	
+4-16	484-494	repeatedly	
+4-17	495-502	allowed	
+4-18	503-505	to	
+4-19	506-514	re-enter	
+4-20	515-518	the	
+4-21	519-528	evacuated	
+4-22	529-532	bag	
+4-23	533-536	and	
+4-24	537-540	the	
+4-25	541-544	bag	
+4-26	545-550	again	
+4-27	551-560	evacuated	
+4-28	560-561	.	
+
+#Text=This method of water extraction is ideal for an automatic washing machine using a flexible bag for the washing container.
+5-1	562-566	This	
+5-2	567-573	method	
+5-3	574-576	of	
+5-4	577-582	water	
+5-5	583-593	extraction	
+5-6	594-596	is	
+5-7	597-602	ideal	
+5-8	603-606	for	
+5-9	607-609	an	
+5-10	610-619	automatic	
+5-11	620-627	washing	
+5-12	628-635	machine	
+5-13	636-641	using	
+5-14	642-643	a	
+5-15	644-652	flexible	
+5-16	653-656	bag	
+5-17	657-660	for	
+5-18	661-664	the	
+5-19	665-672	washing	
+5-20	673-682	container	
+5-21	682-683	.	
+
+#Text=The reduced atmospheric pressure at higher elevations may require artificial assistance.
+6-1	684-687	The	
+6-2	688-695	reduced	
+6-3	696-707	atmospheric	
+6-4	708-716	pressure	
+6-5	717-719	at	
+6-6	720-726	higher	
+6-7	727-737	elevations	
+6-8	738-741	may	
+6-9	742-749	require	
+6-10	750-760	artificial	
+6-11	761-771	assistance	
+6-12	771-772	.	
+
+#Text=This reduced atmospheric pressure can be assisted easily by doubling the bag such that one bag is inside the other.
+7-1	773-777	This	
+7-2	778-785	reduced	
+7-3	786-797	atmospheric	
+7-4	798-806	pressure	
+7-5	807-810	can	
+7-6	811-813	be	
+7-7	814-822	assisted	
+7-8	823-829	easily	
+7-9	830-832	by	
+7-10	833-841	doubling	
+7-11	842-845	the	
+7-12	846-849	bag	
+7-13	850-854	such	
+7-14	855-859	that	
+7-15	860-863	one	
+7-16	864-867	bag	
+7-17	868-870	is	
+7-18	871-877	inside	
+7-19	878-881	the	
+7-20	882-887	other	
+7-21	887-888	.	
+
+#Text=Supplemental air pressure could be applied between the two bags to assist the atmospheric pressure in collapsing the inner bag, thus effectively wringing the water from the laundry.
+8-1	889-901	Supplemental	
+8-2	902-905	air	
+8-3	906-914	pressure	
+8-4	915-920	could	
+8-5	921-923	be	
+8-6	924-931	applied	
+8-7	932-939	between	
+8-8	940-943	the	
+8-9	944-947	two	
+8-10	948-952	bags	
+8-11	953-955	to	
+8-12	956-962	assist	
+8-13	963-966	the	
+8-14	967-978	atmospheric	
+8-15	979-987	pressure	
+8-16	988-990	in	
+8-17	991-1001	collapsing	
+8-18	1002-1005	the	
+8-19	1006-1011	inner	
+8-20	1012-1015	bag	
+8-21	1015-1016	,	
+8-22	1017-1021	thus	
+8-23	1022-1033	effectively	
+8-24	1034-1042	wringing	
+8-25	1043-1046	the	
+8-26	1047-1052	water	
+8-27	1053-1057	from	
+8-28	1058-1061	the	
+8-29	1062-1069	laundry	
+8-30	1069-1070	.	
+
+#Text=This method of supplemental air pressure may be used even at sea level if dryer laundry is desired.
+9-1	1071-1075	This	
+9-2	1076-1082	method	
+9-3	1083-1085	of	
+9-4	1086-1098	supplemental	
+9-5	1099-1102	air	
+9-6	1103-1111	pressure	
+9-7	1112-1115	may	
+9-8	1116-1118	be	
+9-9	1119-1123	used	
+9-10	1124-1128	even	
+9-11	1129-1131	at	
+9-12	1132-1135	sea	
+9-13	1136-1141	level	
+9-14	1142-1144	if	
+9-15	1145-1150	dryer	
+9-16	1151-1158	laundry	
+9-17	1159-1161	is	
+9-18	1162-1169	desired	
+9-19	1169-1170	.	
+
+#Text=Thus, the spin cycle of prior art washing machines is eliminated.
+10-1	1171-1175	Thus	
+10-2	1175-1176	,	
+10-3	1177-1180	the	
+10-4	1181-1185	spin	
+10-5	1186-1191	cycle	
+10-6	1192-1194	of	
+10-7	1195-1200	prior	
+10-8	1201-1204	art	
+10-9	1205-1212	washing	
+10-10	1213-1221	machines	
+10-11	1222-1224	is	
+10-12	1225-1235	eliminated	
+10-13	1235-1236	.	
+
+#Text=With the spin cycle gone, the heavy parts requirement is gone.
+11-1	1237-1241	With	
+11-2	1242-1245	the	
+11-3	1246-1250	spin	
+11-4	1251-1256	cycle	
+11-5	1257-1261	gone	
+11-6	1261-1262	,	
+11-7	1263-1266	the	
+11-8	1267-1272	heavy	
+11-9	1273-1278	parts	
+11-10	1279-1290	requirement	
+11-11	1291-1293	is	
+11-12	1294-1298	gone	
+11-13	1298-1299	.	
+
+#Text=It may seem paradoxical that replacing big parts with small parts, metal with plastic and rigid with flexible, will improve the capacity and the cleaning properties of a washing machine.
+12-1	1300-1302	It	
+12-2	1303-1306	may	
+12-3	1307-1311	seem	
+12-4	1312-1323	paradoxical	
+12-5	1324-1328	that	
+12-6	1329-1338	replacing	
+12-7	1339-1342	big	
+12-8	1343-1348	parts	
+12-9	1349-1353	with	
+12-10	1354-1359	small	
+12-11	1360-1365	parts	
+12-12	1365-1366	,	
+12-13	1367-1372	metal	
+12-14	1373-1377	with	
+12-15	1378-1385	plastic	
+12-16	1386-1389	and	
+12-17	1390-1395	rigid	
+12-18	1396-1400	with	
+12-19	1401-1409	flexible	
+12-20	1409-1410	,	
+12-21	1411-1415	will	
+12-22	1416-1423	improve	
+12-23	1424-1427	the	
+12-24	1428-1436	capacity	
+12-25	1437-1440	and	
+12-26	1441-1444	the	
+12-27	1445-1453	cleaning	
+12-28	1454-1464	properties	
+12-29	1465-1467	of	
+12-30	1468-1469	a	
+12-31	1470-1477	washing	
+12-32	1478-1485	machine	
+12-33	1485-1486	.	
+
+#Text=However, the result has been empirically verified.
+13-1	1487-1494	However	
+13-2	1494-1495	,	
+13-3	1496-1499	the	
+13-4	1500-1506	result	
+13-5	1507-1510	has	
+13-6	1511-1515	been	
+13-7	1516-1527	empirically	
+13-8	1528-1536	verified	
+13-9	1536-1537	.	
+
+#Text=With this invention, less works better.
+14-1	1538-1542	With	
+14-2	1543-1547	this	
+14-3	1548-1557	invention	
+14-4	1557-1558	,	
+14-5	1559-1563	less	
+14-6	1564-1569	works	
+14-7	1570-1576	better	
+14-8	1576-1577	.	
+
+#Text=Water Treatment Theory
+15-1	1578-1583	Water	
+15-2	1584-1593	Treatment	
+15-3	1594-1600	Theory	

@@ -1,0 +1,540 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=[0040] A stable spherical vaterite calcium carbonate material was prepared in accordance with the present invention as follows.
+1-1	0-1	[	
+1-2	1-5	0040	
+1-3	5-6	]	
+1-4	7-8	A	
+1-5	9-15	stable	
+1-6	16-25	spherical	
+1-7	26-34	vaterite	
+1-8	35-42	calcium	
+1-9	43-52	carbonate	
+1-10	53-61	material	
+1-11	62-65	was	
+1-12	66-74	prepared	
+1-13	75-77	in	
+1-14	78-88	accordance	
+1-15	89-93	with	
+1-16	94-97	the	
+1-17	98-105	present	
+1-18	106-115	invention	
+1-19	116-118	as	
+1-20	119-126	follows	
+1-21	126-127	.	
+
+#Text=First, 4 liters of 2 M reagent grade sodium carbonate was added to a rotor-stator, high speed dispersion Kady.RTM. lab mill (model number L) available from Kady International, Scarborough, Me.
+2-1	128-133	First	
+2-2	133-134	,	
+2-3	135-136	4	
+2-4	137-143	liters	
+2-5	144-146	of	
+2-6	147-148	2	
+2-7	149-150	M	
+2-8	151-158	reagent	
+2-9	159-164	grade	
+2-10	165-171	sodium	
+2-11	172-181	carbonate	
+2-12	182-185	was	
+2-13	186-191	added	
+2-14	192-194	to	
+2-15	195-196	a	
+2-16	197-209	rotor-stator	
+2-17	209-210	,	
+2-18	211-215	high	
+2-19	216-221	speed	
+2-20	222-232	dispersion	
+2-21	233-241	Kady.RTM	
+2-22	241-242	.	
+2-23	243-246	lab	
+2-24	247-251	mill	
+2-25	252-253	(	
+2-26	253-258	model	
+2-27	259-265	number	
+2-28	266-267	L	
+2-29	267-268	)	
+2-30	269-278	available	
+2-31	279-283	from	
+2-32	284-288	Kady	
+2-33	289-302	International	
+2-34	302-303	,	
+2-35	304-315	Scarborough	
+2-36	315-316	,	
+2-37	317-319	Me	
+2-38	319-320	.	
+
+#Text=Next, 4 liters of 2 M reagent grade calcium chloride was poured into the sodium carbonate solution.
+3-1	321-325	Next	
+3-2	325-326	,	
+3-3	327-328	4	
+3-4	329-335	liters	
+3-5	336-338	of	
+3-6	339-340	2	
+3-7	341-342	M	
+3-8	343-350	reagent	
+3-9	351-356	grade	
+3-10	357-364	calcium	
+3-11	365-373	chloride	
+3-12	374-377	was	
+3-13	378-384	poured	
+3-14	385-389	into	
+3-15	390-393	the	
+3-16	394-400	sodium	
+3-17	401-410	carbonate	
+3-18	411-419	solution	
+3-19	419-420	.	
+
+#Text=The mixture was stirred with the Kady mill at 40 Hz for five minutes.
+4-1	421-424	The	
+4-2	425-432	mixture	
+4-3	433-436	was	
+4-4	437-444	stirred	
+4-5	445-449	with	
+4-6	450-453	the	
+4-7	454-458	Kady	
+4-8	459-463	mill	
+4-9	464-466	at	
+4-10	467-469	40	
+4-11	470-472	Hz	
+4-12	473-476	for	
+4-13	477-481	five	
+4-14	482-489	minutes	
+4-15	489-490	.	
+
+#Text=The reaction was carried out at room temperature (25.degree.
+5-1	491-494	The	
+5-2	495-503	reaction	
+5-3	504-507	was	
+5-4	508-515	carried	
+5-5	516-519	out	
+5-6	520-522	at	
+5-7	523-527	room	
+5-8	528-539	temperature	
+5-9	540-541	(	
+5-10	541-543	25	
+5-11	543-544	.	
+5-12	544-550	degree	
+5-13	550-551	.	
+
+#Text=C.).
+6-1	552-553	C	
+6-2	553-554	.	
+6-3	554-555	)	
+6-4	555-556	.	
+
+#Text=To the resultant vaterite slurry was added 1.4 g of sodium polyphosphate, (NaPO3).sub.n available from Aldrich Chemical Company.
+7-1	557-559	To	
+7-2	560-563	the	
+7-3	564-573	resultant	
+7-4	574-582	vaterite	
+7-5	583-589	slurry	
+7-6	590-593	was	
+7-7	594-599	added	
+7-8	600-603	1.4	
+7-9	604-605	g	
+7-10	606-608	of	
+7-11	609-615	sodium	
+7-12	616-629	polyphosphate	
+7-13	629-630	,	
+7-14	631-632	(	
+7-15	632-637	NaPO3	
+7-16	637-638	)	
+7-17	638-639	.	
+7-18	639-644	sub.n	
+7-19	645-654	available	
+7-20	655-659	from	
+7-21	660-667	Aldrich	
+7-22	668-676	Chemical	
+7-23	677-684	Company	
+7-24	684-685	.	
+
+#Text=The slurry was placed in a 5-gal. plastic bucket.
+8-1	686-689	The	
+8-2	690-696	slurry	
+8-3	697-700	was	
+8-4	701-707	placed	
+8-5	708-710	in	
+8-6	711-712	a	
+8-7	713-714	5	
+8-8	714-715	-	
+8-9	715-718	gal	
+8-10	718-719	.	
+8-11	720-727	plastic	
+8-12	728-734	bucket	
+8-13	734-735	.	
+
+#Text=Three more batches of vaterite were prepared as described above and the slurries were all combined in the bucket.
+9-1	736-741	Three	
+9-2	742-746	more	
+9-3	747-754	batches	
+9-4	755-757	of	
+9-5	758-766	vaterite	
+9-6	767-771	were	
+9-7	772-780	prepared	
+9-8	781-783	as	
+9-9	784-793	described	
+9-10	794-799	above	
+9-11	800-803	and	
+9-12	804-807	the	
+9-13	808-816	slurries	
+9-14	817-821	were	
+9-15	822-825	all	
+9-16	826-834	combined	
+9-17	835-837	in	
+9-18	838-841	the	
+9-19	842-848	bucket	
+9-20	848-849	.	
+
+#Text=Thereafter, the combined slurry was filtered on a buchner funnel and washed with deionized water.
+10-1	850-860	Thereafter	
+10-2	860-861	,	
+10-3	862-865	the	
+10-4	866-874	combined	
+10-5	875-881	slurry	
+10-6	882-885	was	
+10-7	886-894	filtered	
+10-8	895-897	on	
+10-9	898-899	a	
+10-10	900-907	buchner	
+10-11	908-914	funnel	
+10-12	915-918	and	
+10-13	919-925	washed	
+10-14	926-930	with	
+10-15	931-940	deionized	
+10-16	941-946	water	
+10-17	946-947	.	
+
+#Text=The filter cake was dried in an oven at 100.degree.
+11-1	948-951	The	
+11-2	952-958	filter	
+11-3	959-963	cake	
+11-4	964-967	was	
+11-5	968-973	dried	
+11-6	974-976	in	
+11-7	977-979	an	
+11-8	980-984	oven	
+11-9	985-987	at	
+11-10	988-991	100	
+11-11	991-992	.	
+11-12	992-998	degree	
+11-13	998-999	.	
+
+#Text=C. overnight.
+12-1	1000-1001	C	
+12-2	1001-1002	.	
+12-3	1003-1012	overnight	
+12-4	1012-1013	.	
+
+#Text=Physical properties of Example 1 stabilized vaterite is given in Table 1 below.
+13-1	1014-1022	Physical	
+13-2	1023-1033	properties	
+13-3	1034-1036	of	
+13-4	1037-1044	Example	
+13-5	1045-1046	1	
+13-6	1047-1057	stabilized	
+13-7	1058-1066	vaterite	
+13-8	1067-1069	is	
+13-9	1070-1075	given	
+13-10	1076-1078	in	
+13-11	1079-1084	Table	
+13-12	1085-1086	1	
+13-13	1087-1092	below	
+13-14	1092-1093	.	
+
+#Text=EXAMPLE 2
+#Text=[0041] A stable vaterite calcium carbonate was prepared by first preparing a solution of 2 molar calcium chloride and 4 molar monoethanolamine.
+14-1	1094-1101	EXAMPLE	
+14-2	1102-1103	2	
+14-3	1104-1105	[	
+14-4	1105-1109	0041	
+14-5	1109-1110	]	
+14-6	1111-1112	A	
+14-7	1113-1119	stable	
+14-8	1120-1128	vaterite	
+14-9	1129-1136	calcium	
+14-10	1137-1146	carbonate	
+14-11	1147-1150	was	
+14-12	1151-1159	prepared	
+14-13	1160-1162	by	
+14-14	1163-1168	first	
+14-15	1169-1178	preparing	
+14-16	1179-1180	a	
+14-17	1181-1189	solution	
+14-18	1190-1192	of	
+14-19	1193-1194	2	
+14-20	1195-1200	molar	
+14-21	1201-1208	calcium	
+14-22	1209-1217	chloride	
+14-23	1218-1221	and	
+14-24	1222-1223	4	
+14-25	1224-1229	molar	
+14-26	1230-1246	monoethanolamine	
+14-27	1246-1247	.	
+
+#Text=This solution was stored for 2 weeks before use. 6 liters of the previously prepared calcium chloride/monoethanolamine solution was added to a 5-gal reactor equipped with mechanical stirring means.
+15-1	1248-1252	This	
+15-2	1253-1261	solution	
+15-3	1262-1265	was	
+15-4	1266-1272	stored	
+15-5	1273-1276	for	
+15-6	1277-1278	2	
+15-7	1279-1284	weeks	
+15-8	1285-1291	before	
+15-9	1292-1295	use	
+15-10	1295-1296	.	
+15-11	1297-1298	6	
+15-12	1299-1305	liters	
+15-13	1306-1308	of	
+15-14	1309-1312	the	
+15-15	1313-1323	previously	
+15-16	1324-1332	prepared	
+15-17	1333-1340	calcium	
+15-18	1341-1349	chloride	
+15-19	1349-1350	/	
+15-20	1350-1366	monoethanolamine	
+15-21	1367-1375	solution	
+15-22	1376-1379	was	
+15-23	1380-1385	added	
+15-24	1386-1388	to	
+15-25	1389-1390	a	
+15-26	1391-1392	5	
+15-27	1392-1393	-	
+15-28	1393-1396	gal	
+15-29	1397-1404	reactor	
+15-30	1405-1413	equipped	
+15-31	1414-1418	with	
+15-32	1419-1429	mechanical	
+15-33	1430-1438	stirring	
+15-34	1439-1444	means	
+15-35	1444-1445	.	
+
+#Text=The pH of this solution was 11.1.
+16-1	1446-1449	The	
+16-2	1450-1452	pH	
+16-3	1453-1455	of	
+16-4	1456-1460	this	
+16-5	1461-1469	solution	
+16-6	1470-1473	was	
+16-7	1474-1478	11.1	
+16-8	1478-1479	.	
+
+#Text=Carbon dioxide gas was added to the stirred reactor contents at a rate of 22.5 L/min.
+17-1	1480-1486	Carbon	
+17-2	1487-1494	dioxide	
+17-3	1495-1498	gas	
+17-4	1499-1502	was	
+17-5	1503-1508	added	
+17-6	1509-1511	to	
+17-7	1512-1515	the	
+17-8	1516-1523	stirred	
+17-9	1524-1531	reactor	
+17-10	1532-1540	contents	
+17-11	1541-1543	at	
+17-12	1544-1545	a	
+17-13	1546-1550	rate	
+17-14	1551-1553	of	
+17-15	1554-1558	22.5	
+17-16	1559-1560	L	
+17-17	1560-1561	/	
+17-18	1561-1564	min	
+17-19	1564-1565	.	
+
+#Text=Carbonation continued until the reaction mixture reached pH 7.46, which took about 34 minutes.
+18-1	1566-1577	Carbonation	
+18-2	1578-1587	continued	
+18-3	1588-1593	until	
+18-4	1594-1597	the	
+18-5	1598-1606	reaction	
+18-6	1607-1614	mixture	
+18-7	1615-1622	reached	
+18-8	1623-1625	pH	
+18-9	1626-1630	7.46	
+18-10	1630-1631	,	
+18-11	1632-1637	which	
+18-12	1638-1642	took	
+18-13	1643-1648	about	
+18-14	1649-1651	34	
+18-15	1652-1659	minutes	
+18-16	1659-1660	.	
+
+#Text=Carbonation and stirring was stopped for 30 minutes.
+19-1	1661-1672	Carbonation	
+19-2	1673-1676	and	
+19-3	1677-1685	stirring	
+19-4	1686-1689	was	
+19-5	1690-1697	stopped	
+19-6	1698-1701	for	
+19-7	1702-1704	30	
+19-8	1705-1712	minutes	
+19-9	1712-1713	.	
+
+#Text=Thereafter, carbonation and stirring resumed until the reaction slurry reached pH 6.87.
+20-1	1714-1724	Thereafter	
+20-2	1724-1725	,	
+20-3	1726-1737	carbonation	
+20-4	1738-1741	and	
+20-5	1742-1750	stirring	
+20-6	1751-1758	resumed	
+20-7	1759-1764	until	
+20-8	1765-1768	the	
+20-9	1769-1777	reaction	
+20-10	1778-1784	slurry	
+20-11	1785-1792	reached	
+20-12	1793-1795	pH	
+20-13	1796-1800	6.87	
+20-14	1800-1801	.	
+
+#Text=The resultant vaterite slurry was filtered and washed with deionized water until the filtrate slurry reached a conductivity of 500 .mu.S, indicating the by-product salt had been washed from the wet cake.
+21-1	1802-1805	The	
+21-2	1806-1815	resultant	
+21-3	1816-1824	vaterite	
+21-4	1825-1831	slurry	
+21-5	1832-1835	was	
+21-6	1836-1844	filtered	
+21-7	1845-1848	and	
+21-8	1849-1855	washed	
+21-9	1856-1860	with	
+21-10	1861-1870	deionized	
+21-11	1871-1876	water	
+21-12	1877-1882	until	
+21-13	1883-1886	the	
+21-14	1887-1895	filtrate	
+21-15	1896-1902	slurry	
+21-16	1903-1910	reached	
+21-17	1911-1912	a	
+21-18	1913-1925	conductivity	
+21-19	1926-1928	of	
+21-20	1929-1932	500	
+21-21	1933-1934	.	
+21-22	1934-1938	mu.S	
+21-23	1938-1939	,	
+21-24	1940-1950	indicating	
+21-25	1951-1954	the	
+21-26	1955-1965	by-product	
+21-27	1966-1970	salt	
+21-28	1971-1974	had	
+21-29	1975-1979	been	
+21-30	1980-1986	washed	
+21-31	1987-1991	from	
+21-32	1992-1995	the	
+21-33	1996-1999	wet	
+21-34	2000-2004	cake	
+21-35	2004-2005	.	
+
+#Text=The vaterite wet cake was stabilized by mixing 12 g of sodium polyphosphate into the wet cake.
+22-1	2006-2009	The	
+22-2	2010-2018	vaterite	
+22-3	2019-2022	wet	
+22-4	2023-2027	cake	
+22-5	2028-2031	was	
+22-6	2032-2042	stabilized	
+22-7	2043-2045	by	
+22-8	2046-2052	mixing	
+22-9	2053-2055	12	
+22-10	2056-2057	g	
+22-11	2058-2060	of	
+22-12	2061-2067	sodium	
+22-13	2068-2081	polyphosphate	
+22-14	2082-2086	into	
+22-15	2087-2090	the	
+22-16	2091-2094	wet	
+22-17	2095-2099	cake	
+22-18	2099-2100	.	
+
+#Text=Thereafter, the resultant stabilized vaterite was dried overnight in an oven at 100.degree.
+23-1	2101-2111	Thereafter	
+23-2	2111-2112	,	
+23-3	2113-2116	the	
+23-4	2117-2126	resultant	
+23-5	2127-2137	stabilized	
+23-6	2138-2146	vaterite	
+23-7	2147-2150	was	
+23-8	2151-2156	dried	
+23-9	2157-2166	overnight	
+23-10	2167-2169	in	
+23-11	2170-2172	an	
+23-12	2173-2177	oven	
+23-13	2178-2180	at	
+23-14	2181-2184	100	
+23-15	2184-2185	.	
+23-16	2185-2191	degree	
+23-17	2191-2192	.	
+
+#Text=C.
+24-1	2193-2194	C	
+24-2	2194-2195	.	
+
+#Text=Physical properties of Example 2 are given in Table 1 below.
+25-1	2196-2204	Physical	
+25-2	2205-2215	properties	
+25-3	2216-2218	of	
+25-4	2219-2226	Example	
+25-5	2227-2228	2	
+25-6	2229-2232	are	
+25-7	2233-2238	given	
+25-8	2239-2241	in	
+25-9	2242-2247	Table	
+25-10	2248-2249	1	
+25-11	2250-2255	below	
+25-12	2255-2256	.	
+
+#Text=COMPARATIVE EXAMPLE 3
+#Text=[0042] The procedure of Example 2 was followed, except the solution of 2 M calcium chloride--4 M monoethanolamine was prepared, filtered to remove trace insoluble material, then used without ageing.
+26-1	2257-2268	COMPARATIVE	
+26-2	2269-2276	EXAMPLE	
+26-3	2277-2278	3	
+26-4	2279-2280	[	
+26-5	2280-2284	0042	
+26-6	2284-2285	]	
+26-7	2286-2289	The	
+26-8	2290-2299	procedure	
+26-9	2300-2302	of	
+26-10	2303-2310	Example	
+26-11	2311-2312	2	
+26-12	2313-2316	was	
+26-13	2317-2325	followed	
+26-14	2325-2326	,	
+26-15	2327-2333	except	
+26-16	2334-2337	the	
+26-17	2338-2346	solution	
+26-18	2347-2349	of	
+26-19	2350-2351	2	
+26-20	2352-2353	M	
+26-21	2354-2361	calcium	
+26-22	2362-2370	chloride	
+26-23	2370-2371	-	
+26-24	2371-2372	-	
+26-25	2372-2373	4	
+26-26	2374-2375	M	
+26-27	2376-2392	monoethanolamine	
+26-28	2393-2396	was	
+26-29	2397-2405	prepared	
+26-30	2405-2406	,	
+26-31	2407-2415	filtered	
+26-32	2416-2418	to	
+26-33	2419-2425	remove	
+26-34	2426-2431	trace	
+26-35	2432-2441	insoluble	
+26-36	2442-2450	material	
+26-37	2450-2451	,	
+26-38	2452-2456	then	
+26-39	2457-2461	used	
+26-40	2462-2469	without	
+26-41	2470-2476	ageing	
+26-42	2476-2477	.	
+
+#Text=Physical properties of Comparative Example 3 are given in Table 1 below.
+27-1	2478-2486	Physical	
+27-2	2487-2497	properties	
+27-3	2498-2500	of	
+27-4	2501-2512	Comparative	
+27-5	2513-2520	Example	
+27-6	2521-2522	3	
+27-7	2523-2526	are	
+27-8	2527-2532	given	
+27-9	2533-2535	in	
+27-10	2536-2541	Table	
+27-11	2542-2543	1	
+27-12	2544-2549	below	
+27-13	2549-2550	.	

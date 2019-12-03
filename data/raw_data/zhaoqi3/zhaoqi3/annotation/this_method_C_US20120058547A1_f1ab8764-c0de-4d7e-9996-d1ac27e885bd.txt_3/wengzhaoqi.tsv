@@ -1,0 +1,497 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=Results
+#Text=[0135] A schematic of the electrochemical real-time PCR (ERT-PCR) method conducted on a silicon-glass microchip is shown in FIGS. 3B and 3C of this patent.
+1-1	0-7	Results	_	_	
+1-2	8-9	[	_	_	
+1-3	9-13	0135	_	_	
+1-4	13-14	]	_	_	
+1-5	15-16	A	_	_	
+1-6	17-26	schematic	_	_	
+1-7	27-29	of	_	_	
+1-8	30-33	the	_	_	
+1-9	34-49	electrochemical	*[1]	2-36[2_1]	
+1-10	50-59	real-time	*[1]	_	
+1-11	60-63	PCR	*[1]	_	
+1-12	64-65	(	*[1]	_	
+1-13	65-72	ERT-PCR	*[1]	_	
+1-14	72-73	)	*[1]	_	
+1-15	74-80	method	*[1]	_	
+1-16	81-90	conducted	_	_	
+1-17	91-93	on	_	_	
+1-18	94-95	a	_	_	
+1-19	96-109	silicon-glass	_	_	
+1-20	110-119	microchip	_	_	
+1-21	120-122	is	_	_	
+1-22	123-128	shown	_	_	
+1-23	129-131	in	_	_	
+1-24	132-136	FIGS	_	_	
+1-25	136-137	.	_	_	
+1-26	138-140	3B	_	_	
+1-27	141-144	and	_	_	
+1-28	145-147	3C	_	_	
+1-29	148-150	of	_	_	
+1-30	151-155	this	_	_	
+1-31	156-162	patent	_	_	
+1-32	162-163	.	_	_	
+
+#Text=It is important for the successful implementation of on-chip ERT-PCR to make successful readings of accumulative electrochemical signal produced by the increased amount of PCR amplicon at each PCR thermal cycle.
+#Text=[0136] This method is unlike the ERT-PCR conducted in an Eppendorf.RTM. tube PCR process.
+2-1	164-166	It	_	_	
+2-2	167-169	is	_	_	
+2-3	170-179	important	_	_	
+2-4	180-183	for	_	_	
+2-5	184-187	the	_	_	
+2-6	188-198	successful	_	_	
+2-7	199-213	implementation	_	_	
+2-8	214-216	of	_	_	
+2-9	217-224	on-chip	_	_	
+2-10	225-232	ERT-PCR	_	_	
+2-11	233-235	to	_	_	
+2-12	236-240	make	_	_	
+2-13	241-251	successful	_	_	
+2-14	252-260	readings	_	_	
+2-15	261-263	of	_	_	
+2-16	264-276	accumulative	_	_	
+2-17	277-292	electrochemical	_	_	
+2-18	293-299	signal	_	_	
+2-19	300-308	produced	_	_	
+2-20	309-311	by	_	_	
+2-21	312-315	the	_	_	
+2-22	316-325	increased	_	_	
+2-23	326-332	amount	_	_	
+2-24	333-335	of	_	_	
+2-25	336-339	PCR	_	_	
+2-26	340-348	amplicon	_	_	
+2-27	349-351	at	_	_	
+2-28	352-356	each	_	_	
+2-29	357-360	PCR	_	_	
+2-30	361-368	thermal	_	_	
+2-31	369-374	cycle	_	_	
+2-32	374-375	.	_	_	
+2-33	376-377	[	_	_	
+2-34	377-381	0136	_	_	
+2-35	381-382	]	_	_	
+2-36	383-387	This	*[2]	_	
+2-37	388-394	method	*[2]	_	
+2-38	395-397	is	_	_	
+2-39	398-404	unlike	_	_	
+2-40	405-408	the	_	_	
+2-41	409-416	ERT-PCR	_	_	
+2-42	417-426	conducted	_	_	
+2-43	427-429	in	_	_	
+2-44	430-432	an	_	_	
+2-45	433-446	Eppendorf.RTM	_	_	
+2-46	446-447	.	_	_	
+2-47	448-452	tube	_	_	
+2-48	453-456	PCR	_	_	
+2-49	457-464	process	_	_	
+2-50	464-465	.	_	_	
+
+#Text=See, Yeung, S.
+3-1	466-469	See	_	_	
+3-2	469-470	,	_	_	
+3-3	471-476	Yeung	_	_	
+3-4	476-477	,	_	_	
+3-5	478-479	S	_	_	
+3-6	479-480	.	_	_	
+
+#Text=W.; Lee, T.
+4-1	481-482	W	_	_	
+4-2	482-483	.	_	_	
+4-3	483-484	;	_	_	
+4-4	485-488	Lee	_	_	
+4-5	488-489	,	_	_	
+4-6	490-491	T	_	_	
+4-7	491-492	.	_	_	
+
+#Text=M.
+5-1	493-494	M	_	_	
+5-2	494-495	.	_	_	
+
+#Text=H.; Hsing, I.
+6-1	496-497	H	_	_	
+6-2	497-498	.	_	_	
+6-3	498-499	;	_	_	
+6-4	500-505	Hsing	_	_	
+6-5	505-506	,	_	_	
+6-6	507-508	I	_	_	
+6-7	508-509	.	_	_	
+
+#Text=M.
+7-1	510-511	M	_	_	
+7-2	511-512	.	_	_	
+
+#Text=J.
+8-1	513-514	J	_	_	
+8-2	514-515	.	_	_	
+
+#Text=Am.
+9-1	516-518	Am	_	_	
+9-2	518-519	.	_	_	
+
+#Text=Chem.
+10-1	520-524	Chem	_	_	
+10-2	524-525	.	_	_	
+
+#Text=Soc. 2006, 128, 13374-13375.
+11-1	526-529	Soc	_	_	
+11-2	529-530	.	_	_	
+11-3	531-535	2006	_	_	
+11-4	535-536	,	_	_	
+11-5	537-540	128	_	_	
+11-6	540-541	,	_	_	
+11-7	542-547	13374	_	_	
+11-8	547-548	-	_	_	
+11-9	548-553	13375	_	_	
+11-10	553-554	.	_	_	
+
+#Text=This on-chip ERT-PCR process involves oligonucleotide extension of solution- and solid-phases in a closed micro-environment, and repetitive electrochemical potential scanning without removal of solution and surface-adsorbed impurities.
+12-1	555-559	This	_	_	
+12-2	560-567	on-chip	_	_	
+12-3	568-575	ERT-PCR	_	_	
+12-4	576-583	process	_	_	
+12-5	584-592	involves	_	_	
+12-6	593-608	oligonucleotide	_	_	
+12-7	609-618	extension	_	_	
+12-8	619-621	of	_	_	
+12-9	622-630	solution	_	_	
+12-10	630-631	-	_	_	
+12-11	632-635	and	_	_	
+12-12	636-648	solid-phases	_	_	
+12-13	649-651	in	_	_	
+12-14	652-653	a	_	_	
+12-15	654-660	closed	_	_	
+12-16	661-678	micro-environment	_	_	
+12-17	678-679	,	_	_	
+12-18	680-683	and	_	_	
+12-19	684-694	repetitive	_	_	
+12-20	695-710	electrochemical	_	_	
+12-21	711-720	potential	_	_	
+12-22	721-729	scanning	_	_	
+12-23	730-737	without	_	_	
+12-24	738-745	removal	_	_	
+12-25	746-748	of	_	_	
+12-26	749-757	solution	_	_	
+12-27	758-761	and	_	_	
+12-28	762-778	surface-adsorbed	_	_	
+12-29	779-789	impurities	_	_	
+12-30	789-790	.	_	_	
+
+#Text=Several crucial factors, e.g. passivation of the sensing electrode, strategy on the electrochemical scanning, and control of enzyme and oligo probe concentrations, that would greatly affect the analytical signal of this new assay platform are discussed in the following paragraphs.
+13-1	791-798	Several	_	_	
+13-2	799-806	crucial	_	_	
+13-3	807-814	factors	_	_	
+13-4	814-815	,	_	_	
+13-5	816-819	e.g	_	_	
+13-6	819-820	.	_	_	
+13-7	821-832	passivation	_	_	
+13-8	833-835	of	_	_	
+13-9	836-839	the	_	_	
+13-10	840-847	sensing	_	_	
+13-11	848-857	electrode	_	_	
+13-12	857-858	,	_	_	
+13-13	859-867	strategy	_	_	
+13-14	868-870	on	_	_	
+13-15	871-874	the	_	_	
+13-16	875-890	electrochemical	_	_	
+13-17	891-899	scanning	_	_	
+13-18	899-900	,	_	_	
+13-19	901-904	and	_	_	
+13-20	905-912	control	_	_	
+13-21	913-915	of	_	_	
+13-22	916-922	enzyme	_	_	
+13-23	923-926	and	_	_	
+13-24	927-932	oligo	_	_	
+13-25	933-938	probe	_	_	
+13-26	939-953	concentrations	_	_	
+13-27	953-954	,	_	_	
+13-28	955-959	that	_	_	
+13-29	960-965	would	_	_	
+13-30	966-973	greatly	_	_	
+13-31	974-980	affect	_	_	
+13-32	981-984	the	_	_	
+13-33	985-995	analytical	_	_	
+13-34	996-1002	signal	_	_	
+13-35	1003-1005	of	_	_	
+13-36	1006-1010	this	_	_	
+13-37	1011-1014	new	_	_	
+13-38	1015-1020	assay	_	_	
+13-39	1021-1029	platform	_	_	
+13-40	1030-1033	are	_	_	
+13-41	1034-1043	discussed	_	_	
+13-42	1044-1046	in	_	_	
+13-43	1047-1050	the	_	_	
+13-44	1051-1060	following	_	_	
+13-45	1061-1071	paragraphs	_	_	
+13-46	1071-1072	.	_	_	
+
+#Text=Electrode Surface Passivation
+#Text=[0137] One of the biggest challenges in running ERT-PCR in a microchip format is to minimize, if not totally eliminate, the background signal caused by the solution-phase Fc-dUTP.
+14-1	1073-1082	Electrode	_	_	
+14-2	1083-1090	Surface	_	_	
+14-3	1091-1102	Passivation	_	_	
+14-4	1103-1104	[	_	_	
+14-5	1104-1108	0137	_	_	
+14-6	1108-1109	]	_	_	
+14-7	1110-1113	One	_	_	
+14-8	1114-1116	of	_	_	
+14-9	1117-1120	the	_	_	
+14-10	1121-1128	biggest	_	_	
+14-11	1129-1139	challenges	_	_	
+14-12	1140-1142	in	_	_	
+14-13	1143-1150	running	_	_	
+14-14	1151-1158	ERT-PCR	_	_	
+14-15	1159-1161	in	_	_	
+14-16	1162-1163	a	_	_	
+14-17	1164-1173	microchip	_	_	
+14-18	1174-1180	format	_	_	
+14-19	1181-1183	is	_	_	
+14-20	1184-1186	to	_	_	
+14-21	1187-1195	minimize	_	_	
+14-22	1195-1196	,	_	_	
+14-23	1197-1199	if	_	_	
+14-24	1200-1203	not	_	_	
+14-25	1204-1211	totally	_	_	
+14-26	1212-1221	eliminate	_	_	
+14-27	1221-1222	,	_	_	
+14-28	1223-1226	the	_	_	
+14-29	1227-1237	background	_	_	
+14-30	1238-1244	signal	_	_	
+14-31	1245-1251	caused	_	_	
+14-32	1252-1254	by	_	_	
+14-33	1255-1258	the	_	_	
+14-34	1259-1273	solution-phase	_	_	
+14-35	1274-1281	Fc-dUTP	_	_	
+14-36	1281-1282	.	_	_	
+
+#Text=FIG. 4 shows that the background signal is strongly dependent on the duration of the ethanolamine blocking step.
+15-1	1283-1286	FIG	_	_	
+15-2	1286-1287	.	_	_	
+15-3	1288-1289	4	_	_	
+15-4	1290-1295	shows	_	_	
+15-5	1296-1300	that	_	_	
+15-6	1301-1304	the	_	_	
+15-7	1305-1315	background	_	_	
+15-8	1316-1322	signal	_	_	
+15-9	1323-1325	is	_	_	
+15-10	1326-1334	strongly	_	_	
+15-11	1335-1344	dependent	_	_	
+15-12	1345-1347	on	_	_	
+15-13	1348-1351	the	_	_	
+15-14	1352-1360	duration	_	_	
+15-15	1361-1363	of	_	_	
+15-16	1364-1367	the	_	_	
+15-17	1368-1380	ethanolamine	_	_	
+15-18	1381-1389	blocking	_	_	
+15-19	1390-1394	step	_	_	
+15-20	1394-1395	.	_	_	
+
+#Text=Characteristic redox peaks from Fc-dUTP 50 (shown in FIG. 3B) (.about.+0.57 V vs.
+16-1	1396-1410	Characteristic	_	_	
+16-2	1411-1416	redox	_	_	
+16-3	1417-1422	peaks	_	_	
+16-4	1423-1427	from	_	_	
+16-5	1428-1435	Fc-dUTP	_	_	
+16-6	1436-1438	50	_	_	
+16-7	1439-1440	(	_	_	
+16-8	1440-1445	shown	_	_	
+16-9	1446-1448	in	_	_	
+16-10	1449-1452	FIG	_	_	
+16-11	1452-1453	.	_	_	
+16-12	1454-1456	3B	_	_	
+16-13	1456-1457	)	_	_	
+16-14	1458-1459	(	_	_	
+16-15	1459-1460	.	_	_	
+16-16	1460-1465	about	_	_	
+16-17	1465-1466	.	_	_	
+16-18	1466-1467	+	_	_	
+16-19	1467-1471	0.57	_	_	
+16-20	1472-1473	V	_	_	
+16-21	1474-1476	vs	_	_	
+16-22	1476-1477	.	_	_	
+
+#Text=Pt pseudo reference electrode) are noticeable with blocking time shorter than 3 hours (curve c on FIG. 4), which is likely caused by the nonspecific adsorption of the Fc-dUTP 50 to the unreacted epoxide groups and/or free diffusion of the Fc-dUTP 50 to the ITO surface 34 (shown in FIG. 3B).
+17-1	1478-1480	Pt	_	_	
+17-2	1481-1487	pseudo	_	_	
+17-3	1488-1497	reference	_	_	
+17-4	1498-1507	electrode	_	_	
+17-5	1507-1508	)	_	_	
+17-6	1509-1512	are	_	_	
+17-7	1513-1523	noticeable	_	_	
+17-8	1524-1528	with	_	_	
+17-9	1529-1537	blocking	_	_	
+17-10	1538-1542	time	_	_	
+17-11	1543-1550	shorter	_	_	
+17-12	1551-1555	than	_	_	
+17-13	1556-1557	3	_	_	
+17-14	1558-1563	hours	_	_	
+17-15	1564-1565	(	_	_	
+17-16	1565-1570	curve	_	_	
+17-17	1571-1572	c	_	_	
+17-18	1573-1575	on	_	_	
+17-19	1576-1579	FIG	_	_	
+17-20	1579-1580	.	_	_	
+17-21	1581-1582	4	_	_	
+17-22	1582-1583	)	_	_	
+17-23	1583-1584	,	_	_	
+17-24	1585-1590	which	_	_	
+17-25	1591-1593	is	_	_	
+17-26	1594-1600	likely	_	_	
+17-27	1601-1607	caused	_	_	
+17-28	1608-1610	by	_	_	
+17-29	1611-1614	the	_	_	
+17-30	1615-1626	nonspecific	_	_	
+17-31	1627-1637	adsorption	_	_	
+17-32	1638-1640	of	_	_	
+17-33	1641-1644	the	_	_	
+17-34	1645-1652	Fc-dUTP	_	_	
+17-35	1653-1655	50	_	_	
+17-36	1656-1658	to	_	_	
+17-37	1659-1662	the	_	_	
+17-38	1663-1672	unreacted	_	_	
+17-39	1673-1680	epoxide	_	_	
+17-40	1681-1687	groups	_	_	
+17-41	1688-1691	and	_	_	
+17-42	1691-1692	/	_	_	
+17-43	1692-1694	or	_	_	
+17-44	1695-1699	free	_	_	
+17-45	1700-1709	diffusion	_	_	
+17-46	1710-1712	of	_	_	
+17-47	1713-1716	the	_	_	
+17-48	1717-1724	Fc-dUTP	_	_	
+17-49	1725-1727	50	_	_	
+17-50	1728-1730	to	_	_	
+17-51	1731-1734	the	_	_	
+17-52	1735-1738	ITO	_	_	
+17-53	1739-1746	surface	_	_	
+17-54	1747-1749	34	_	_	
+17-55	1750-1751	(	_	_	
+17-56	1751-1756	shown	_	_	
+17-57	1757-1759	in	_	_	
+17-58	1760-1763	FIG	_	_	
+17-59	1763-1764	.	_	_	
+17-60	1765-1767	3B	_	_	
+17-61	1767-1768	)	_	_	
+17-62	1768-1769	.	_	_	
+
+#Text=For a long enough blocking time, i.e., 12 hours (curve d on FIG. 4. 4), the baseline is nearly flat.
+18-1	1770-1773	For	_	_	
+18-2	1774-1775	a	_	_	
+18-3	1776-1780	long	_	_	
+18-4	1781-1787	enough	_	_	
+18-5	1788-1796	blocking	_	_	
+18-6	1797-1801	time	_	_	
+18-7	1801-1802	,	_	_	
+18-8	1803-1806	i.e	_	_	
+18-9	1806-1807	.	_	_	
+18-10	1807-1808	,	_	_	
+18-11	1809-1811	12	_	_	
+18-12	1812-1817	hours	_	_	
+18-13	1818-1819	(	_	_	
+18-14	1819-1824	curve	_	_	
+18-15	1825-1826	d	_	_	
+18-16	1827-1829	on	_	_	
+18-17	1830-1833	FIG	_	_	
+18-18	1833-1834	.	_	_	
+18-19	1835-1836	4	_	_	
+18-20	1836-1837	.	_	_	
+18-21	1838-1839	4	_	_	
+18-22	1839-1840	)	_	_	
+18-23	1840-1841	,	_	_	
+18-24	1842-1845	the	_	_	
+18-25	1846-1854	baseline	_	_	
+18-26	1855-1857	is	_	_	
+18-27	1858-1864	nearly	_	_	
+18-28	1865-1869	flat	_	_	
+18-29	1869-1870	.	_	_	
+
+#Text=This implies that almost all the residual epoxide groups are reacted with the ethanolamine so that nonspecific adsorption and diffusional access of the Fc-dUTP 50 to the electrode surface 34 is minimized.
+19-1	1871-1875	This	*[3]	21-3[4_3]	
+19-2	1876-1883	implies	*[3]	_	
+19-3	1884-1888	that	*[3]	_	
+19-4	1889-1895	almost	*[3]	_	
+19-5	1896-1899	all	*[3]	_	
+19-6	1900-1903	the	*[3]	_	
+19-7	1904-1912	residual	*[3]	_	
+19-8	1913-1920	epoxide	*[3]	_	
+19-9	1921-1927	groups	*[3]	_	
+19-10	1928-1931	are	*[3]	_	
+19-11	1932-1939	reacted	*[3]	_	
+19-12	1940-1944	with	*[3]	_	
+19-13	1945-1948	the	*[3]	_	
+19-14	1949-1961	ethanolamine	*[3]	_	
+19-15	1962-1964	so	*[3]	_	
+19-16	1965-1969	that	*[3]	_	
+19-17	1970-1981	nonspecific	*[3]	_	
+19-18	1982-1992	adsorption	*[3]	_	
+19-19	1993-1996	and	*[3]	_	
+19-20	1997-2008	diffusional	*[3]	_	
+19-21	2009-2015	access	*[3]	_	
+19-22	2016-2018	of	*[3]	_	
+19-23	2019-2022	the	*[3]	_	
+19-24	2023-2030	Fc-dUTP	*[3]	_	
+19-25	2031-2033	50	*[3]	_	
+19-26	2034-2036	to	*[3]	_	
+19-27	2037-2040	the	*[3]	_	
+19-28	2041-2050	electrode	*[3]	_	
+19-29	2051-2058	surface	*[3]	_	
+19-30	2059-2061	34	*[3]	_	
+19-31	2062-2064	is	*[3]	_	
+19-32	2065-2074	minimized	*[3]	_	
+19-33	2074-2075	.	*[3]	_	
+
+#Text=With this, the signal-to-noise ratio is significantly increased and hence a lower detection limit is expected.
+20-1	2076-2080	With	_	_	
+20-2	2081-2085	this	_	_	
+20-3	2085-2086	,	_	_	
+20-4	2087-2090	the	_	_	
+20-5	2091-2106	signal-to-noise	_	_	
+20-6	2107-2112	ratio	_	_	
+20-7	2113-2115	is	_	_	
+20-8	2116-2129	significantly	_	_	
+20-9	2130-2139	increased	_	_	
+20-10	2140-2143	and	_	_	
+20-11	2144-2149	hence	_	_	
+20-12	2150-2151	a	_	_	
+20-13	2152-2157	lower	_	_	
+20-14	2158-2167	detection	_	_	
+20-15	2168-2173	limit	_	_	
+20-16	2174-2176	is	_	_	
+20-17	2177-2185	expected	_	_	
+20-18	2185-2186	.	_	_	
+
+#Text=When practicing this method, no washing step is required to remove the free soluble markers from the solution and the method, therefore, achieves real-time PCR quantification.
+21-1	2187-2191	When	_	_	
+21-2	2192-2202	practicing	_	_	
+21-3	2203-2207	this	*[4]	_	
+21-4	2208-2214	method	*[4]	_	
+21-5	2214-2215	,	_	_	
+21-6	2216-2218	no	_	_	
+21-7	2219-2226	washing	_	_	
+21-8	2227-2231	step	_	_	
+21-9	2232-2234	is	_	_	
+21-10	2235-2243	required	_	_	
+21-11	2244-2246	to	_	_	
+21-12	2247-2253	remove	_	_	
+21-13	2254-2257	the	_	_	
+21-14	2258-2262	free	_	_	
+21-15	2263-2270	soluble	_	_	
+21-16	2271-2278	markers	_	_	
+21-17	2279-2283	from	_	_	
+21-18	2284-2287	the	_	_	
+21-19	2288-2296	solution	_	_	
+21-20	2297-2300	and	_	_	
+21-21	2301-2304	the	_	_	
+21-22	2305-2311	method	_	_	
+21-23	2311-2312	,	_	_	
+21-24	2313-2322	therefore	_	_	
+21-25	2322-2323	,	_	_	
+21-26	2324-2332	achieves	_	_	
+21-27	2333-2342	real-time	_	_	
+21-28	2343-2346	PCR	_	_	
+21-29	2347-2361	quantification	_	_	
+21-30	2361-2362	.	_	_	

@@ -1,0 +1,5 @@
+a feedback means, coupled to the computer means, for accepting feedback data corresponding to the pupil position from the computer means; and
+a support means, connected to the camera and feedback means, for fixing the relative physical positions of the camera and feedback means.
+The processing performed by the computer means of the vision tracking system may further comprise the selection of a first pixel intensity threshold for the segmentation of the pixel data into first and second groups. This processing may also comprise the following steps:
+grouping individual pixels from one of the first or second groups into a first set having at least one pixel blob (note: a blob is a region of connected pixels belonging to the same group); and
+selecting from the first set one of the pixel blobs corresponding to the pupil image.

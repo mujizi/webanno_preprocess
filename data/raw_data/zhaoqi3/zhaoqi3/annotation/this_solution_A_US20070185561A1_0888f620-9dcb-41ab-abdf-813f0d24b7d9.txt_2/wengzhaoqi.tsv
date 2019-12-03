@@ -1,0 +1,154 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=Example 5
+#Text=Permanent Drug-Eluting Stent with Absorbable Polymeric Coating Matrix and Incorporated Antiproliferative Immunosuppressant (High Dose)
+#Text=[0078] A 0.3% w/w solution of P4HB (TephaFLEX.RTM. biomaterial from Tepha, Inc.
+1-1	0-7	Example	
+1-2	8-9	5	
+1-3	10-19	Permanent	
+1-4	20-32	Drug-Eluting	
+1-5	33-38	Stent	
+1-6	39-43	with	
+1-7	44-54	Absorbable	
+1-8	55-64	Polymeric	
+1-9	65-72	Coating	
+1-10	73-79	Matrix	
+1-11	80-83	and	
+1-12	84-96	Incorporated	
+1-13	97-114	Antiproliferative	
+1-14	115-132	Immunosuppressant	
+1-15	133-134	(	
+1-16	134-138	High	
+1-17	139-143	Dose	
+1-18	143-144	)	
+1-19	145-146	[	
+1-20	146-150	0078	
+1-21	150-151	]	
+1-22	152-153	A	
+1-23	154-158	0.3%	
+1-24	159-160	w	
+1-25	160-161	/	
+1-26	161-162	w	
+1-27	163-171	solution	
+1-28	172-174	of	
+1-29	175-179	P4HB	
+1-30	180-181	(	
+1-31	181-194	TephaFLEX.RTM	
+1-32	194-195	.	
+1-33	196-207	biomaterial	
+1-34	208-212	from	
+1-35	213-218	Tepha	
+1-36	218-219	,	
+1-37	220-223	Inc	
+1-38	223-224	.	
+
+#Text=Mw 300-600K) and rapamycin (40/60% w/w, polymer drug) in chloroform was prepared.
+2-1	225-227	Mw	
+2-2	228-231	300	
+2-3	231-232	-	
+2-4	232-236	600K	
+2-5	236-237	)	
+2-6	238-241	and	
+2-7	242-251	rapamycin	
+2-8	252-253	(	
+2-9	253-255	40	
+2-10	255-256	/	
+2-11	256-259	60%	
+2-12	260-261	w	
+2-13	261-262	/	
+2-14	262-263	w	
+2-15	263-264	,	
+2-16	265-272	polymer	
+2-17	273-277	drug	
+2-18	277-278	)	
+2-19	279-281	in	
+2-20	282-292	chloroform	
+2-21	293-296	was	
+2-22	297-305	prepared	
+2-23	305-306	.	
+
+#Text=Metallic coronary stents were spray-coated with this solution until a mean coating layer thickness of 15-20 micrometer was achieved.
+3-1	307-315	Metallic	
+3-2	316-324	coronary	
+3-3	325-331	stents	
+3-4	332-336	were	
+3-5	337-349	spray-coated	
+3-6	350-354	with	
+3-7	355-359	this	
+3-8	360-368	solution	
+3-9	369-374	until	
+3-10	375-376	a	
+3-11	377-381	mean	
+3-12	382-389	coating	
+3-13	390-395	layer	
+3-14	396-405	thickness	
+3-15	406-408	of	
+3-16	409-411	15	
+3-17	411-412	-	
+3-18	412-414	20	
+3-19	415-425	micrometer	
+3-20	426-429	was	
+3-21	430-438	achieved	
+3-22	438-439	.	
+
+#Text=After 24 h storage under vacuum to remove the chloroform, the stents were mounted on standard balloon catheters and afterwards deployed to a nominal diameter of 3.5 mm.
+4-1	440-445	After	
+4-2	446-448	24	
+4-3	449-450	h	
+4-4	451-458	storage	
+4-5	459-464	under	
+4-6	465-471	vacuum	
+4-7	472-474	to	
+4-8	475-481	remove	
+4-9	482-485	the	
+4-10	486-496	chloroform	
+4-11	496-497	,	
+4-12	498-501	the	
+4-13	502-508	stents	
+4-14	509-513	were	
+4-15	514-521	mounted	
+4-16	522-524	on	
+4-17	525-533	standard	
+4-18	534-541	balloon	
+4-19	542-551	catheters	
+4-20	552-555	and	
+4-21	556-566	afterwards	
+4-22	567-575	deployed	
+4-23	576-578	to	
+4-24	579-580	a	
+4-25	581-588	nominal	
+4-26	589-597	diameter	
+4-27	598-600	of	
+4-28	601-604	3.5	
+4-29	605-607	mm	
+4-30	607-608	.	
+
+#Text=Rapamycin as the active agent was released from the coating.
+5-1	609-618	Rapamycin	
+5-2	619-621	as	
+5-3	622-625	the	
+5-4	626-632	active	
+5-5	633-638	agent	
+5-6	639-642	was	
+5-7	643-651	released	
+5-8	652-656	from	
+5-9	657-660	the	
+5-10	661-668	coating	
+5-11	668-669	.	
+
+#Text=Example 6
+#Text=Absorbable Drug-Elating Stent with Incorporated Antiproliferative Immunosuppressant (Low Dow)
+6-1	670-677	Example	
+6-2	678-679	6	
+6-3	680-690	Absorbable	
+6-4	691-703	Drug-Elating	
+6-5	704-709	Stent	
+6-6	710-714	with	
+6-7	715-727	Incorporated	
+6-8	728-745	Antiproliferative	
+6-9	746-763	Immunosuppressant	
+6-10	764-765	(	
+6-11	765-768	Low	
+6-12	769-772	Dow	
+6-13	772-773	)	

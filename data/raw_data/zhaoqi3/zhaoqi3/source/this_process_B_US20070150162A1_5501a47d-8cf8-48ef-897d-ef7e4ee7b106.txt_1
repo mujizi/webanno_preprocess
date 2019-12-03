@@ -1,0 +1,5 @@
+[0049] (1) The first process corresponds to the combustion of particles by oxidation by the nitrogen oxides NO.sub.x contained in the exhaust gases or formed by reaction of the nitric oxide on platinum sites present in the active phase deposited by the filter. This reaction takes place in the range of approximately 250 to 500.degree. C.
+[0050] (2) The second process corresponds to the action of the catalyst of the active phase of the filter. The catalyst has an oxygen-donor character and supplies oxygen for oxidation of the particles. This process begins around 350.degree. C.
+[0051] (3) The third process corresponds to combustion of the particles by the oxygen present in the exhaust gases. Initiated at around 450 to 500.degree. C., this process intensifies with temperature and in particular is responsible for active regeneration of the filter around 600.degree. C.
+[0052] The rates of reaction of these different processes can be expressed as kinetic equations in the following form (the rates are expressed in mg/s):
+[0053] Process (1): V.sub.NO.sub.x=K.sub.1e.sup.-Ea1/RT(t).times.[m.sub.c(t-.DELTA.t)].sup.a1-.times.[NO.sub.x(t)].sup.b

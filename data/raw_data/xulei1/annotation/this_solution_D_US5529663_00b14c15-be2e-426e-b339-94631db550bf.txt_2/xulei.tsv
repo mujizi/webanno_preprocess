@@ -1,0 +1,207 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=Run 15
+#Text=No acid pre-treatment was employed in Runs 15 through 23.
+1-1	0-3	Run	_	_	
+1-2	4-6	15	_	_	
+1-3	7-9	No	_	_	
+1-4	10-14	acid	_	_	
+1-5	15-28	pre-treatment	_	_	
+1-6	29-32	was	_	_	
+1-7	33-41	employed	_	_	
+1-8	42-44	in	_	_	
+1-9	45-49	Runs	_	_	
+1-10	50-52	15	_	_	
+1-11	53-60	through	_	_	
+1-12	61-63	23	_	_	
+1-13	63-64	.	_	_	
+
+#Text=Peroxymonophosphoric acid was prepared as in Run 1 of Example 1, but using the following initial mixture:
+#Text=After cooling, 1.8 g of sodium hydroxide was added to the reaction mixture to produce a pH of 2.2, and the solution was then analyzed.
+2-1	65-85	Peroxymonophosphoric	_	_	
+2-2	86-90	acid	_	_	
+2-3	91-94	was	_	_	
+2-4	95-103	prepared	_	_	
+2-5	104-106	as	_	_	
+2-6	107-109	in	_	_	
+2-7	110-113	Run	_	_	
+2-8	114-115	1	_	_	
+2-9	116-118	of	_	_	
+2-10	119-126	Example	_	_	
+2-11	127-128	1	_	_	
+2-12	128-129	,	_	_	
+2-13	130-133	but	_	_	
+2-14	134-139	using	_	_	
+2-15	140-143	the	_	_	
+2-16	144-153	following	_	_	
+2-17	154-161	initial	_	_	
+2-18	162-169	mixture	_	_	
+2-19	169-170	:	_	_	
+2-20	171-176	After	_	_	
+2-21	177-184	cooling	_	_	
+2-22	184-185	,	_	_	
+2-23	186-189	1.8	_	_	
+2-24	190-191	g	_	_	
+2-25	192-194	of	_	_	
+2-26	195-201	sodium	_	_	
+2-27	202-211	hydroxide	_	_	
+2-28	212-215	was	_	_	
+2-29	216-221	added	_	_	
+2-30	222-224	to	_	_	
+2-31	225-228	the	_	_	
+2-32	229-237	reaction	_	_	
+2-33	238-245	mixture	_	_	
+2-34	246-248	to	_	_	
+2-35	249-256	produce	_	_	
+2-36	257-258	a	_	_	
+2-37	259-261	pH	_	_	
+2-38	262-264	of	_	_	
+2-39	265-268	2.2	_	_	
+2-40	268-269	,	_	_	
+2-41	270-273	and	_	_	
+2-42	274-277	the	_	_	
+2-43	278-286	solution	_	_	
+2-44	287-290	was	_	_	
+2-45	291-295	then	_	_	
+2-46	296-304	analyzed	_	_	
+2-47	304-305	.	_	_	
+
+#Text=It contained 3.7% peroxymonophosphoric acid.
+3-1	306-308	It	_	_	
+3-2	309-318	contained	_	_	
+3-3	319-323	3.7%	_	_	
+3-4	324-344	peroxymonophosphoric	_	_	
+3-5	345-349	acid	_	_	
+3-6	349-350	.	_	_	
+
+#Text=This solution was used to delignify milled aspen wood as in Run 1, except that a reaction temperature of 50.degree.
+4-1	351-355	This	_	_	
+4-2	356-364	solution	_	_	
+4-3	365-368	was	_	_	
+4-4	369-373	used	_	_	
+4-5	374-376	to	_	_	
+4-6	377-386	delignify	_	_	
+4-7	387-393	milled	_	_	
+4-8	394-399	aspen	_	_	
+4-9	400-404	wood	_	_	
+4-10	405-407	as	_	_	
+4-11	408-410	in	_	_	
+4-12	411-414	Run	_	_	
+4-13	415-416	1	_	_	
+4-14	416-417	,	_	_	
+4-15	418-424	except	_	_	
+4-16	425-429	that	_	_	
+4-17	430-431	a	_	_	
+4-18	432-440	reaction	_	_	
+4-19	441-452	temperature	_	_	
+4-20	453-455	of	_	_	
+4-21	456-458	50	_	_	
+4-22	458-459	.	_	_	
+4-23	459-465	degree	_	_	
+4-24	465-466	.	_	_	
+
+#Text=C. and a reaction time of 5 hours were employed.
+5-1	467-468	C	_	_	
+5-2	468-469	.	_	_	
+5-3	470-473	and	_	_	
+5-4	474-475	a	_	_	
+5-5	476-484	reaction	_	_	
+5-6	485-489	time	_	_	
+5-7	490-492	of	_	_	
+5-8	493-494	5	_	_	
+5-9	495-500	hours	_	_	
+5-10	501-505	were	_	_	
+5-11	506-514	employed	_	_	
+5-12	514-515	.	_	_	
+
+#Text=Results for this Run and all other runs of Example 3 are given in Table 1.
+6-1	516-523	Results	_	_	
+6-2	524-527	for	_	_	
+6-3	528-532	this	_	_	
+6-4	533-536	Run	_	_	
+6-5	537-540	and	_	_	
+6-6	541-544	all	_	_	
+6-7	545-550	other	_	_	
+6-8	551-555	runs	_	_	
+6-9	556-558	of	_	_	
+6-10	559-566	Example	_	_	
+6-11	567-568	3	_	_	
+6-12	569-572	are	_	_	
+6-13	573-578	given	_	_	
+6-14	579-581	in	_	_	
+6-15	582-587	Table	_	_	
+6-16	588-589	1	_	_	
+6-17	589-590	.	_	_	
+
+#Text=Run 16
+#Text=No acid pre-treatment was used.
+7-1	591-594	Run	_	_	
+7-2	595-597	16	_	_	
+7-3	598-600	No	_	_	
+7-4	601-605	acid	_	_	
+7-5	606-619	pre-treatment	_	_	
+7-6	620-623	was	_	_	
+7-7	624-628	used	_	_	
+7-8	628-629	.	_	_	
+
+#Text=Peroxymonophosphoric acid was prepared as in Run 15, except that 1.9 g of sodium hydroxide was added to the cooled reaction mixture to produce a pH of 4.2.
+8-1	630-650	Peroxymonophosphoric	*[1]	9-1[2_1]	
+8-2	651-655	acid	*[1]	_	
+8-3	656-659	was	*[1]	_	
+8-4	660-668	prepared	*[1]	_	
+8-5	669-671	as	*[1]	_	
+8-6	672-674	in	*[1]	_	
+8-7	675-678	Run	*[1]	_	
+8-8	679-681	15	*[1]	_	
+8-9	681-682	,	*[1]	_	
+8-10	683-689	except	*[1]	_	
+8-11	690-694	that	*[1]	_	
+8-12	695-698	1.9	*[1]	_	
+8-13	699-700	g	*[1]	_	
+8-14	701-703	of	*[1]	_	
+8-15	704-710	sodium	*[1]	_	
+8-16	711-720	hydroxide	*[1]	_	
+8-17	721-724	was	*[1]	_	
+8-18	725-730	added	*[1]	_	
+8-19	731-733	to	*[1]	_	
+8-20	734-737	the	*[1]	_	
+8-21	738-744	cooled	*[1]	_	
+8-22	745-753	reaction	*[1]	_	
+8-23	754-761	mixture	*[1]	_	
+8-24	762-764	to	*[1]	_	
+8-25	765-772	produce	*[1]	_	
+8-26	773-774	a	*[1]	_	
+8-27	775-777	pH	*[1]	_	
+8-28	778-780	of	*[1]	_	
+8-29	781-784	4.2	*[1]	_	
+8-30	784-785	.	*[1]	_	
+
+#Text=This solution was used to delignify milled aspen wood as in Run 15, except that a reaction time of 25 hours was used.
+9-1	786-790	This	*[2]	_	
+9-2	791-799	solution	*[2]	_	
+9-3	800-803	was	_	_	
+9-4	804-808	used	_	_	
+9-5	809-811	to	_	_	
+9-6	812-821	delignify	_	_	
+9-7	822-828	milled	_	_	
+9-8	829-834	aspen	_	_	
+9-9	835-839	wood	_	_	
+9-10	840-842	as	_	_	
+9-11	843-845	in	_	_	
+9-12	846-849	Run	_	_	
+9-13	850-852	15	_	_	
+9-14	852-853	,	_	_	
+9-15	854-860	except	_	_	
+9-16	861-865	that	_	_	
+9-17	866-867	a	_	_	
+9-18	868-876	reaction	_	_	
+9-19	877-881	time	_	_	
+9-20	882-884	of	_	_	
+9-21	885-887	25	_	_	
+9-22	888-893	hours	_	_	
+9-23	894-897	was	_	_	
+9-24	898-902	used	_	_	
+9-25	902-903	.	_	_	

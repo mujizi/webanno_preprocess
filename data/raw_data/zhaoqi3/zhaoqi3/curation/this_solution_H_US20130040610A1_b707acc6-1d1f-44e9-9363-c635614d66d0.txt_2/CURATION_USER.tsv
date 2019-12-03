@@ -1,0 +1,542 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=[0007] U.S.
+1-1	0-1	[	_	_	
+1-2	1-5	0007	_	_	
+1-3	5-6	]	_	_	
+1-4	7-10	U.S	_	_	
+1-5	10-11	.	_	_	
+
+#Text=Pat.
+2-1	12-15	Pat	_	_	
+2-2	15-16	.	_	_	
+
+#Text=No. 6,118,979 to Powell teaches a method of indicating an incoming call through a remotely located receiving device.
+3-1	17-19	No	_	_	
+3-2	19-20	.	_	_	
+3-3	21-30	6,118,979	_	_	
+3-4	31-33	to	_	_	
+3-5	34-40	Powell	_	_	
+3-6	41-48	teaches	_	_	
+3-7	49-50	a	*[1]	5-3[2_1]	
+3-8	51-57	method	*[1]	_	
+3-9	58-60	of	*[1]	_	
+3-10	61-71	indicating	*[1]	_	
+3-11	72-74	an	*[1]	_	
+3-12	75-83	incoming	*[1]	_	
+3-13	84-88	call	*[1]	_	
+3-14	89-96	through	*[1]	_	
+3-15	97-98	a	*[1]	_	
+3-16	99-107	remotely	*[1]	_	
+3-17	108-115	located	*[1]	_	
+3-18	116-125	receiving	*[1]	_	
+3-19	126-132	device	*[1]	_	
+3-20	132-133	.	_	_	
+
+#Text=This avoids situations where a cell phone would audibly ring at the same time as the external device vibrates, as they both indicate the same event of an incoming call.
+4-1	134-138	This	_	_	
+4-2	139-145	avoids	_	_	
+4-3	146-156	situations	_	_	
+4-4	157-162	where	_	_	
+4-5	163-164	a	_	_	
+4-6	165-169	cell	_	_	
+4-7	170-175	phone	_	_	
+4-8	176-181	would	_	_	
+4-9	182-189	audibly	_	_	
+4-10	190-194	ring	_	_	
+4-11	195-197	at	_	_	
+4-12	198-201	the	_	_	
+4-13	202-206	same	_	_	
+4-14	207-211	time	_	_	
+4-15	212-214	as	_	_	
+4-16	215-218	the	_	_	
+4-17	219-227	external	_	_	
+4-18	228-234	device	_	_	
+4-19	235-243	vibrates	_	_	
+4-20	243-244	,	_	_	
+4-21	245-247	as	_	_	
+4-22	248-252	they	_	_	
+4-23	253-257	both	_	_	
+4-24	258-266	indicate	_	_	
+4-25	267-270	the	_	_	
+4-26	271-275	same	_	_	
+4-27	276-281	event	_	_	
+4-28	282-284	of	_	_	
+4-29	285-287	an	_	_	
+4-30	288-296	incoming	_	_	
+4-31	297-301	call	_	_	
+4-32	301-302	.	_	_	
+
+#Text=However, this solution only concerns the signalling of incoming telephone calls by an external device.
+5-1	303-310	However	_	_	
+5-2	310-311	,	_	_	
+5-3	312-316	this	*[2]	_	
+5-4	317-325	solution	*[2]	_	
+5-5	326-330	only	_	_	
+5-6	331-339	concerns	_	_	
+5-7	340-343	the	_	_	
+5-8	344-354	signalling	_	_	
+5-9	355-357	of	_	_	
+5-10	358-366	incoming	_	_	
+5-11	367-376	telephone	_	_	
+5-12	377-382	calls	_	_	
+5-13	383-385	by	_	_	
+5-14	386-388	an	_	_	
+5-15	389-397	external	_	_	
+5-16	398-404	device	_	_	
+5-17	404-405	.	_	_	
+
+#Text=There exists a switch for whether the incoming call is connected or disconnected to the audible signalling system of the transmitter.
+#Text=[0008] U.S.
+6-1	406-411	There	_	_	
+6-2	412-418	exists	_	_	
+6-3	419-420	a	_	_	
+6-4	421-427	switch	_	_	
+6-5	428-431	for	_	_	
+6-6	432-439	whether	_	_	
+6-7	440-443	the	_	_	
+6-8	444-452	incoming	_	_	
+6-9	453-457	call	_	_	
+6-10	458-460	is	_	_	
+6-11	461-470	connected	_	_	
+6-12	471-473	or	_	_	
+6-13	474-486	disconnected	_	_	
+6-14	487-489	to	_	_	
+6-15	490-493	the	_	_	
+6-16	494-501	audible	_	_	
+6-17	502-512	signalling	_	_	
+6-18	513-519	system	_	_	
+6-19	520-522	of	_	_	
+6-20	523-526	the	_	_	
+6-21	527-538	transmitter	_	_	
+6-22	538-539	.	_	_	
+6-23	540-541	[	_	_	
+6-24	541-545	0008	_	_	
+6-25	545-546	]	_	_	
+6-26	547-550	U.S	_	_	
+6-27	550-551	.	_	_	
+
+#Text=Pat.
+7-1	552-555	Pat	_	_	
+7-2	555-556	.	_	_	
+
+#Text=No. 6,525,997 to Narayanaswami concerns a wearable wristwatch that can connect wirelessly to another source to access information, and it then uses software to display it in a specified orientation.
+8-1	557-559	No	_	_	
+8-2	559-560	.	_	_	
+8-3	561-570	6,525,997	_	_	
+8-4	571-573	to	_	_	
+8-5	574-587	Narayanaswami	_	_	
+8-6	588-596	concerns	_	_	
+8-7	597-598	a	_	_	
+8-8	599-607	wearable	_	_	
+8-9	608-618	wristwatch	_	_	
+8-10	619-623	that	_	_	
+8-11	624-627	can	_	_	
+8-12	628-635	connect	_	_	
+8-13	636-646	wirelessly	_	_	
+8-14	647-649	to	_	_	
+8-15	650-657	another	_	_	
+8-16	658-664	source	_	_	
+8-17	665-667	to	_	_	
+8-18	668-674	access	_	_	
+8-19	675-686	information	_	_	
+8-20	686-687	,	_	_	
+8-21	688-691	and	_	_	
+8-22	692-694	it	_	_	
+8-23	695-699	then	_	_	
+8-24	700-704	uses	_	_	
+8-25	705-713	software	_	_	
+8-26	714-716	to	_	_	
+8-27	717-724	display	_	_	
+8-28	725-727	it	_	_	
+8-29	728-730	in	_	_	
+8-30	731-732	a	_	_	
+8-31	733-742	specified	_	_	
+8-32	743-754	orientation	_	_	
+8-33	754-755	.	_	_	
+
+#Text=It can vary the size of the displayed objects (such as the hour and minute hands of the clock) depending on the orientation.
+9-1	756-758	It	_	_	
+9-2	759-762	can	_	_	
+9-3	763-767	vary	_	_	
+9-4	768-771	the	_	_	
+9-5	772-776	size	_	_	
+9-6	777-779	of	_	_	
+9-7	780-783	the	_	_	
+9-8	784-793	displayed	_	_	
+9-9	794-801	objects	_	_	
+9-10	802-803	(	_	_	
+9-11	803-807	such	_	_	
+9-12	808-810	as	_	_	
+9-13	811-814	the	_	_	
+9-14	815-819	hour	_	_	
+9-15	820-823	and	_	_	
+9-16	824-830	minute	_	_	
+9-17	831-836	hands	_	_	
+9-18	837-839	of	_	_	
+9-19	840-843	the	_	_	
+9-20	844-849	clock	_	_	
+9-21	849-850	)	_	_	
+9-22	851-860	depending	_	_	
+9-23	861-863	on	_	_	
+9-24	864-867	the	_	_	
+9-25	868-879	orientation	_	_	
+9-26	879-880	.	_	_	
+
+#Text=It uses a touch screen as a method of input.
+10-1	881-883	It	_	_	
+10-2	884-888	uses	_	_	
+10-3	889-890	a	_	_	
+10-4	891-896	touch	_	_	
+10-5	897-903	screen	_	_	
+10-6	904-906	as	_	_	
+10-7	907-908	a	_	_	
+10-8	909-915	method	_	_	
+10-9	916-918	of	_	_	
+10-10	919-924	input	_	_	
+10-11	924-925	.	_	_	
+
+#Text=One disadvantage of this is that the watch display changes in size when set in elliptical mode.
+11-1	926-929	One	_	_	
+11-2	930-942	disadvantage	_	_	
+11-3	943-945	of	_	_	
+11-4	946-950	this	_	_	
+11-5	951-953	is	_	_	
+11-6	954-958	that	_	_	
+11-7	959-962	the	_	_	
+11-8	963-968	watch	_	_	
+11-9	969-976	display	_	_	
+11-10	977-984	changes	_	_	
+11-11	985-987	in	_	_	
+11-12	988-992	size	_	_	
+11-13	993-997	when	_	_	
+11-14	998-1001	set	_	_	
+11-15	1002-1004	in	_	_	
+11-16	1005-1015	elliptical	_	_	
+11-17	1016-1020	mode	_	_	
+11-18	1020-1021	.	_	_	
+
+#Text=That is, the minute and hour hands of the watch face shorten and elongate depending on the angle.
+12-1	1022-1026	That	_	_	
+12-2	1027-1029	is	_	_	
+12-3	1029-1030	,	_	_	
+12-4	1031-1034	the	_	_	
+12-5	1035-1041	minute	_	_	
+12-6	1042-1045	and	_	_	
+12-7	1046-1050	hour	_	_	
+12-8	1051-1056	hands	_	_	
+12-9	1057-1059	of	_	_	
+12-10	1060-1063	the	_	_	
+12-11	1064-1069	watch	_	_	
+12-12	1070-1074	face	_	_	
+12-13	1075-1082	shorten	_	_	
+12-14	1083-1086	and	_	_	
+12-15	1087-1095	elongate	_	_	
+12-16	1096-1105	depending	_	_	
+12-17	1106-1108	on	_	_	
+12-18	1109-1112	the	_	_	
+12-19	1113-1118	angle	_	_	
+12-20	1118-1119	.	_	_	
+
+#Text=This could cause readability issues for users because the hands are continually changing sizes.
+13-1	1120-1124	This	_	_	
+13-2	1125-1130	could	_	_	
+13-3	1131-1136	cause	_	_	
+13-4	1137-1148	readability	_	_	
+13-5	1149-1155	issues	_	_	
+13-6	1156-1159	for	_	_	
+13-7	1160-1165	users	_	_	
+13-8	1166-1173	because	_	_	
+13-9	1174-1177	the	_	_	
+13-10	1178-1183	hands	_	_	
+13-11	1184-1187	are	_	_	
+13-12	1188-1199	continually	_	_	
+13-13	1200-1208	changing	_	_	
+13-14	1209-1214	sizes	_	_	
+13-15	1214-1215	.	_	_	
+
+#Text=Another disadvantage of the elliptical mode is that screen real estate is wasted in that the watch display is not using the majority of the screen.
+14-1	1216-1223	Another	_	_	
+14-2	1224-1236	disadvantage	_	_	
+14-3	1237-1239	of	_	_	
+14-4	1240-1243	the	_	_	
+14-5	1244-1254	elliptical	_	_	
+14-6	1255-1259	mode	_	_	
+14-7	1260-1262	is	_	_	
+14-8	1263-1267	that	_	_	
+14-9	1268-1274	screen	_	_	
+14-10	1275-1279	real	_	_	
+14-11	1280-1286	estate	_	_	
+14-12	1287-1289	is	_	_	
+14-13	1290-1296	wasted	_	_	
+14-14	1297-1299	in	_	_	
+14-15	1300-1304	that	_	_	
+14-16	1305-1308	the	_	_	
+14-17	1309-1314	watch	_	_	
+14-18	1315-1322	display	_	_	
+14-19	1323-1325	is	_	_	
+14-20	1326-1329	not	_	_	
+14-21	1330-1335	using	_	_	
+14-22	1336-1339	the	_	_	
+14-23	1340-1348	majority	_	_	
+14-24	1349-1351	of	_	_	
+14-25	1352-1355	the	_	_	
+14-26	1356-1362	screen	_	_	
+14-27	1362-1363	.	_	_	
+
+#Text=The ellipse shape necessitates that the watch dial be smaller than the ideal circular or square configuration.
+#Text=[0009] U.S.
+15-1	1364-1367	The	_	_	
+15-2	1368-1375	ellipse	_	_	
+15-3	1376-1381	shape	_	_	
+15-4	1382-1394	necessitates	_	_	
+15-5	1395-1399	that	_	_	
+15-6	1400-1403	the	_	_	
+15-7	1404-1409	watch	_	_	
+15-8	1410-1414	dial	_	_	
+15-9	1415-1417	be	_	_	
+15-10	1418-1425	smaller	_	_	
+15-11	1426-1430	than	_	_	
+15-12	1431-1434	the	_	_	
+15-13	1435-1440	ideal	_	_	
+15-14	1441-1449	circular	_	_	
+15-15	1450-1452	or	_	_	
+15-16	1453-1459	square	_	_	
+15-17	1460-1473	configuration	_	_	
+15-18	1473-1474	.	_	_	
+15-19	1475-1476	[	_	_	
+15-20	1476-1480	0009	_	_	
+15-21	1480-1481	]	_	_	
+15-22	1482-1485	U.S	_	_	
+15-23	1485-1486	.	_	_	
+
+#Text=Pat.
+16-1	1487-1490	Pat	_	_	
+16-2	1490-1491	.	_	_	
+
+#Text=No. 5,552,779 to Gaskill et al. deals with a paging device that can receive messages and can display them while also displaying icons.
+17-1	1492-1494	No	_	_	
+17-2	1494-1495	.	_	_	
+17-3	1496-1505	5,552,779	_	_	
+17-4	1506-1508	to	_	_	
+17-5	1509-1516	Gaskill	_	_	
+17-6	1517-1519	et	_	_	
+17-7	1520-1522	al	_	_	
+17-8	1522-1523	.	_	_	
+17-9	1524-1529	deals	_	_	
+17-10	1530-1534	with	_	_	
+17-11	1535-1536	a	*[3]	20-4[4_3]	
+17-12	1537-1543	paging	*[3]	_	
+17-13	1544-1550	device	*[3]	_	
+17-14	1551-1555	that	*[3]	_	
+17-15	1556-1559	can	*[3]	_	
+17-16	1560-1567	receive	*[3]	_	
+17-17	1568-1576	messages	*[3]	_	
+17-18	1577-1580	and	*[3]	_	
+17-19	1581-1584	can	*[3]	_	
+17-20	1585-1592	display	*[3]	_	
+17-21	1593-1597	them	*[3]	_	
+17-22	1598-1603	while	*[3]	_	
+17-23	1604-1608	also	*[3]	_	
+17-24	1609-1619	displaying	*[3]	_	
+17-25	1620-1625	icons	*[3]	_	
+17-26	1625-1626	.	_	_	
+
+#Text=The icons can change to indicate which type of message has been received by the device, and Gaskill discusses how each message should be numbered and what the device should do in the case that the user is looking at one message while another is received.
+18-1	1627-1630	The	_	_	
+18-2	1631-1636	icons	_	_	
+18-3	1637-1640	can	_	_	
+18-4	1641-1647	change	_	_	
+18-5	1648-1650	to	_	_	
+18-6	1651-1659	indicate	_	_	
+18-7	1660-1665	which	_	_	
+18-8	1666-1670	type	_	_	
+18-9	1671-1673	of	_	_	
+18-10	1674-1681	message	_	_	
+18-11	1682-1685	has	_	_	
+18-12	1686-1690	been	_	_	
+18-13	1691-1699	received	_	_	
+18-14	1700-1702	by	_	_	
+18-15	1703-1706	the	_	_	
+18-16	1707-1713	device	_	_	
+18-17	1713-1714	,	_	_	
+18-18	1715-1718	and	_	_	
+18-19	1719-1726	Gaskill	_	_	
+18-20	1727-1736	discusses	_	_	
+18-21	1737-1740	how	_	_	
+18-22	1741-1745	each	_	_	
+18-23	1746-1753	message	_	_	
+18-24	1754-1760	should	_	_	
+18-25	1761-1763	be	_	_	
+18-26	1764-1772	numbered	_	_	
+18-27	1773-1776	and	_	_	
+18-28	1777-1781	what	_	_	
+18-29	1782-1785	the	_	_	
+18-30	1786-1792	device	_	_	
+18-31	1793-1799	should	_	_	
+18-32	1800-1802	do	_	_	
+18-33	1803-1805	in	_	_	
+18-34	1806-1809	the	_	_	
+18-35	1810-1814	case	_	_	
+18-36	1815-1819	that	_	_	
+18-37	1820-1823	the	_	_	
+18-38	1824-1828	user	_	_	
+18-39	1829-1831	is	_	_	
+18-40	1832-1839	looking	_	_	
+18-41	1840-1842	at	_	_	
+18-42	1843-1846	one	_	_	
+18-43	1847-1854	message	_	_	
+18-44	1855-1860	while	_	_	
+18-45	1861-1868	another	_	_	
+18-46	1869-1871	is	_	_	
+18-47	1872-1880	received	_	_	
+18-48	1880-1881	.	_	_	
+
+#Text=An icon is displayed if a message number indicates that a message has been missed.
+19-1	1882-1884	An	_	_	
+19-2	1885-1889	icon	_	_	
+19-3	1890-1892	is	_	_	
+19-4	1893-1902	displayed	_	_	
+19-5	1903-1905	if	_	_	
+19-6	1906-1907	a	_	_	
+19-7	1908-1915	message	_	_	
+19-8	1916-1922	number	_	_	
+19-9	1923-1932	indicates	_	_	
+19-10	1933-1937	that	_	_	
+19-11	1938-1939	a	_	_	
+19-12	1940-1947	message	_	_	
+19-13	1948-1951	has	_	_	
+19-14	1952-1956	been	_	_	
+19-15	1957-1963	missed	_	_	
+19-16	1963-1964	.	_	_	
+
+#Text=A disadvantage with this solution is that all messages are stored on the "pager" device itself, and its storage can fill up if the user does not delete any previously stored messages.
+20-1	1965-1966	A	_	_	
+20-2	1967-1979	disadvantage	_	_	
+20-3	1980-1984	with	_	_	
+20-4	1985-1989	this	*[4]	_	
+20-5	1990-1998	solution	*[4]	_	
+20-6	1999-2001	is	_	_	
+20-7	2002-2006	that	_	_	
+20-8	2007-2010	all	_	_	
+20-9	2011-2019	messages	_	_	
+20-10	2020-2023	are	_	_	
+20-11	2024-2030	stored	_	_	
+20-12	2031-2033	on	_	_	
+20-13	2034-2037	the	_	_	
+20-14	2038-2039	"	_	_	
+20-15	2039-2044	pager	_	_	
+20-16	2044-2045	"	_	_	
+20-17	2046-2052	device	_	_	
+20-18	2053-2059	itself	_	_	
+20-19	2059-2060	,	_	_	
+20-20	2061-2064	and	_	_	
+20-21	2065-2068	its	_	_	
+20-22	2069-2076	storage	_	_	
+20-23	2077-2080	can	_	_	
+20-24	2081-2085	fill	_	_	
+20-25	2086-2088	up	_	_	
+20-26	2089-2091	if	_	_	
+20-27	2092-2095	the	_	_	
+20-28	2096-2100	user	_	_	
+20-29	2101-2105	does	_	_	
+20-30	2106-2109	not	_	_	
+20-31	2110-2116	delete	_	_	
+20-32	2117-2120	any	_	_	
+20-33	2121-2131	previously	_	_	
+20-34	2132-2138	stored	_	_	
+20-35	2139-2147	messages	_	_	
+20-36	2147-2148	.	_	_	
+
+#Text=Another disadvantage is that this is a paging device, meaning that it links wirelessly to a network by itself.
+21-1	2149-2156	Another	_	_	
+21-2	2157-2169	disadvantage	_	_	
+21-3	2170-2172	is	_	_	
+21-4	2173-2177	that	_	_	
+21-5	2178-2182	this	_	_	
+21-6	2183-2185	is	_	_	
+21-7	2186-2187	a	_	_	
+21-8	2188-2194	paging	_	_	
+21-9	2195-2201	device	_	_	
+21-10	2201-2202	,	_	_	
+21-11	2203-2210	meaning	_	_	
+21-12	2211-2215	that	_	_	
+21-13	2216-2218	it	_	_	
+21-14	2219-2224	links	_	_	
+21-15	2225-2235	wirelessly	_	_	
+21-16	2236-2238	to	_	_	
+21-17	2239-2240	a	_	_	
+21-18	2241-2248	network	_	_	
+21-19	2249-2251	by	_	_	
+21-20	2252-2258	itself	_	_	
+21-21	2258-2259	.	_	_	
+
+#Text=For practical purposes, the user would need to carry a cell phone or smart phone with a separate data and/or voice plan in order to return a call or respond to a message.
+#Text=[0010] It is therefore an object of the following to address at least one of the above-noted disadvantages.
+22-1	2260-2263	For	_	_	
+22-2	2264-2273	practical	_	_	
+22-3	2274-2282	purposes	_	_	
+22-4	2282-2283	,	_	_	
+22-5	2284-2287	the	_	_	
+22-6	2288-2292	user	_	_	
+22-7	2293-2298	would	_	_	
+22-8	2299-2303	need	_	_	
+22-9	2304-2306	to	_	_	
+22-10	2307-2312	carry	_	_	
+22-11	2313-2314	a	_	_	
+22-12	2315-2319	cell	_	_	
+22-13	2320-2325	phone	_	_	
+22-14	2326-2328	or	_	_	
+22-15	2329-2334	smart	_	_	
+22-16	2335-2340	phone	_	_	
+22-17	2341-2345	with	_	_	
+22-18	2346-2347	a	_	_	
+22-19	2348-2356	separate	_	_	
+22-20	2357-2361	data	_	_	
+22-21	2362-2365	and	_	_	
+22-22	2365-2366	/	_	_	
+22-23	2366-2368	or	_	_	
+22-24	2369-2374	voice	_	_	
+22-25	2375-2379	plan	_	_	
+22-26	2380-2382	in	_	_	
+22-27	2383-2388	order	_	_	
+22-28	2389-2391	to	_	_	
+22-29	2392-2398	return	_	_	
+22-30	2399-2400	a	_	_	
+22-31	2401-2405	call	_	_	
+22-32	2406-2408	or	_	_	
+22-33	2409-2416	respond	_	_	
+22-34	2417-2419	to	_	_	
+22-35	2420-2421	a	_	_	
+22-36	2422-2429	message	_	_	
+22-37	2429-2430	.	_	_	
+22-38	2431-2432	[	_	_	
+22-39	2432-2436	0010	_	_	
+22-40	2436-2437	]	_	_	
+22-41	2438-2440	It	_	_	
+22-42	2441-2443	is	_	_	
+22-43	2444-2453	therefore	_	_	
+22-44	2454-2456	an	_	_	
+22-45	2457-2463	object	_	_	
+22-46	2464-2466	of	_	_	
+22-47	2467-2470	the	_	_	
+22-48	2471-2480	following	_	_	
+22-49	2481-2483	to	_	_	
+22-50	2484-2491	address	_	_	
+22-51	2492-2494	at	_	_	
+22-52	2495-2500	least	_	_	
+22-53	2501-2504	one	_	_	
+22-54	2505-2507	of	_	_	
+22-55	2508-2511	the	_	_	
+22-56	2512-2523	above-noted	_	_	
+22-57	2524-2537	disadvantages	_	_	
+22-58	2537-2538	.	_	_	
+
+#Text=SUMMARY OF THE INVENTION
+23-1	2539-2546	SUMMARY	_	_	
+23-2	2547-2549	OF	_	_	
+23-3	2550-2553	THE	_	_	
+23-4	2554-2563	INVENTION	_	_	

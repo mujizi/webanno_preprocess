@@ -1,0 +1,5 @@
+[0032] The different sensors 5 to 9 are connected to a calculator 10, in which there are recorded tables or maps characteristic of the engine. These tables are preestablished by preliminary measurements performed for each engine.
+[0033] The method for determination of the mass m.sub.c(t) of particles present in the filter at the instant t now is described.
+[0034] This method consists in repeating, at determined time intervals .DELTA.t, the sequence of operations described below:
+[0035] (i) In a first operation, there is measured, at the instant t, the temperature T(t) of the exhaust gases at the inlet of the particle filter, by using temperature sensor 5. The value obtained is recorded in calculator 10.
+[0036] (ii) In substantially simultaneous manner, there are measured, at the instant t, the operating parameters Ne and Q of the engine, by means of sensors 6 and 7. The measured values are also recorded in calculator 10.

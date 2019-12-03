@@ -1,0 +1,319 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=[0079] Melt pressed films were punched with a 5 mm diameter and weighed.
+1-1	0-1	[	
+1-2	1-5	0079	
+1-3	5-6	]	
+1-4	7-11	Melt	
+1-5	12-19	pressed	
+1-6	20-25	films	
+1-7	26-30	were	
+1-8	31-38	punched	
+1-9	39-43	with	
+1-10	44-45	a	
+1-11	46-47	5	
+1-12	48-50	mm	
+1-13	51-59	diameter	
+1-14	60-63	and	
+1-15	64-71	weighed	
+1-16	71-72	.	
+
+#Text=The films were then immersed in a vial containing 1 mL deionized water.
+2-1	73-76	The	
+2-2	77-82	films	
+2-3	83-87	were	
+2-4	88-92	then	
+2-5	93-101	immersed	
+2-6	102-104	in	
+2-7	105-106	a	
+2-8	107-111	vial	
+2-9	112-122	containing	
+2-10	123-124	1	
+2-11	125-127	mL	
+2-12	128-137	deionized	
+2-13	138-143	water	
+2-14	143-144	.	
+
+#Text=The films were agitated at a rate of 5 rpm using a GyroTwister (Labnet International Inc.) over a period of four weeks.
+3-1	145-148	The	
+3-2	149-154	films	
+3-3	155-159	were	
+3-4	160-168	agitated	
+3-5	169-171	at	
+3-6	172-173	a	
+3-7	174-178	rate	
+3-8	179-181	of	
+3-9	182-183	5	
+3-10	184-187	rpm	
+3-11	188-193	using	
+3-12	194-195	a	
+3-13	196-207	GyroTwister	
+3-14	208-209	(	
+3-15	209-215	Labnet	
+3-16	216-229	International	
+3-17	230-233	Inc	
+3-18	233-234	.	
+3-19	234-235	)	
+3-20	236-240	over	
+3-21	241-242	a	
+3-22	243-249	period	
+3-23	250-252	of	
+3-24	253-257	four	
+3-25	258-263	weeks	
+3-26	263-264	.	
+
+#Text=At the end of each week, the films were dried under vacuum at 40.degree.
+4-1	265-267	At	
+4-2	268-271	the	
+4-3	272-275	end	
+4-4	276-278	of	
+4-5	279-283	each	
+4-6	284-288	week	
+4-7	288-289	,	
+4-8	290-293	the	
+4-9	294-299	films	
+4-10	300-304	were	
+4-11	305-310	dried	
+4-12	311-316	under	
+4-13	317-323	vacuum	
+4-14	324-326	at	
+4-15	327-329	40	
+4-16	329-330	.	
+4-17	330-336	degree	
+4-18	336-337	.	
+
+#Text=C. overnight and weighed.
+5-1	338-339	C	
+5-2	339-340	.	
+5-3	341-350	overnight	
+5-4	351-354	and	
+5-5	355-362	weighed	
+5-6	362-363	.	
+
+#Text=The weight difference was plotted over time.
+6-1	364-367	The	
+6-2	368-374	weight	
+6-3	375-385	difference	
+6-4	386-389	was	
+6-5	390-397	plotted	
+6-6	398-402	over	
+6-7	403-407	time	
+6-8	407-408	.	
+
+#Text=This experiment was carried out in triplicate for each time period.
+7-1	409-413	This	
+7-2	414-424	experiment	
+7-3	425-428	was	
+7-4	429-436	carried	
+7-5	437-440	out	
+7-6	441-443	in	
+7-7	444-454	triplicate	
+7-8	455-458	for	
+7-9	459-463	each	
+7-10	464-468	time	
+7-11	469-475	period	
+7-12	475-476	.	
+
+#Text=Preparation of Aqueous Dispersions/Nanoparticles from Butyl Rubber-PEO Graft Copolymers
+#Text=[0080] A 10 mg/mL solution of the graft copolymer was prepared in filtered THF.
+8-1	477-488	Preparation	
+8-2	489-491	of	
+8-3	492-499	Aqueous	
+8-4	500-511	Dispersions	
+8-5	511-512	/	
+8-6	512-525	Nanoparticles	
+8-7	526-530	from	
+8-8	531-536	Butyl	
+8-9	537-547	Rubber-PEO	
+8-10	548-553	Graft	
+8-11	554-564	Copolymers	
+8-12	565-566	[	
+8-13	566-570	0080	
+8-14	570-571	]	
+8-15	572-573	A	
+8-16	574-576	10	
+8-17	577-579	mg	
+8-18	579-580	/	
+8-19	580-582	mL	
+8-20	583-591	solution	
+8-21	592-594	of	
+8-22	595-598	the	
+8-23	599-604	graft	
+8-24	605-614	copolymer	
+8-25	615-618	was	
+8-26	619-627	prepared	
+8-27	628-630	in	
+8-28	631-639	filtered	
+8-29	640-643	THF	
+8-30	643-644	.	
+
+#Text=To this solution, filtered deionized water was added rapidly via syringe to provide solutions containing either 100%, 70%, 50%, or 30% THF.
+9-1	645-647	To	
+9-2	648-652	this	
+9-3	653-661	solution	
+9-4	661-662	,	
+9-5	663-671	filtered	
+9-6	672-681	deionized	
+9-7	682-687	water	
+9-8	688-691	was	
+9-9	692-697	added	
+9-10	698-705	rapidly	
+9-11	706-709	via	
+9-12	710-717	syringe	
+9-13	718-720	to	
+9-14	721-728	provide	
+9-15	729-738	solutions	
+9-16	739-749	containing	
+9-17	750-756	either	
+9-18	757-761	100%	
+9-19	761-762	,	
+9-20	763-766	70%	
+9-21	766-767	,	
+9-22	768-771	50%	
+9-23	771-772	,	
+9-24	773-775	or	
+9-25	776-779	30%	
+9-26	780-783	THF	
+9-27	783-784	.	
+
+#Text=The resulting solutions were then dialyzed overnight against water using a regenerated cellulose membrane (Spectra/Por) with a molecular weight cut-off of 12000-14000 g/mol.
+10-1	785-788	The	
+10-2	789-798	resulting	
+10-3	799-808	solutions	
+10-4	809-813	were	
+10-5	814-818	then	
+10-6	819-827	dialyzed	
+10-7	828-837	overnight	
+10-8	838-845	against	
+10-9	846-851	water	
+10-10	852-857	using	
+10-11	858-859	a	
+10-12	860-871	regenerated	
+10-13	872-881	cellulose	
+10-14	882-890	membrane	
+10-15	891-892	(	
+10-16	892-899	Spectra	
+10-17	899-900	/	
+10-18	900-903	Por	
+10-19	903-904	)	
+10-20	905-909	with	
+10-21	910-911	a	
+10-22	912-921	molecular	
+10-23	922-928	weight	
+10-24	929-936	cut-off	
+10-25	937-939	of	
+10-26	940-945	12000	
+10-27	945-946	-	
+10-28	946-951	14000	
+10-29	952-953	g	
+10-30	953-954	/	
+10-31	954-957	mol	
+10-32	957-958	.	
+
+#Text=Dynamic light scattering was performed on ZetaSizer Nano instrument from Malvern Instruments.
+11-1	959-966	Dynamic	
+11-2	967-972	light	
+11-3	973-983	scattering	
+11-4	984-987	was	
+11-5	988-997	performed	
+11-6	998-1000	on	
+11-7	1001-1010	ZetaSizer	
+11-8	1011-1015	Nano	
+11-9	1016-1026	instrument	
+11-10	1027-1031	from	
+11-11	1032-1039	Malvern	
+11-12	1040-1051	Instruments	
+11-13	1051-1052	.	
+
+#Text=Transmission Electron Microscopy (TEM)
+#Text=[0081] A drop of the nanoparticie suspension (.about.3 mg/mL) was transferred via pipette to a carbon formvar grid and was left for 1 minute.
+12-1	1053-1065	Transmission	
+12-2	1066-1074	Electron	
+12-3	1075-1085	Microscopy	
+12-4	1086-1087	(	
+12-5	1087-1090	TEM	
+12-6	1090-1091	)	
+12-7	1092-1093	[	
+12-8	1093-1097	0081	
+12-9	1097-1098	]	
+12-10	1099-1100	A	
+12-11	1101-1105	drop	
+12-12	1106-1108	of	
+12-13	1109-1112	the	
+12-14	1113-1125	nanoparticie	
+12-15	1126-1136	suspension	
+12-16	1137-1138	(	
+12-17	1138-1139	.	
+12-18	1139-1144	about	
+12-19	1144-1146	.3	
+12-20	1147-1149	mg	
+12-21	1149-1150	/	
+12-22	1150-1152	mL	
+12-23	1152-1153	)	
+12-24	1154-1157	was	
+12-25	1158-1169	transferred	
+12-26	1170-1173	via	
+12-27	1174-1181	pipette	
+12-28	1182-1184	to	
+12-29	1185-1186	a	
+12-30	1187-1193	carbon	
+12-31	1194-1201	formvar	
+12-32	1202-1206	grid	
+12-33	1207-1210	and	
+12-34	1211-1214	was	
+12-35	1215-1219	left	
+12-36	1220-1223	for	
+12-37	1224-1225	1	
+12-38	1226-1232	minute	
+12-39	1232-1233	.	
+
+#Text=The excess solution was removed.
+13-1	1234-1237	The	
+13-2	1238-1244	excess	
+13-3	1245-1253	solution	
+13-4	1254-1257	was	
+13-5	1258-1265	removed	
+13-6	1265-1266	.	
+
+#Text=The grid was stained with the vapour of OsO.sub.4 in a sealed container, for 2 hours.
+14-1	1267-1270	The	
+14-2	1271-1275	grid	
+14-3	1276-1279	was	
+14-4	1280-1287	stained	
+14-5	1288-1292	with	
+14-6	1293-1296	the	
+14-7	1297-1303	vapour	
+14-8	1304-1306	of	
+14-9	1307-1314	OsO.sub	
+14-10	1314-1316	.4	
+14-11	1317-1319	in	
+14-12	1320-1321	a	
+14-13	1322-1328	sealed	
+14-14	1329-1338	container	
+14-15	1338-1339	,	
+14-16	1340-1343	for	
+14-17	1344-1345	2	
+14-18	1346-1351	hours	
+14-19	1351-1352	.	
+
+#Text=Imaging was performed using a Phillips CM10 microscope operating at 80 kV with a 40 .mu.m aperture.
+15-1	1353-1360	Imaging	
+15-2	1361-1364	was	
+15-3	1365-1374	performed	
+15-4	1375-1380	using	
+15-5	1381-1382	a	
+15-6	1383-1391	Phillips	
+15-7	1392-1396	CM10	
+15-8	1397-1407	microscope	
+15-9	1408-1417	operating	
+15-10	1418-1420	at	
+15-11	1421-1423	80	
+15-12	1424-1426	kV	
+15-13	1427-1431	with	
+15-14	1432-1433	a	
+15-15	1434-1436	40	
+15-16	1437-1438	.	
+15-17	1438-1442	mu.m	
+15-18	1443-1451	aperture	
+15-19	1451-1452	.	

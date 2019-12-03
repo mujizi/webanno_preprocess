@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=NMP: 30.2% by weight
+#Text=PEG 400: 60.3% by weight.
+1-1	0-3	NMP	
+1-2	3-4	:	
+1-3	5-10	30.2%	
+1-4	11-13	by	
+1-5	14-20	weight	
+1-6	21-24	PEG	
+1-7	25-28	400	
+1-8	28-29	:	
+1-9	30-35	60.3%	
+1-10	36-38	by	
+1-11	39-45	weight	
+1-12	45-46	.	
+
+#Text=The viscosity of this solution was 1.4 Pa.s.
+2-1	47-50	The	
+2-2	51-60	viscosity	
+2-3	61-63	of	
+2-4	64-68	this	
+2-5	69-77	solution	
+2-6	78-81	was	
+2-7	82-85	1.4	
+2-8	86-90	Pa.s	
+2-9	90-91	.	
+
+#Text=After setting of the membrane at 70% relative humidity and 25.degree.
+3-1	92-97	After	
+3-2	98-105	setting	
+3-3	106-108	of	
+3-4	109-112	the	
+3-5	113-121	membrane	
+3-6	122-124	at	
+3-7	125-128	70%	
+3-8	129-137	relative	
+3-9	138-146	humidity	
+3-10	147-150	and	
+3-11	151-153	25	
+3-12	153-154	.	
+3-13	154-160	degree	
+3-14	160-161	.	
+
+#Text=C. in stationary air (30 minutes), the membrane was washed in water and dried.
+4-1	162-163	C	
+4-2	163-164	.	
+4-3	165-167	in	
+4-4	168-178	stationary	
+4-5	179-182	air	
+4-6	183-184	(	
+4-7	184-186	30	
+4-8	187-194	minutes	
+4-9	194-195	)	
+4-10	195-196	,	
+4-11	197-200	the	
+4-12	201-209	membrane	
+4-13	210-213	was	
+4-14	214-220	washed	
+4-15	221-223	in	
+4-16	224-229	water	
+4-17	230-233	and	
+4-18	234-239	dried	
+4-19	239-240	.	
+
+#Text=For the membrane obtained in this manner the following parameters were determined:
+5-1	241-244	For	
+5-2	245-248	the	
+5-3	249-257	membrane	
+5-4	258-266	obtained	
+5-5	267-269	in	
+5-6	270-274	this	
+5-7	275-281	manner	
+5-8	282-285	the	
+5-9	286-295	following	
+5-10	296-306	parameters	
+5-11	307-311	were	
+5-12	312-322	determined	
+5-13	322-323	:	

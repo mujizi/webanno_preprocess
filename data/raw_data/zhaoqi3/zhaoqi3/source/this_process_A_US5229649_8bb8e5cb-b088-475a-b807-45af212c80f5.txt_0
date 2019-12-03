@@ -1,0 +1,5 @@
+4.5 SAMPLING CAP ARRAY and SWITCHES
+The CAP ARRAY and SWITCHES circuit X5 contains sampling capacitors that are basically unit sizes. Due to the variety of voltages sampled, fractions of units are required. Poly etch tolerance can cause approximately 0.2% ratio error.
+Inputs S1, S2, S3, S8 and S9 require signals level shifted above VSS2 (the normal logic level is VSS1, VDD2). Inputs S1, S2, S3, S8, S9 must save bodies tied to VSSI and VDD1. All other switches may be tied to VSSI, VDD2. Note that this includes p-channel bodies, since they are isolated from the substrate in this process.
+Sampling occurs such that the node OUT should remain at the reference voltage level if the sampled voltage is at its exact trip point. This avoids parasitic capacitance effects at this high-impedance node.
+100 mV of hysteresis is added to the SL and SVL tests by switching between two slightly different capacitor values.

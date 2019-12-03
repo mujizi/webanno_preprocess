@@ -1,0 +1,990 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=[0158] Eukaryotic viruses can be used to display polypeptides in an analogous manner.
+1-1	0-1	[	_	_	
+1-2	1-5	0158	_	_	
+1-3	5-6	]	_	_	
+1-4	7-17	Eukaryotic	_	_	
+1-5	18-25	viruses	_	_	
+1-6	26-29	can	_	_	
+1-7	30-32	be	_	_	
+1-8	33-37	used	_	_	
+1-9	38-40	to	_	_	
+1-10	41-48	display	_	_	
+1-11	49-61	polypeptides	_	_	
+1-12	62-64	in	_	_	
+1-13	65-67	an	_	_	
+1-14	68-77	analogous	_	_	
+1-15	78-84	manner	_	_	
+1-16	84-85	.	_	_	
+
+#Text=For example, display of human heregulin fused to gp70 of Moloney murine leukemia virus has been reported by Han et al., Proc.
+2-1	86-89	For	_	_	
+2-2	90-97	example	_	_	
+2-3	97-98	,	_	_	
+2-4	99-106	display	_	_	
+2-5	107-109	of	_	_	
+2-6	110-115	human	_	_	
+2-7	116-125	heregulin	_	_	
+2-8	126-131	fused	_	_	
+2-9	132-134	to	_	_	
+2-10	135-139	gp70	_	_	
+2-11	140-142	of	_	_	
+2-12	143-150	Moloney	_	_	
+2-13	151-157	murine	_	_	
+2-14	158-166	leukemia	_	_	
+2-15	167-172	virus	_	_	
+2-16	173-176	has	_	_	
+2-17	177-181	been	_	_	
+2-18	182-190	reported	_	_	
+2-19	191-193	by	_	_	
+2-20	194-197	Han	_	_	
+2-21	198-200	et	_	_	
+2-22	201-203	al	_	_	
+2-23	203-204	.	_	_	
+2-24	204-205	,	_	_	
+2-25	206-210	Proc	_	_	
+2-26	210-211	.	_	_	
+
+#Text=Natl.
+3-1	212-216	Natl	_	_	
+3-2	216-217	.	_	_	
+
+#Text=Acad.
+4-1	218-222	Acad	_	_	
+4-2	222-223	.	_	_	
+
+#Text=Sci.
+5-1	224-227	Sci	_	_	
+5-2	227-228	.	_	_	
+
+#Text=USA 92: 9747-9751 (1995).
+6-1	229-232	USA	_	_	
+6-2	233-235	92	_	_	
+6-3	235-236	:	_	_	
+6-4	237-241	9747	_	_	
+6-5	241-242	-	_	_	
+6-6	242-246	9751	_	_	
+6-7	247-248	(	_	_	
+6-8	248-252	1995	_	_	
+6-9	252-253	)	_	_	
+6-10	253-254	.	_	_	
+
+#Text=Spores can also be used as replicable genetic packages.
+7-1	255-261	Spores	_	_	
+7-2	262-265	can	_	_	
+7-3	266-270	also	_	_	
+7-4	271-273	be	_	_	
+7-5	274-278	used	_	_	
+7-6	279-281	as	_	_	
+7-7	282-292	replicable	_	_	
+7-8	293-300	genetic	_	_	
+7-9	301-309	packages	_	_	
+7-10	309-310	.	_	_	
+
+#Text=In this case, polypeptides are displayed from the outer surface of the spore.
+8-1	311-313	In	_	_	
+8-2	314-318	this	_	_	
+8-3	319-323	case	_	_	
+8-4	323-324	,	_	_	
+8-5	325-337	polypeptides	_	_	
+8-6	338-341	are	_	_	
+8-7	342-351	displayed	_	_	
+8-8	352-356	from	_	_	
+8-9	357-360	the	_	_	
+8-10	361-366	outer	_	_	
+8-11	367-374	surface	_	_	
+8-12	375-377	of	_	_	
+8-13	378-381	the	_	_	
+8-14	382-387	spore	_	_	
+8-15	387-388	.	_	_	
+
+#Text=For example, spores from B. subtilis have been reported to be suitable.
+9-1	389-392	For	_	_	
+9-2	393-400	example	_	_	
+9-3	400-401	,	_	_	
+9-4	402-408	spores	_	_	
+9-5	409-413	from	_	_	
+9-6	414-415	B	_	_	
+9-7	415-416	.	_	_	
+9-8	417-425	subtilis	_	_	
+9-9	426-430	have	_	_	
+9-10	431-435	been	_	_	
+9-11	436-444	reported	_	_	
+9-12	445-447	to	_	_	
+9-13	448-450	be	_	_	
+9-14	451-459	suitable	_	_	
+9-15	459-460	.	_	_	
+
+#Text=Sequences of coat proteins of these spores are provided by Donovan et al., J.
+10-1	461-470	Sequences	_	_	
+10-2	471-473	of	_	_	
+10-3	474-478	coat	_	_	
+10-4	479-487	proteins	_	_	
+10-5	488-490	of	_	_	
+10-6	491-496	these	_	_	
+10-7	497-503	spores	_	_	
+10-8	504-507	are	_	_	
+10-9	508-516	provided	_	_	
+10-10	517-519	by	_	_	
+10-11	520-527	Donovan	_	_	
+10-12	528-530	et	_	_	
+10-13	531-533	al	_	_	
+10-14	533-534	.	_	_	
+10-15	534-535	,	_	_	
+10-16	536-537	J	_	_	
+10-17	537-538	.	_	_	
+
+#Text=Mol.
+11-1	539-542	Mol	_	_	
+11-2	542-543	.	_	_	
+
+#Text=Biol. 196, 1-10 (1987).
+12-1	544-548	Biol	_	_	
+12-2	548-549	.	_	_	
+12-3	550-553	196	_	_	
+12-4	553-554	,	_	_	
+12-5	555-556	1	_	_	
+12-6	556-557	-	_	_	
+12-7	557-559	10	_	_	
+12-8	560-561	(	_	_	
+12-9	561-565	1987	_	_	
+12-10	565-566	)	_	_	
+12-11	566-567	.	_	_	
+
+#Text=Cells can also be used as replicable genetic packages.
+13-1	568-573	Cells	_	_	
+13-2	574-577	can	_	_	
+13-3	578-582	also	_	_	
+13-4	583-585	be	_	_	
+13-5	586-590	used	_	_	
+13-6	591-593	as	_	_	
+13-7	594-604	replicable	_	_	
+13-8	605-612	genetic	_	_	
+13-9	613-621	packages	_	_	
+13-10	621-622	.	_	_	
+
+#Text=Polypeptides to be displayed are inserted into a gene encoding a cell protein that is expressed on the cells surface.
+14-1	623-635	Polypeptides	_	_	
+14-2	636-638	to	_	_	
+14-3	639-641	be	_	_	
+14-4	642-651	displayed	_	_	
+14-5	652-655	are	_	_	
+14-6	656-664	inserted	_	_	
+14-7	665-669	into	_	_	
+14-8	670-671	a	_	_	
+14-9	672-676	gene	_	_	
+14-10	677-685	encoding	_	_	
+14-11	686-687	a	_	_	
+14-12	688-692	cell	_	_	
+14-13	693-700	protein	_	_	
+14-14	701-705	that	_	_	
+14-15	706-708	is	_	_	
+14-16	709-718	expressed	_	_	
+14-17	719-721	on	_	_	
+14-18	722-725	the	_	_	
+14-19	726-731	cells	_	_	
+14-20	732-739	surface	_	_	
+14-21	739-740	.	_	_	
+
+#Text=Bacterial cells including Salmonella typhimurium, Bacillus subtilis, Pseudomonas aeruginosa, Vibrio cholerae, Klebsiella pneumonia, Neisseria gonorrhoeae, Neisseria meningitidis, Bacteroides nodosus, Moraxella bovis, and especially Escherichia coli are preferred.
+15-1	741-750	Bacterial	_	_	
+15-2	751-756	cells	_	_	
+15-3	757-766	including	_	_	
+15-4	767-777	Salmonella	_	_	
+15-5	778-789	typhimurium	_	_	
+15-6	789-790	,	_	_	
+15-7	791-799	Bacillus	_	_	
+15-8	800-808	subtilis	_	_	
+15-9	808-809	,	_	_	
+15-10	810-821	Pseudomonas	_	_	
+15-11	822-832	aeruginosa	_	_	
+15-12	832-833	,	_	_	
+15-13	834-840	Vibrio	_	_	
+15-14	841-849	cholerae	_	_	
+15-15	849-850	,	_	_	
+15-16	851-861	Klebsiella	_	_	
+15-17	862-871	pneumonia	_	_	
+15-18	871-872	,	_	_	
+15-19	873-882	Neisseria	_	_	
+15-20	883-894	gonorrhoeae	_	_	
+15-21	894-895	,	_	_	
+15-22	896-905	Neisseria	_	_	
+15-23	906-918	meningitidis	_	_	
+15-24	918-919	,	_	_	
+15-25	920-931	Bacteroides	_	_	
+15-26	932-939	nodosus	_	_	
+15-27	939-940	,	_	_	
+15-28	941-950	Moraxella	_	_	
+15-29	951-956	bovis	_	_	
+15-30	956-957	,	_	_	
+15-31	958-961	and	_	_	
+15-32	962-972	especially	_	_	
+15-33	973-984	Escherichia	_	_	
+15-34	985-989	coli	_	_	
+15-35	990-993	are	_	_	
+15-36	994-1003	preferred	_	_	
+15-37	1003-1004	.	_	_	
+
+#Text=Details of outer surface proteins are discussed by Ladner et al., U.S.
+16-1	1005-1012	Details	_	_	
+16-2	1013-1015	of	_	_	
+16-3	1016-1021	outer	_	_	
+16-4	1022-1029	surface	_	_	
+16-5	1030-1038	proteins	_	_	
+16-6	1039-1042	are	_	_	
+16-7	1043-1052	discussed	_	_	
+16-8	1053-1055	by	_	_	
+16-9	1056-1062	Ladner	_	_	
+16-10	1063-1065	et	_	_	
+16-11	1066-1068	al	_	_	
+16-12	1068-1069	.	_	_	
+16-13	1069-1070	,	_	_	
+16-14	1071-1074	U.S	_	_	
+16-15	1074-1075	.	_	_	
+
+#Text=Pat.
+17-1	1076-1079	Pat	_	_	
+17-2	1079-1080	.	_	_	
+
+#Text=No. 5,571,698 and references cited therein.
+18-1	1081-1083	No	_	_	
+18-2	1083-1084	.	_	_	
+18-3	1085-1094	5,571,698	_	_	
+18-4	1095-1098	and	_	_	
+18-5	1099-1109	references	_	_	
+18-6	1110-1115	cited	_	_	
+18-7	1116-1123	therein	_	_	
+18-8	1123-1124	.	_	_	
+
+#Text=For example, the lamB protein of E. coli is suitable.
+#Text=[0159] A basic concept of display methods that use phage or other replicable genetic package is the establishment of a physical association between DNA encoding a polypeptide to be screened and the polypeptide.
+19-1	1125-1128	For	_	_	
+19-2	1129-1136	example	_	_	
+19-3	1136-1137	,	_	_	
+19-4	1138-1141	the	_	_	
+19-5	1142-1146	lamB	_	_	
+19-6	1147-1154	protein	_	_	
+19-7	1155-1157	of	_	_	
+19-8	1158-1159	E	_	_	
+19-9	1159-1160	.	_	_	
+19-10	1161-1165	coli	_	_	
+19-11	1166-1168	is	_	_	
+19-12	1169-1177	suitable	_	_	
+19-13	1177-1178	.	_	_	
+19-14	1179-1180	[	_	_	
+19-15	1180-1184	0159	_	_	
+19-16	1184-1185	]	_	_	
+19-17	1186-1187	A	_	_	
+19-18	1188-1193	basic	_	_	
+19-19	1194-1201	concept	_	_	
+19-20	1202-1204	of	_	_	
+19-21	1205-1212	display	_	_	
+19-22	1213-1220	methods	_	_	
+19-23	1221-1225	that	_	_	
+19-24	1226-1229	use	_	_	
+19-25	1230-1235	phage	_	_	
+19-26	1236-1238	or	_	_	
+19-27	1239-1244	other	_	_	
+19-28	1245-1255	replicable	_	_	
+19-29	1256-1263	genetic	_	_	
+19-30	1264-1271	package	_	_	
+19-31	1272-1274	is	_	_	
+19-32	1275-1278	the	_	_	
+19-33	1279-1292	establishment	_	_	
+19-34	1293-1295	of	_	_	
+19-35	1296-1297	a	_	_	
+19-36	1298-1306	physical	_	_	
+19-37	1307-1318	association	_	_	
+19-38	1319-1326	between	_	_	
+19-39	1327-1330	DNA	_	_	
+19-40	1331-1339	encoding	_	_	
+19-41	1340-1341	a	_	_	
+19-42	1342-1353	polypeptide	_	_	
+19-43	1354-1356	to	_	_	
+19-44	1357-1359	be	_	_	
+19-45	1360-1368	screened	_	_	
+19-46	1369-1372	and	_	_	
+19-47	1373-1376	the	_	_	
+19-48	1377-1388	polypeptide	_	_	
+19-49	1388-1389	.	_	_	
+
+#Text=This physical association is provided by the replicable genetic package, which displays a polypeptide as part of a capsid enclosing the genome of the phage or other package, wherein the polypeptide is encoded by the genome.
+20-1	1390-1394	This	_	_	
+20-2	1395-1403	physical	_	_	
+20-3	1404-1415	association	_	_	
+20-4	1416-1418	is	_	_	
+20-5	1419-1427	provided	_	_	
+20-6	1428-1430	by	_	_	
+20-7	1431-1434	the	_	_	
+20-8	1435-1445	replicable	_	_	
+20-9	1446-1453	genetic	_	_	
+20-10	1454-1461	package	_	_	
+20-11	1461-1462	,	_	_	
+20-12	1463-1468	which	_	_	
+20-13	1469-1477	displays	_	_	
+20-14	1478-1479	a	_	_	
+20-15	1480-1491	polypeptide	_	_	
+20-16	1492-1494	as	_	_	
+20-17	1495-1499	part	_	_	
+20-18	1500-1502	of	_	_	
+20-19	1503-1504	a	_	_	
+20-20	1505-1511	capsid	_	_	
+20-21	1512-1521	enclosing	_	_	
+20-22	1522-1525	the	_	_	
+20-23	1526-1532	genome	_	_	
+20-24	1533-1535	of	_	_	
+20-25	1536-1539	the	_	_	
+20-26	1540-1545	phage	_	_	
+20-27	1546-1548	or	_	_	
+20-28	1549-1554	other	_	_	
+20-29	1555-1562	package	_	_	
+20-30	1562-1563	,	_	_	
+20-31	1564-1571	wherein	_	_	
+20-32	1572-1575	the	_	_	
+20-33	1576-1587	polypeptide	_	_	
+20-34	1588-1590	is	_	_	
+20-35	1591-1598	encoded	_	_	
+20-36	1599-1601	by	_	_	
+20-37	1602-1605	the	_	_	
+20-38	1606-1612	genome	_	_	
+20-39	1612-1613	.	_	_	
+
+#Text=The establishment of a physical association between polypeptides and their genetic material allows simultaneous mass screening of very large numbers of phage bearing different polypeptides.
+21-1	1614-1617	The	_	_	
+21-2	1618-1631	establishment	_	_	
+21-3	1632-1634	of	_	_	
+21-4	1635-1636	a	_	_	
+21-5	1637-1645	physical	_	_	
+21-6	1646-1657	association	_	_	
+21-7	1658-1665	between	_	_	
+21-8	1666-1678	polypeptides	_	_	
+21-9	1679-1682	and	_	_	
+21-10	1683-1688	their	_	_	
+21-11	1689-1696	genetic	_	_	
+21-12	1697-1705	material	_	_	
+21-13	1706-1712	allows	_	_	
+21-14	1713-1725	simultaneous	_	_	
+21-15	1726-1730	mass	_	_	
+21-16	1731-1740	screening	_	_	
+21-17	1741-1743	of	_	_	
+21-18	1744-1748	very	_	_	
+21-19	1749-1754	large	_	_	
+21-20	1755-1762	numbers	_	_	
+21-21	1763-1765	of	_	_	
+21-22	1766-1771	phage	_	_	
+21-23	1772-1779	bearing	_	_	
+21-24	1780-1789	different	_	_	
+21-25	1790-1802	polypeptides	_	_	
+21-26	1802-1803	.	_	_	
+
+#Text=Phage displaying a polypeptide with affinity to a target, e.g., a receptor, bind to the target and these phage are enriched by affinity screening to the target.
+22-1	1804-1809	Phage	_	_	
+22-2	1810-1820	displaying	_	_	
+22-3	1821-1822	a	_	_	
+22-4	1823-1834	polypeptide	_	_	
+22-5	1835-1839	with	_	_	
+22-6	1840-1848	affinity	_	_	
+22-7	1849-1851	to	_	_	
+22-8	1852-1853	a	_	_	
+22-9	1854-1860	target	_	_	
+22-10	1860-1861	,	_	_	
+22-11	1862-1865	e.g	_	_	
+22-12	1865-1866	.	_	_	
+22-13	1866-1867	,	_	_	
+22-14	1868-1869	a	_	_	
+22-15	1870-1878	receptor	_	_	
+22-16	1878-1879	,	_	_	
+22-17	1880-1884	bind	_	_	
+22-18	1885-1887	to	_	_	
+22-19	1888-1891	the	_	_	
+22-20	1892-1898	target	_	_	
+22-21	1899-1902	and	_	_	
+22-22	1903-1908	these	_	_	
+22-23	1909-1914	phage	_	_	
+22-24	1915-1918	are	_	_	
+22-25	1919-1927	enriched	_	_	
+22-26	1928-1930	by	_	_	
+22-27	1931-1939	affinity	_	_	
+22-28	1940-1949	screening	_	_	
+22-29	1950-1952	to	_	_	
+22-30	1953-1956	the	_	_	
+22-31	1957-1963	target	_	_	
+22-32	1963-1964	.	_	_	
+
+#Text=The identity of polypeptides displayed from these phage can be determined from their respective genomes.
+23-1	1965-1968	The	_	_	
+23-2	1969-1977	identity	_	_	
+23-3	1978-1980	of	_	_	
+23-4	1981-1993	polypeptides	_	_	
+23-5	1994-2003	displayed	_	_	
+23-6	2004-2008	from	_	_	
+23-7	2009-2014	these	_	_	
+23-8	2015-2020	phage	_	_	
+23-9	2021-2024	can	_	_	
+23-10	2025-2027	be	_	_	
+23-11	2028-2038	determined	_	_	
+23-12	2039-2043	from	_	_	
+23-13	2044-2049	their	_	_	
+23-14	2050-2060	respective	_	_	
+23-15	2061-2068	genomes	_	_	
+23-16	2068-2069	.	_	_	
+
+#Text=Using these methods a polypeptide identified as having a binding affinity for a desired target can then be synthesized in bulk by conventional means, or the polynucleotide that encodes the peptide or polypeptide can be used as part of a genetic vaccine.
+#Text=[0160] Variants with specific binding properties, in this case binding to family-specific antibodies, are easily enriched by panning with immobilized antibodies.
+24-1	2070-2075	Using	_	_	
+24-2	2076-2081	these	_	_	
+24-3	2082-2089	methods	_	_	
+24-4	2090-2091	a	_	_	
+24-5	2092-2103	polypeptide	_	_	
+24-6	2104-2114	identified	_	_	
+24-7	2115-2117	as	_	_	
+24-8	2118-2124	having	_	_	
+24-9	2125-2126	a	_	_	
+24-10	2127-2134	binding	_	_	
+24-11	2135-2143	affinity	_	_	
+24-12	2144-2147	for	_	_	
+24-13	2148-2149	a	_	_	
+24-14	2150-2157	desired	_	_	
+24-15	2158-2164	target	_	_	
+24-16	2165-2168	can	_	_	
+24-17	2169-2173	then	_	_	
+24-18	2174-2176	be	_	_	
+24-19	2177-2188	synthesized	_	_	
+24-20	2189-2191	in	_	_	
+24-21	2192-2196	bulk	_	_	
+24-22	2197-2199	by	_	_	
+24-23	2200-2212	conventional	_	_	
+24-24	2213-2218	means	_	_	
+24-25	2218-2219	,	_	_	
+24-26	2220-2222	or	_	_	
+24-27	2223-2226	the	_	_	
+24-28	2227-2241	polynucleotide	_	_	
+24-29	2242-2246	that	_	_	
+24-30	2247-2254	encodes	_	_	
+24-31	2255-2258	the	_	_	
+24-32	2259-2266	peptide	_	_	
+24-33	2267-2269	or	_	_	
+24-34	2270-2281	polypeptide	_	_	
+24-35	2282-2285	can	_	_	
+24-36	2286-2288	be	_	_	
+24-37	2289-2293	used	_	_	
+24-38	2294-2296	as	_	_	
+24-39	2297-2301	part	_	_	
+24-40	2302-2304	of	_	_	
+24-41	2305-2306	a	_	_	
+24-42	2307-2314	genetic	_	_	
+24-43	2315-2322	vaccine	_	_	
+24-44	2322-2323	.	_	_	
+24-45	2324-2325	[	*[1]	29-6[2_1]	
+24-46	2325-2329	0160	*[1]	_	
+24-47	2329-2330	]	*[1]	_	
+24-48	2331-2339	Variants	*[1]	_	
+24-49	2340-2344	with	*[1]	_	
+24-50	2345-2353	specific	*[1]	_	
+24-51	2354-2361	binding	*[1]	_	
+24-52	2362-2372	properties	*[1]	_	
+24-53	2372-2373	,	*[1]	_	
+24-54	2374-2376	in	*[1]	_	
+24-55	2377-2381	this	*[1]	_	
+24-56	2382-2386	case	*[1]	_	
+24-57	2387-2394	binding	*[1]	_	
+24-58	2395-2397	to	*[1]	_	
+24-59	2398-2413	family-specific	*[1]	_	
+24-60	2414-2424	antibodies	*[1]	_	
+24-61	2424-2425	,	*[1]	_	
+24-62	2426-2429	are	*[1]	_	
+24-63	2430-2436	easily	*[1]	_	
+24-64	2437-2445	enriched	*[1]	_	
+24-65	2446-2448	by	*[1]	_	
+24-66	2449-2456	panning	*[1]	_	
+24-67	2457-2461	with	*[1]	_	
+24-68	2462-2473	immobilized	*[1]	_	
+24-69	2474-2484	antibodies	*[1]	_	
+24-70	2484-2485	.	*[1]	_	
+
+#Text=Antibodies specific for a single family are used in each round of panning to rapidly select variants that have multiple epitopes from the antigen families.
+25-1	2486-2496	Antibodies	_	_	
+25-2	2497-2505	specific	_	_	
+25-3	2506-2509	for	_	_	
+25-4	2510-2511	a	_	_	
+25-5	2512-2518	single	_	_	
+25-6	2519-2525	family	_	_	
+25-7	2526-2529	are	_	_	
+25-8	2530-2534	used	_	_	
+25-9	2535-2537	in	_	_	
+25-10	2538-2542	each	_	_	
+25-11	2543-2548	round	_	_	
+25-12	2549-2551	of	_	_	
+25-13	2552-2559	panning	_	_	
+25-14	2560-2562	to	_	_	
+25-15	2563-2570	rapidly	_	_	
+25-16	2571-2577	select	_	_	
+25-17	2578-2586	variants	_	_	
+25-18	2587-2591	that	_	_	
+25-19	2592-2596	have	_	_	
+25-20	2597-2605	multiple	_	_	
+25-21	2606-2614	epitopes	_	_	
+25-22	2615-2619	from	_	_	
+25-23	2620-2623	the	_	_	
+25-24	2624-2631	antigen	_	_	
+25-25	2632-2640	families	_	_	
+25-26	2640-2641	.	_	_	
+
+#Text=For example, A-family specific antibodies can be used to select those shuffled clones that display A-specific epitopes in the first round of panning.
+26-1	2642-2645	For	_	_	
+26-2	2646-2653	example	_	_	
+26-3	2653-2654	,	_	_	
+26-4	2655-2663	A-family	_	_	
+26-5	2664-2672	specific	_	_	
+26-6	2673-2683	antibodies	_	_	
+26-7	2684-2687	can	_	_	
+26-8	2688-2690	be	_	_	
+26-9	2691-2695	used	_	_	
+26-10	2696-2698	to	_	_	
+26-11	2699-2705	select	_	_	
+26-12	2706-2711	those	_	_	
+26-13	2712-2720	shuffled	_	_	
+26-14	2721-2727	clones	_	_	
+26-15	2728-2732	that	_	_	
+26-16	2733-2740	display	_	_	
+26-17	2741-2751	A-specific	_	_	
+26-18	2752-2760	epitopes	_	_	
+26-19	2761-2763	in	_	_	
+26-20	2764-2767	the	_	_	
+26-21	2768-2773	first	_	_	
+26-22	2774-2779	round	_	_	
+26-23	2780-2782	of	_	_	
+26-24	2783-2790	panning	_	_	
+26-25	2790-2791	.	_	_	
+
+#Text=A second round of panning with B-specific antibodies will select from the "A" clones those that display both A- and B-specific epitopes.
+27-1	2792-2793	A	_	_	
+27-2	2794-2800	second	_	_	
+27-3	2801-2806	round	_	_	
+27-4	2807-2809	of	_	_	
+27-5	2810-2817	panning	_	_	
+27-6	2818-2822	with	_	_	
+27-7	2823-2833	B-specific	_	_	
+27-8	2834-2844	antibodies	_	_	
+27-9	2845-2849	will	_	_	
+27-10	2850-2856	select	_	_	
+27-11	2857-2861	from	_	_	
+27-12	2862-2865	the	_	_	
+27-13	2866-2867	"	_	_	
+27-14	2867-2868	A	_	_	
+27-15	2868-2869	"	_	_	
+27-16	2870-2876	clones	_	_	
+27-17	2877-2882	those	_	_	
+27-18	2883-2887	that	_	_	
+27-19	2888-2895	display	_	_	
+27-20	2896-2900	both	_	_	
+27-21	2901-2902	A	_	_	
+27-22	2902-2903	-	_	_	
+27-23	2904-2907	and	_	_	
+27-24	2908-2918	B-specific	_	_	
+27-25	2919-2927	epitopes	_	_	
+27-26	2927-2928	.	_	_	
+
+#Text=A third round of panning with C-specific antibodies will select for variants with A, B, and C epitopes.
+28-1	2929-2930	A	_	_	
+28-2	2931-2936	third	_	_	
+28-3	2937-2942	round	_	_	
+28-4	2943-2945	of	_	_	
+28-5	2946-2953	panning	_	_	
+28-6	2954-2958	with	_	_	
+28-7	2959-2969	C-specific	_	_	
+28-8	2970-2980	antibodies	_	_	
+28-9	2981-2985	will	_	_	
+28-10	2986-2992	select	_	_	
+28-11	2993-2996	for	_	_	
+28-12	2997-3005	variants	_	_	
+28-13	3006-3010	with	_	_	
+28-14	3011-3012	A	_	_	
+28-15	3012-3013	,	_	_	
+28-16	3014-3015	B	_	_	
+28-17	3015-3016	,	_	_	
+28-18	3017-3020	and	_	_	
+28-19	3021-3022	C	_	_	
+28-20	3023-3031	epitopes	_	_	
+28-21	3031-3032	.	_	_	
+
+#Text=A continual selection exists during this process for clones that express well in E. coli and that are stable throughout the selection.
+29-1	3033-3034	A	_	_	
+29-2	3035-3044	continual	_	_	
+29-3	3045-3054	selection	_	_	
+29-4	3055-3061	exists	_	_	
+29-5	3062-3068	during	_	_	
+29-6	3069-3073	this	*[2]	_	
+29-7	3074-3081	process	*[2]	_	
+29-8	3082-3085	for	_	_	
+29-9	3086-3092	clones	_	_	
+29-10	3093-3097	that	_	_	
+29-11	3098-3105	express	_	_	
+29-12	3106-3110	well	_	_	
+29-13	3111-3113	in	_	_	
+29-14	3114-3115	E	_	_	
+29-15	3115-3116	.	_	_	
+29-16	3117-3121	coli	_	_	
+29-17	3122-3125	and	_	_	
+29-18	3126-3130	that	_	_	
+29-19	3131-3134	are	_	_	
+29-20	3135-3141	stable	_	_	
+29-21	3142-3152	throughout	_	_	
+29-22	3153-3156	the	_	_	
+29-23	3157-3166	selection	_	_	
+29-24	3166-3167	.	_	_	
+
+#Text=Improvements in factors such as transcription, translation, secretion, folding and stability are often observed and will enhance the utility of selected clones for use in vaccine production.
+#Text=[0161] Phage ELISA methods can be used to rapidly characterize individual variants.
+30-1	3168-3180	Improvements	_	_	
+30-2	3181-3183	in	_	_	
+30-3	3184-3191	factors	_	_	
+30-4	3192-3196	such	_	_	
+30-5	3197-3199	as	_	_	
+30-6	3200-3213	transcription	_	_	
+30-7	3213-3214	,	_	_	
+30-8	3215-3226	translation	_	_	
+30-9	3226-3227	,	_	_	
+30-10	3228-3237	secretion	_	_	
+30-11	3237-3238	,	_	_	
+30-12	3239-3246	folding	_	_	
+30-13	3247-3250	and	_	_	
+30-14	3251-3260	stability	_	_	
+30-15	3261-3264	are	_	_	
+30-16	3265-3270	often	_	_	
+30-17	3271-3279	observed	_	_	
+30-18	3280-3283	and	_	_	
+30-19	3284-3288	will	_	_	
+30-20	3289-3296	enhance	_	_	
+30-21	3297-3300	the	_	_	
+30-22	3301-3308	utility	_	_	
+30-23	3309-3311	of	_	_	
+30-24	3312-3320	selected	_	_	
+30-25	3321-3327	clones	_	_	
+30-26	3328-3331	for	_	_	
+30-27	3332-3335	use	_	_	
+30-28	3336-3338	in	_	_	
+30-29	3339-3346	vaccine	_	_	
+30-30	3347-3357	production	_	_	
+30-31	3357-3358	.	_	_	
+30-32	3359-3360	[	_	_	
+30-33	3360-3364	0161	_	_	
+30-34	3364-3365	]	_	_	
+30-35	3366-3371	Phage	_	_	
+30-36	3372-3377	ELISA	_	_	
+30-37	3378-3385	methods	_	_	
+30-38	3386-3389	can	_	_	
+30-39	3390-3392	be	_	_	
+30-40	3393-3397	used	_	_	
+30-41	3398-3400	to	_	_	
+30-42	3401-3408	rapidly	_	_	
+30-43	3409-3421	characterize	_	_	
+30-44	3422-3432	individual	_	_	
+30-45	3433-3441	variants	_	_	
+30-46	3441-3442	.	_	_	
+
+#Text=These assays provide a rapid method for quantitation of variants without requiring purification of each protein.
+31-1	3443-3448	These	_	_	
+31-2	3449-3455	assays	_	_	
+31-3	3456-3463	provide	_	_	
+31-4	3464-3465	a	_	_	
+31-5	3466-3471	rapid	_	_	
+31-6	3472-3478	method	_	_	
+31-7	3479-3482	for	_	_	
+31-8	3483-3495	quantitation	_	_	
+31-9	3496-3498	of	_	_	
+31-10	3499-3507	variants	_	_	
+31-11	3508-3515	without	_	_	
+31-12	3516-3525	requiring	_	_	
+31-13	3526-3538	purification	_	_	
+31-14	3539-3541	of	_	_	
+31-15	3542-3546	each	_	_	
+31-16	3547-3554	protein	_	_	
+31-17	3554-3555	.	_	_	
+
+#Text=Individual clones are arrayed into 96-well plates, grown, and frozen for storage.
+32-1	3556-3566	Individual	_	_	
+32-2	3567-3573	clones	_	_	
+32-3	3574-3577	are	_	_	
+32-4	3578-3585	arrayed	_	_	
+32-5	3586-3590	into	_	_	
+32-6	3591-3593	96	_	_	
+32-7	3593-3594	-	_	_	
+32-8	3594-3598	well	_	_	
+32-9	3599-3605	plates	_	_	
+32-10	3605-3606	,	_	_	
+32-11	3607-3612	grown	_	_	
+32-12	3612-3613	,	_	_	
+32-13	3614-3617	and	_	_	
+32-14	3618-3624	frozen	_	_	
+32-15	3625-3628	for	_	_	
+32-16	3629-3636	storage	_	_	
+32-17	3636-3637	.	_	_	
+
+#Text=Cells in duplicate plates are infected with helper phage, grown overnight and pelleted by centrifugation.
+33-1	3638-3643	Cells	_	_	
+33-2	3644-3646	in	_	_	
+33-3	3647-3656	duplicate	_	_	
+33-4	3657-3663	plates	_	_	
+33-5	3664-3667	are	_	_	
+33-6	3668-3676	infected	_	_	
+33-7	3677-3681	with	_	_	
+33-8	3682-3688	helper	_	_	
+33-9	3689-3694	phage	_	_	
+33-10	3694-3695	,	_	_	
+33-11	3696-3701	grown	_	_	
+33-12	3702-3711	overnight	_	_	
+33-13	3712-3715	and	_	_	
+33-14	3716-3724	pelleted	_	_	
+33-15	3725-3727	by	_	_	
+33-16	3728-3742	centrifugation	_	_	
+33-17	3742-3743	.	_	_	
+
+#Text=The supernatants containing phage displaying particular variants are incubated with immobilized antibodies and bound clones are detected by anti-M13 antibody conjugates.
+34-1	3744-3747	The	_	_	
+34-2	3748-3760	supernatants	_	_	
+34-3	3761-3771	containing	_	_	
+34-4	3772-3777	phage	_	_	
+34-5	3778-3788	displaying	_	_	
+34-6	3789-3799	particular	_	_	
+34-7	3800-3808	variants	_	_	
+34-8	3809-3812	are	_	_	
+34-9	3813-3822	incubated	_	_	
+34-10	3823-3827	with	_	_	
+34-11	3828-3839	immobilized	_	_	
+34-12	3840-3850	antibodies	_	_	
+34-13	3851-3854	and	_	_	
+34-14	3855-3860	bound	_	_	
+34-15	3861-3867	clones	_	_	
+34-16	3868-3871	are	_	_	
+34-17	3872-3880	detected	_	_	
+34-18	3881-3883	by	_	_	
+34-19	3884-3892	anti-M13	_	_	
+34-20	3893-3901	antibody	_	_	
+34-21	3902-3912	conjugates	_	_	
+34-22	3912-3913	.	_	_	
+
+#Text=Titration series of phage particles, immobilized antigen, and/or soluble antigen competition binding studies are all highly effective means to quantitate protein binding.
+35-1	3914-3923	Titration	_	_	
+35-2	3924-3930	series	_	_	
+35-3	3931-3933	of	_	_	
+35-4	3934-3939	phage	_	_	
+35-5	3940-3949	particles	_	_	
+35-6	3949-3950	,	_	_	
+35-7	3951-3962	immobilized	_	_	
+35-8	3963-3970	antigen	_	_	
+35-9	3970-3971	,	_	_	
+35-10	3972-3975	and	_	_	
+35-11	3975-3976	/	_	_	
+35-12	3976-3978	or	_	_	
+35-13	3979-3986	soluble	_	_	
+35-14	3987-3994	antigen	_	_	
+35-15	3995-4006	competition	_	_	
+35-16	4007-4014	binding	_	_	
+35-17	4015-4022	studies	_	_	
+35-18	4023-4026	are	_	_	
+35-19	4027-4030	all	_	_	
+35-20	4031-4037	highly	_	_	
+35-21	4038-4047	effective	_	_	
+35-22	4048-4053	means	_	_	
+35-23	4054-4056	to	_	_	
+35-24	4057-4067	quantitate	_	_	
+35-25	4068-4075	protein	_	_	
+35-26	4076-4083	binding	_	_	
+35-27	4083-4084	.	_	_	
+
+#Text=Variant antigens displaying multiple epitopes will be further studied in appropriate animal challenge models.
+#Text=[0162] Several groups have reported an in vitro ribosome display system for the screening and selection of mutant proteins with desired properties from large libraries.
+36-1	4085-4092	Variant	_	_	
+36-2	4093-4101	antigens	_	_	
+36-3	4102-4112	displaying	_	_	
+36-4	4113-4121	multiple	_	_	
+36-5	4122-4130	epitopes	_	_	
+36-6	4131-4135	will	_	_	
+36-7	4136-4138	be	_	_	
+36-8	4139-4146	further	_	_	
+36-9	4147-4154	studied	_	_	
+36-10	4155-4157	in	_	_	
+36-11	4158-4169	appropriate	_	_	
+36-12	4170-4176	animal	_	_	
+36-13	4177-4186	challenge	_	_	
+36-14	4187-4193	models	_	_	
+36-15	4193-4194	.	_	_	
+36-16	4195-4196	[	_	_	
+36-17	4196-4200	0162	_	_	
+36-18	4200-4201	]	_	_	
+36-19	4202-4209	Several	_	_	
+36-20	4210-4216	groups	_	_	
+36-21	4217-4221	have	_	_	
+36-22	4222-4230	reported	_	_	
+36-23	4231-4233	an	_	_	
+36-24	4234-4236	in	_	_	
+36-25	4237-4242	vitro	_	_	
+36-26	4243-4251	ribosome	_	_	
+36-27	4252-4259	display	_	_	
+36-28	4260-4266	system	_	_	
+36-29	4267-4270	for	_	_	
+36-30	4271-4274	the	_	_	
+36-31	4275-4284	screening	_	_	
+36-32	4285-4288	and	_	_	
+36-33	4289-4298	selection	_	_	
+36-34	4299-4301	of	_	_	
+36-35	4302-4308	mutant	_	_	
+36-36	4309-4317	proteins	_	_	
+36-37	4318-4322	with	_	_	
+36-38	4323-4330	desired	_	_	
+36-39	4331-4341	properties	_	_	
+36-40	4342-4346	from	_	_	
+36-41	4347-4352	large	_	_	
+36-42	4353-4362	libraries	_	_	
+36-43	4362-4363	.	_	_	
+
+#Text=This technique can be used similarly to phage display to select or enrich for variant antigens with improved properties such as broad cross reactivity to antibodies and improved folding (see, e.g., Hanes et al. (1997) Proc.
+37-1	4364-4368	This	_	_	
+37-2	4369-4378	technique	_	_	
+37-3	4379-4382	can	_	_	
+37-4	4383-4385	be	_	_	
+37-5	4386-4390	used	_	_	
+37-6	4391-4400	similarly	_	_	
+37-7	4401-4403	to	_	_	
+37-8	4404-4409	phage	_	_	
+37-9	4410-4417	display	_	_	
+37-10	4418-4420	to	_	_	
+37-11	4421-4427	select	_	_	
+37-12	4428-4430	or	_	_	
+37-13	4431-4437	enrich	_	_	
+37-14	4438-4441	for	_	_	
+37-15	4442-4449	variant	_	_	
+37-16	4450-4458	antigens	_	_	
+37-17	4459-4463	with	_	_	
+37-18	4464-4472	improved	_	_	
+37-19	4473-4483	properties	_	_	
+37-20	4484-4488	such	_	_	
+37-21	4489-4491	as	_	_	
+37-22	4492-4497	broad	_	_	
+37-23	4498-4503	cross	_	_	
+37-24	4504-4514	reactivity	_	_	
+37-25	4515-4517	to	_	_	
+37-26	4518-4528	antibodies	_	_	
+37-27	4529-4532	and	_	_	
+37-28	4533-4541	improved	_	_	
+37-29	4542-4549	folding	_	_	
+37-30	4550-4551	(	_	_	
+37-31	4551-4554	see	_	_	
+37-32	4554-4555	,	_	_	
+37-33	4556-4559	e.g	_	_	
+37-34	4559-4560	.	_	_	
+37-35	4560-4561	,	_	_	
+37-36	4562-4567	Hanes	_	_	
+37-37	4568-4570	et	_	_	
+37-38	4571-4573	al	_	_	
+37-39	4573-4574	.	_	_	
+37-40	4575-4576	(	_	_	
+37-41	4576-4580	1997	_	_	
+37-42	4580-4581	)	_	_	
+37-43	4582-4586	Proc	_	_	
+37-44	4586-4587	.	_	_	
+
+#Text=Nat'l.
+38-1	4588-4593	Nat'l	_	_	
+38-2	4593-4594	.	_	_	
+
+#Text=Acad.
+39-1	4595-4599	Acad	_	_	
+39-2	4599-4600	.	_	_	
+
+#Text=Sci.
+40-1	4601-4604	Sci	_	_	
+40-2	4604-4605	.	_	_	
+
+#Text=USA 94(10):4937-42; Mattheakis et al. (1994) Proc.
+41-1	4606-4609	USA	_	_	
+41-2	4610-4612	94	_	_	
+41-3	4612-4613	(	_	_	
+41-4	4613-4615	10	_	_	
+41-5	4615-4616	)	_	_	
+41-6	4616-4617	:	_	_	
+41-7	4617-4621	4937	_	_	
+41-8	4621-4622	-	_	_	
+41-9	4622-4624	42	_	_	
+41-10	4624-4625	;	_	_	
+41-11	4626-4636	Mattheakis	_	_	
+41-12	4637-4639	et	_	_	
+41-13	4640-4642	al	_	_	
+41-14	4642-4643	.	_	_	
+41-15	4644-4645	(	_	_	
+41-16	4645-4649	1994	_	_	
+41-17	4649-4650	)	_	_	
+41-18	4651-4655	Proc	_	_	
+41-19	4655-4656	.	_	_	
+
+#Text=Nat'l.
+42-1	4657-4662	Nat'l	_	_	
+42-2	4662-4663	.	_	_	
+
+#Text=Acad.
+43-1	4664-4668	Acad	_	_	
+43-2	4668-4669	.	_	_	
+
+#Text=Sci.
+44-1	4670-4673	Sci	_	_	
+44-2	4673-4674	.	_	_	
+
+#Text=USA 91(19):9022-6; He et al. (1997) Nucl.
+45-1	4675-4678	USA	_	_	
+45-2	4679-4681	91	_	_	
+45-3	4681-4682	(	_	_	
+45-4	4682-4684	19	_	_	
+45-5	4684-4685	)	_	_	
+45-6	4685-4686	:	_	_	
+45-7	4686-4690	9022	_	_	
+45-8	4690-4691	-	_	_	
+45-9	4691-4692	6	_	_	
+45-10	4692-4693	;	_	_	
+45-11	4694-4696	He	_	_	
+45-12	4697-4699	et	_	_	
+45-13	4700-4702	al	_	_	
+45-14	4702-4703	.	_	_	
+45-15	4704-4705	(	_	_	
+45-16	4705-4709	1997	_	_	
+45-17	4709-4710	)	_	_	
+45-18	4711-4715	Nucl	_	_	
+45-19	4715-4716	.	_	_	
+
+#Text=Acids Res. 25(24):5132-4; Nemoto et al. (1997) FEBS Lett. 414(2):405-8).
+46-1	4717-4722	Acids	_	_	
+46-2	4723-4726	Res	_	_	
+46-3	4726-4727	.	_	_	
+46-4	4728-4730	25	_	_	
+46-5	4730-4731	(	_	_	
+46-6	4731-4733	24	_	_	
+46-7	4733-4734	)	_	_	
+46-8	4734-4735	:	_	_	
+46-9	4735-4739	5132	_	_	
+46-10	4739-4740	-	_	_	
+46-11	4740-4741	4	_	_	
+46-12	4741-4742	;	_	_	
+46-13	4743-4749	Nemoto	_	_	
+46-14	4750-4752	et	_	_	
+46-15	4753-4755	al	_	_	
+46-16	4755-4756	.	_	_	
+46-17	4757-4758	(	_	_	
+46-18	4758-4762	1997	_	_	
+46-19	4762-4763	)	_	_	
+46-20	4764-4768	FEBS	_	_	
+46-21	4769-4773	Lett	_	_	
+46-22	4773-4774	.	_	_	
+46-23	4775-4778	414	_	_	
+46-24	4778-4779	(	_	_	
+46-25	4779-4780	2	_	_	
+46-26	4780-4781	)	_	_	
+46-27	4781-4782	:	_	_	
+46-28	4782-4785	405	_	_	
+46-29	4785-4786	-	_	_	
+46-30	4786-4787	8	_	_	
+46-31	4787-4788	)	_	_	
+46-32	4788-4789	.	_	_	

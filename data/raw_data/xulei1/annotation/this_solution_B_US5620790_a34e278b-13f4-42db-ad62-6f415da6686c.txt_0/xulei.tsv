@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=NMP: 28.7% by weight
+#Text=PEG: 57.3% by weight
+#Text=The viscosity of this solution was 9.8 Pa.s.
+1-1	0-3	NMP	
+1-2	3-4	:	
+1-3	5-10	28.7%	
+1-4	11-13	by	
+1-5	14-20	weight	
+1-6	21-24	PEG	
+1-7	24-25	:	
+1-8	26-31	57.3%	
+1-9	32-34	by	
+1-10	35-41	weight	
+1-11	42-45	The	
+1-12	46-55	viscosity	
+1-13	56-58	of	
+1-14	59-63	this	
+1-15	64-72	solution	
+1-16	73-76	was	
+1-17	77-80	9.8	
+1-18	81-85	Pa.s	
+1-19	85-86	.	
+
+#Text=After 20 seconds, a further layer containing 9.5% polysulfone was applied, with a further doctor blade having a gap width of 320 .mu.m being drawn with this solution over the first film.
+2-1	87-92	After	
+2-2	93-95	20	
+2-3	96-103	seconds	
+2-4	103-104	,	
+2-5	105-106	a	
+2-6	107-114	further	
+2-7	115-120	layer	
+2-8	121-131	containing	
+2-9	132-136	9.5%	
+2-10	137-148	polysulfone	
+2-11	149-152	was	
+2-12	153-160	applied	
+2-13	160-161	,	
+2-14	162-166	with	
+2-15	167-168	a	
+2-16	169-176	further	
+2-17	177-183	doctor	
+2-18	184-189	blade	
+2-19	190-196	having	
+2-20	197-198	a	
+2-21	199-202	gap	
+2-22	203-208	width	
+2-23	209-211	of	
+2-24	212-215	320	
+2-25	216-217	.	
+2-26	217-221	mu.m	
+2-27	222-227	being	
+2-28	228-233	drawn	
+2-29	234-238	with	
+2-30	239-243	this	
+2-31	244-252	solution	
+2-32	253-257	over	
+2-33	258-261	the	
+2-34	262-267	first	
+2-35	268-272	film	
+2-36	272-273	.	
+
+#Text=This solution had the following composition:
+#Text=PSU: 9.5% by weight
+#Text=NMP: 30.2% by weight
+3-1	274-278	This	
+3-2	279-287	solution	
+3-3	288-291	had	
+3-4	292-295	the	
+3-5	296-305	following	
+3-6	306-317	composition	
+3-7	317-318	:	
+3-8	319-322	PSU	
+3-9	322-323	:	
+3-10	324-328	9.5%	
+3-11	329-331	by	
+3-12	332-338	weight	
+3-13	339-342	NMP	
+3-14	342-343	:	
+3-15	344-349	30.2%	
+3-16	350-352	by	
+3-17	353-359	weight	

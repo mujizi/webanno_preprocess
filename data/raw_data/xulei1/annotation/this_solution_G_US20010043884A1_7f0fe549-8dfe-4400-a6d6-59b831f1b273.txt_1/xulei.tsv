@@ -1,0 +1,216 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=[0142] 10% acetone,
+#Text=[0143] 30% polyethylene glycol (average molecular weight 300), and
+#Text=[0144] dimethyl sulfoxide (DMSO) added at an approximate concentration of 1% of the total volume.
+1-1	0-1	[	_	_	
+1-2	1-5	0142	_	_	
+1-3	5-6	]	_	_	
+1-4	7-10	10%	_	_	
+1-5	11-18	acetone	_	_	
+1-6	18-19	,	_	_	
+1-7	20-21	[	*[1]	2-4[2_1]	
+1-8	21-25	0143	*[1]	_	
+1-9	25-26	]	*[1]	_	
+1-10	27-30	30%	*[1]	_	
+1-11	31-43	polyethylene	*[1]	_	
+1-12	44-50	glycol	*[1]	_	
+1-13	51-52	(	*[1]	_	
+1-14	52-59	average	*[1]	_	
+1-15	60-69	molecular	*[1]	_	
+1-16	70-76	weight	*[1]	_	
+1-17	77-80	300	*[1]	_	
+1-18	80-81	)	*[1]	_	
+1-19	81-82	,	*[1]	_	
+1-20	83-86	and	*[1]	_	
+1-21	87-88	[	*[1]	_	
+1-22	88-92	0144	*[1]	_	
+1-23	92-93	]	*[1]	_	
+1-24	94-102	dimethyl	*[1]	_	
+1-25	103-112	sulfoxide	*[1]	_	
+1-26	113-114	(	*[1]	_	
+1-27	114-118	DMSO	*[1]	_	
+1-28	118-119	)	*[1]	_	
+1-29	120-125	added	*[1]	_	
+1-30	126-128	at	*[1]	_	
+1-31	129-131	an	*[1]	_	
+1-32	132-143	approximate	*[1]	_	
+1-33	144-157	concentration	*[1]	_	
+1-34	158-160	of	*[1]	_	
+1-35	161-163	1%	*[1]	_	
+1-36	164-166	of	*[1]	_	
+1-37	167-170	the	*[1]	_	
+1-38	171-176	total	*[1]	_	
+1-39	177-183	volume	*[1]	_	
+1-40	183-184	.	*[1]	_	
+
+#Text=One liter of this solution suffices to fix 60 specimens of tissue held in tissue cassettes.
+2-1	185-188	One	_	_	
+2-2	189-194	liter	_	_	
+2-3	195-197	of	_	_	
+2-4	198-202	this	*[2]	_	
+2-5	203-211	solution	*[2]	_	
+2-6	212-220	suffices	_	_	
+2-7	221-223	to	_	_	
+2-8	224-227	fix	_	_	
+2-9	228-230	60	_	_	
+2-10	231-240	specimens	_	_	
+2-11	241-243	of	_	_	
+2-12	244-250	tissue	_	_	
+2-13	251-255	held	_	_	
+2-14	256-258	in	_	_	
+2-15	259-265	tissue	_	_	
+2-16	266-275	cassettes	_	_	
+2-17	275-276	.	_	_	
+
+#Text=The specimens were incubated at 55.degree.
+3-1	277-280	The	_	_	
+3-2	281-290	specimens	_	_	
+3-3	291-295	were	_	_	
+3-4	296-305	incubated	_	_	
+3-5	306-308	at	_	_	
+3-6	309-311	55	_	_	
+3-7	311-312	.	_	_	
+3-8	312-318	degree	_	_	
+3-9	318-319	.	_	_	
+
+#Text=C. in a commercial tissue microwave processor (H2500 or H2800, Energy Beam Sciences) for 5 min each in a series of three baths containing the first solution (15 min total incubation); agitation of the solution was obtained by bubbling to accelerate solution exchange.
+#Text=[0145] Step 2.
+#Text=[0146] The specimens were incubated in a solution of 70% isopropyl alcohol, 30% acetone, and DMSO added at an approximate concentration of 1% at 60.degree.
+4-1	320-321	C	_	_	
+4-2	321-322	.	_	_	
+4-3	323-325	in	_	_	
+4-4	326-327	a	_	_	
+4-5	328-338	commercial	_	_	
+4-6	339-345	tissue	_	_	
+4-7	346-355	microwave	_	_	
+4-8	356-365	processor	_	_	
+4-9	366-367	(	_	_	
+4-10	367-372	H2500	_	_	
+4-11	373-375	or	_	_	
+4-12	376-381	H2800	_	_	
+4-13	381-382	,	_	_	
+4-14	383-389	Energy	_	_	
+4-15	390-394	Beam	_	_	
+4-16	395-403	Sciences	_	_	
+4-17	403-404	)	_	_	
+4-18	405-408	for	_	_	
+4-19	409-410	5	_	_	
+4-20	411-414	min	_	_	
+4-21	415-419	each	_	_	
+4-22	420-422	in	_	_	
+4-23	423-424	a	_	_	
+4-24	425-431	series	_	_	
+4-25	432-434	of	_	_	
+4-26	435-440	three	_	_	
+4-27	441-446	baths	_	_	
+4-28	447-457	containing	_	_	
+4-29	458-461	the	_	_	
+4-30	462-467	first	_	_	
+4-31	468-476	solution	_	_	
+4-32	477-478	(	_	_	
+4-33	478-480	15	_	_	
+4-34	481-484	min	_	_	
+4-35	485-490	total	_	_	
+4-36	491-501	incubation	_	_	
+4-37	501-502	)	_	_	
+4-38	502-503	;	_	_	
+4-39	504-513	agitation	_	_	
+4-40	514-516	of	_	_	
+4-41	517-520	the	_	_	
+4-42	521-529	solution	_	_	
+4-43	530-533	was	_	_	
+4-44	534-542	obtained	_	_	
+4-45	543-545	by	_	_	
+4-46	546-554	bubbling	_	_	
+4-47	555-557	to	_	_	
+4-48	558-568	accelerate	_	_	
+4-49	569-577	solution	_	_	
+4-50	578-586	exchange	_	_	
+4-51	586-587	.	_	_	
+4-52	588-589	[	_	_	
+4-53	589-593	0145	_	_	
+4-54	593-594	]	_	_	
+4-55	595-599	Step	_	_	
+4-56	600-601	2	_	_	
+4-57	601-602	.	_	_	
+4-58	603-604	[	_	_	
+4-59	604-608	0146	_	_	
+4-60	608-609	]	_	_	
+4-61	610-613	The	_	_	
+4-62	614-623	specimens	_	_	
+4-63	624-628	were	_	_	
+4-64	629-638	incubated	_	_	
+4-65	639-641	in	_	_	
+4-66	642-643	a	_	_	
+4-67	644-652	solution	_	_	
+4-68	653-655	of	_	_	
+4-69	656-659	70%	_	_	
+4-70	660-669	isopropyl	_	_	
+4-71	670-677	alcohol	_	_	
+4-72	677-678	,	_	_	
+4-73	679-682	30%	_	_	
+4-74	683-690	acetone	_	_	
+4-75	690-691	,	_	_	
+4-76	692-695	and	_	_	
+4-77	696-700	DMSO	_	_	
+4-78	701-706	added	_	_	
+4-79	707-709	at	_	_	
+4-80	710-712	an	_	_	
+4-81	713-724	approximate	_	_	
+4-82	725-738	concentration	_	_	
+4-83	739-741	of	_	_	
+4-84	742-744	1%	_	_	
+4-85	745-747	at	_	_	
+4-86	748-750	60	_	_	
+4-87	750-751	.	_	_	
+4-88	751-757	degree	_	_	
+4-89	757-758	.	_	_	
+
+#Text=C.
+5-1	759-760	C	_	_	
+5-2	760-761	.	_	_	
+
+#Text=Specimens were heated in a commercial tissue microwave processor (H2800, Energy Beam Sciences) for 5 min each in two beakers containing the solution (10 min total incubation), which were agitated by bubbling.
+6-1	762-771	Specimens	_	_	
+6-2	772-776	were	_	_	
+6-3	777-783	heated	_	_	
+6-4	784-786	in	_	_	
+6-5	787-788	a	_	_	
+6-6	789-799	commercial	_	_	
+6-7	800-806	tissue	_	_	
+6-8	807-816	microwave	_	_	
+6-9	817-826	processor	_	_	
+6-10	827-828	(	_	_	
+6-11	828-833	H2800	_	_	
+6-12	833-834	,	_	_	
+6-13	835-841	Energy	_	_	
+6-14	842-846	Beam	_	_	
+6-15	847-855	Sciences	_	_	
+6-16	855-856	)	_	_	
+6-17	857-860	for	_	_	
+6-18	861-862	5	_	_	
+6-19	863-866	min	_	_	
+6-20	867-871	each	_	_	
+6-21	872-874	in	_	_	
+6-22	875-878	two	_	_	
+6-23	879-886	beakers	_	_	
+6-24	887-897	containing	_	_	
+6-25	898-901	the	_	_	
+6-26	902-910	solution	_	_	
+6-27	911-912	(	_	_	
+6-28	912-914	10	_	_	
+6-29	915-918	min	_	_	
+6-30	919-924	total	_	_	
+6-31	925-935	incubation	_	_	
+6-32	935-936	)	_	_	
+6-33	936-937	,	_	_	
+6-34	938-943	which	_	_	
+6-35	944-948	were	_	_	
+6-36	949-957	agitated	_	_	
+6-37	958-960	by	_	_	
+6-38	961-969	bubbling	_	_	
+6-39	969-970	.	_	_	

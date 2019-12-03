@@ -1,0 +1,454 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=The invention relates to sustained-release matrices.
+1-1	0-3	The	_	_	
+1-2	4-13	invention	_	_	
+1-3	14-21	relates	_	_	
+1-4	22-24	to	_	_	
+1-5	25-42	sustained-release	_	_	
+1-6	43-51	matrices	_	_	
+1-7	51-52	.	_	_	
+
+#Text=Most humans suffer from tooth decay and/or periodontal disease caused by bacteria in the mouth.
+2-1	53-57	Most	_	_	
+2-2	58-64	humans	_	_	
+2-3	65-71	suffer	_	_	
+2-4	72-76	from	_	_	
+2-5	77-82	tooth	_	_	
+2-6	83-88	decay	_	_	
+2-7	89-92	and	_	_	
+2-8	92-93	/	_	_	
+2-9	93-95	or	_	_	
+2-10	96-107	periodontal	_	_	
+2-11	108-115	disease	_	_	
+2-12	116-122	caused	_	_	
+2-13	123-125	by	_	_	
+2-14	126-134	bacteria	_	_	
+2-15	135-137	in	_	_	
+2-16	138-141	the	_	_	
+2-17	142-147	mouth	_	_	
+2-18	147-148	.	_	_	
+
+#Text=As a result, decreasing the number of bacteria in the mouth has long been the target of persons working in the health care field.
+3-1	149-151	As	_	_	
+3-2	152-153	a	_	_	
+3-3	154-160	result	_	_	
+3-4	160-161	,	_	_	
+3-5	162-172	decreasing	_	_	
+3-6	173-176	the	_	_	
+3-7	177-183	number	_	_	
+3-8	184-186	of	_	_	
+3-9	187-195	bacteria	_	_	
+3-10	196-198	in	_	_	
+3-11	199-202	the	_	_	
+3-12	203-208	mouth	_	_	
+3-13	209-212	has	_	_	
+3-14	213-217	long	_	_	
+3-15	218-222	been	_	_	
+3-16	223-226	the	_	_	
+3-17	227-233	target	_	_	
+3-18	234-236	of	_	_	
+3-19	237-244	persons	_	_	
+3-20	245-252	working	_	_	
+3-21	253-255	in	_	_	
+3-22	256-259	the	_	_	
+3-23	260-266	health	_	_	
+3-24	267-271	care	_	_	
+3-25	272-277	field	_	_	
+3-26	277-278	.	_	_	
+
+#Text=The most common way of minimizing the number of bacteria is to brush and floss the teeth regularly, and to visit a dental hygienist to have the teeth and gums cleaned thoroughly.
+4-1	279-282	The	_	_	
+4-2	283-287	most	_	_	
+4-3	288-294	common	_	_	
+4-4	295-298	way	_	_	
+4-5	299-301	of	_	_	
+4-6	302-312	minimizing	_	_	
+4-7	313-316	the	_	_	
+4-8	317-323	number	_	_	
+4-9	324-326	of	_	_	
+4-10	327-335	bacteria	_	_	
+4-11	336-338	is	_	_	
+4-12	339-341	to	_	_	
+4-13	342-347	brush	_	_	
+4-14	348-351	and	_	_	
+4-15	352-357	floss	_	_	
+4-16	358-361	the	_	_	
+4-17	362-367	teeth	_	_	
+4-18	368-377	regularly	_	_	
+4-19	377-378	,	_	_	
+4-20	379-382	and	_	_	
+4-21	383-385	to	_	_	
+4-22	386-391	visit	_	_	
+4-23	392-393	a	_	_	
+4-24	394-400	dental	_	_	
+4-25	401-410	hygienist	_	_	
+4-26	411-413	to	_	_	
+4-27	414-418	have	_	_	
+4-28	419-422	the	_	_	
+4-29	423-428	teeth	_	_	
+4-30	429-432	and	_	_	
+4-31	433-437	gums	_	_	
+4-32	438-445	cleaned	_	_	
+4-33	446-456	thoroughly	_	_	
+4-34	456-457	.	_	_	
+
+#Text=Another prior approach is oral rinsing, including with a solution containing a known anti-microbial agent like chlorhexidine digluconate.
+5-1	458-465	Another	_	_	
+5-2	466-471	prior	_	_	
+5-3	472-480	approach	_	_	
+5-4	481-483	is	_	_	
+5-5	484-488	oral	_	_	
+5-6	489-496	rinsing	_	_	
+5-7	496-497	,	_	_	
+5-8	498-507	including	_	_	
+5-9	508-512	with	_	_	
+5-10	513-514	a	_	_	
+5-11	515-523	solution	_	_	
+5-12	524-534	containing	_	_	
+5-13	535-536	a	_	_	
+5-14	537-542	known	_	_	
+5-15	543-557	anti-microbial	_	_	
+5-16	558-563	agent	_	_	
+5-17	564-568	like	_	_	
+5-18	569-582	chlorhexidine	_	_	
+5-19	583-594	digluconate	_	_	
+5-20	594-595	.	_	_	
+
+#Text=After a toothbrush has been used, there are a large number of bacteria clinging to the bristles, even after the brush has been rinsed.
+6-1	596-601	After	*[1]	8-3[2_1]	
+6-2	602-603	a	*[1]	_	
+6-3	604-614	toothbrush	*[1]	_	
+6-4	615-618	has	*[1]	_	
+6-5	619-623	been	*[1]	_	
+6-6	624-628	used	*[1]	_	
+6-7	628-629	,	*[1]	_	
+6-8	630-635	there	*[1]	_	
+6-9	636-639	are	*[1]	_	
+6-10	640-641	a	*[1]	_	
+6-11	642-647	large	*[1]	_	
+6-12	648-654	number	*[1]	_	
+6-13	655-657	of	*[1]	_	
+6-14	658-666	bacteria	*[1]	_	
+6-15	667-675	clinging	*[1]	_	
+6-16	676-678	to	*[1]	_	
+6-17	679-682	the	*[1]	_	
+6-18	683-691	bristles	*[1]	_	
+6-19	691-692	,	*[1]	_	
+6-20	693-697	even	*[1]	_	
+6-21	698-703	after	*[1]	_	
+6-22	704-707	the	*[1]	_	
+6-23	708-713	brush	*[1]	_	
+6-24	714-717	has	*[1]	_	
+6-25	718-722	been	*[1]	_	
+6-26	723-729	rinsed	*[1]	_	
+6-27	729-730	.	*[1]	_	
+
+#Text=This, of course, is undesirable, and these bacteria typically will multiply on the bristles between uses.
+7-1	731-735	This	_	_	
+7-2	735-736	,	_	_	
+7-3	737-739	of	_	_	
+7-4	740-746	course	_	_	
+7-5	746-747	,	_	_	
+7-6	748-750	is	_	_	
+7-7	751-762	undesirable	_	_	
+7-8	762-763	,	_	_	
+7-9	764-767	and	_	_	
+7-10	768-773	these	_	_	
+7-11	774-782	bacteria	_	_	
+7-12	783-792	typically	_	_	
+7-13	793-797	will	_	_	
+7-14	798-806	multiply	_	_	
+7-15	807-809	on	_	_	
+7-16	810-813	the	_	_	
+7-17	814-822	bristles	_	_	
+7-18	823-830	between	_	_	
+7-19	831-835	uses	_	_	
+7-20	835-836	.	_	_	
+
+#Text=To counter this problem, self-sterilizing toothbrushes have been described in the prior art.
+8-1	837-839	To	_	_	
+8-2	840-847	counter	_	_	
+8-3	848-852	this	*[2]	_	
+8-4	853-860	problem	*[2]	_	
+8-5	860-861	,	_	_	
+8-6	862-878	self-sterilizing	_	_	
+8-7	879-891	toothbrushes	_	_	
+8-8	892-896	have	_	_	
+8-9	897-901	been	_	_	
+8-10	902-911	described	_	_	
+8-11	912-914	in	_	_	
+8-12	915-918	the	_	_	
+8-13	919-924	prior	_	_	
+8-14	925-928	art	_	_	
+8-15	928-929	.	_	_	
+
+#Text=One such self-sterilizing toothbrush is described by White et al., U.S.
+9-1	930-933	One	_	_	
+9-2	934-938	such	_	_	
+9-3	939-955	self-sterilizing	_	_	
+9-4	956-966	toothbrush	_	_	
+9-5	967-969	is	_	_	
+9-6	970-979	described	_	_	
+9-7	980-982	by	_	_	
+9-8	983-988	White	_	_	
+9-9	989-991	et	_	_	
+9-10	992-994	al	_	_	
+9-11	994-995	.	_	_	
+9-12	995-996	,	_	_	
+9-13	997-1000	U.S	_	_	
+9-14	1000-1001	.	_	_	
+
+#Text=Pat.
+10-1	1002-1005	Pat	_	_	
+10-2	1005-1006	.	_	_	
+
+#Text=No. 2,216,333, and includes a combination of a water soluble salt (e.g., sodium carbonate) with an anti-microbial agent (e.g., sulfur).
+11-1	1007-1009	No	_	_	
+11-2	1009-1010	.	_	_	
+11-3	1011-1020	2,216,333	_	_	
+11-4	1020-1021	,	_	_	
+11-5	1022-1025	and	_	_	
+11-6	1026-1034	includes	_	_	
+11-7	1035-1036	a	_	_	
+11-8	1037-1048	combination	_	_	
+11-9	1049-1051	of	_	_	
+11-10	1052-1053	a	_	_	
+11-11	1054-1059	water	_	_	
+11-12	1060-1067	soluble	_	_	
+11-13	1068-1072	salt	_	_	
+11-14	1073-1074	(	_	_	
+11-15	1074-1077	e.g	_	_	
+11-16	1077-1078	.	_	_	
+11-17	1078-1079	,	_	_	
+11-18	1080-1086	sodium	_	_	
+11-19	1087-1096	carbonate	_	_	
+11-20	1096-1097	)	_	_	
+11-21	1098-1102	with	_	_	
+11-22	1103-1105	an	_	_	
+11-23	1106-1120	anti-microbial	_	_	
+11-24	1121-1126	agent	_	_	
+11-25	1127-1128	(	_	_	
+11-26	1128-1131	e.g	_	_	
+11-27	1131-1132	.	_	_	
+11-28	1132-1133	,	_	_	
+11-29	1134-1140	sulfur	_	_	
+11-30	1140-1141	)	_	_	
+11-31	1141-1142	.	_	_	
+
+#Text=The two are fused to a solid hard body and attached to the head of the toothbrush at the base of the bristles.
+12-1	1143-1146	The	_	_	
+12-2	1147-1150	two	_	_	
+12-3	1151-1154	are	_	_	
+12-4	1155-1160	fused	_	_	
+12-5	1161-1163	to	_	_	
+12-6	1164-1165	a	_	_	
+12-7	1166-1171	solid	_	_	
+12-8	1172-1176	hard	_	_	
+12-9	1177-1181	body	_	_	
+12-10	1182-1185	and	_	_	
+12-11	1186-1194	attached	_	_	
+12-12	1195-1197	to	_	_	
+12-13	1198-1201	the	_	_	
+12-14	1202-1206	head	_	_	
+12-15	1207-1209	of	_	_	
+12-16	1210-1213	the	_	_	
+12-17	1214-1224	toothbrush	_	_	
+12-18	1225-1227	at	_	_	
+12-19	1228-1231	the	_	_	
+12-20	1232-1236	base	_	_	
+12-21	1237-1239	of	_	_	
+12-22	1240-1243	the	_	_	
+12-23	1244-1252	bristles	_	_	
+12-24	1252-1253	.	_	_	
+
+#Text=When exposed to water the sodium carbonate dissolves, forming an alkaline solution that in turn dissolves some sulfur, which kills bacteria.
+13-1	1254-1258	When	_	_	
+13-2	1259-1266	exposed	_	_	
+13-3	1267-1269	to	_	_	
+13-4	1270-1275	water	_	_	
+13-5	1276-1279	the	_	_	
+13-6	1280-1286	sodium	_	_	
+13-7	1287-1296	carbonate	_	_	
+13-8	1297-1306	dissolves	_	_	
+13-9	1306-1307	,	_	_	
+13-10	1308-1315	forming	_	_	
+13-11	1316-1318	an	_	_	
+13-12	1319-1327	alkaline	_	_	
+13-13	1328-1336	solution	_	_	
+13-14	1337-1341	that	_	_	
+13-15	1342-1344	in	_	_	
+13-16	1345-1349	turn	_	_	
+13-17	1350-1359	dissolves	_	_	
+13-18	1360-1364	some	_	_	
+13-19	1365-1371	sulfur	_	_	
+13-20	1371-1372	,	_	_	
+13-21	1373-1378	which	_	_	
+13-22	1379-1384	kills	_	_	
+13-23	1385-1393	bacteria	_	_	
+13-24	1393-1394	.	_	_	
+
+#Text=Toothbrushes wear out with extended use.
+14-1	1395-1407	Toothbrushes	_	_	
+14-2	1408-1412	wear	_	_	
+14-3	1413-1416	out	_	_	
+14-4	1417-1421	with	_	_	
+14-5	1422-1430	extended	_	_	
+14-6	1431-1434	use	_	_	
+14-7	1434-1435	.	_	_	
+
+#Text=Breuer et al., U.S.
+15-1	1436-1442	Breuer	_	_	
+15-2	1443-1445	et	_	_	
+15-3	1446-1448	al	_	_	
+15-4	1448-1449	.	_	_	
+15-5	1449-1450	,	_	_	
+15-6	1451-1454	U.S	_	_	
+15-7	1454-1455	.	_	_	
+
+#Text=Pat.
+16-1	1456-1459	Pat	_	_	
+16-2	1459-1460	.	_	_	
+
+#Text=No. 4,802,255, describe a toothbrush that includes filaments that release a dye, and thus change color, in response to increased use of the filament.
+17-1	1461-1463	No	_	_	
+17-2	1463-1464	.	_	_	
+17-3	1465-1474	4,802,255	_	_	
+17-4	1474-1475	,	_	_	
+17-5	1476-1484	describe	_	_	
+17-6	1485-1486	a	_	_	
+17-7	1487-1497	toothbrush	_	_	
+17-8	1498-1502	that	_	_	
+17-9	1503-1511	includes	_	_	
+17-10	1512-1521	filaments	_	_	
+17-11	1522-1526	that	_	_	
+17-12	1527-1534	release	_	_	
+17-13	1535-1536	a	_	_	
+17-14	1537-1540	dye	_	_	
+17-15	1540-1541	,	_	_	
+17-16	1542-1545	and	_	_	
+17-17	1546-1550	thus	_	_	
+17-18	1551-1557	change	_	_	
+17-19	1558-1563	color	_	_	
+17-20	1563-1564	,	_	_	
+17-21	1565-1567	in	_	_	
+17-22	1568-1576	response	_	_	
+17-23	1577-1579	to	_	_	
+17-24	1580-1589	increased	_	_	
+17-25	1590-1593	use	_	_	
+17-26	1594-1596	of	_	_	
+17-27	1597-1600	the	_	_	
+17-28	1601-1609	filament	_	_	
+17-29	1609-1610	.	_	_	
+
+#Text=The change in color provides a means for monitoring the degree of wear of the toothbrush.
+18-1	1611-1614	The	_	_	
+18-2	1615-1621	change	_	_	
+18-3	1622-1624	in	_	_	
+18-4	1625-1630	color	_	_	
+18-5	1631-1639	provides	_	_	
+18-6	1640-1641	a	_	_	
+18-7	1642-1647	means	_	_	
+18-8	1648-1651	for	_	_	
+18-9	1652-1662	monitoring	_	_	
+18-10	1663-1666	the	_	_	
+18-11	1667-1673	degree	_	_	
+18-12	1674-1676	of	_	_	
+18-13	1677-1681	wear	_	_	
+18-14	1682-1684	of	_	_	
+18-15	1685-1688	the	_	_	
+18-16	1689-1699	toothbrush	_	_	
+18-17	1699-1700	.	_	_	
+
+#Text=Kent, U.S.
+19-1	1701-1705	Kent	_	_	
+19-2	1705-1706	,	_	_	
+19-3	1707-1710	U.S	_	_	
+19-4	1710-1711	.	_	_	
+
+#Text=Pat.
+20-1	1712-1715	Pat	_	_	
+20-2	1715-1716	.	_	_	
+
+#Text=No, 5,061,106, describes including capsules or microspheres in the tuft holes in which the bristles of a toothbrush are mounted.
+21-1	1717-1719	No	_	_	
+21-2	1719-1720	,	_	_	
+21-3	1721-1730	5,061,106	_	_	
+21-4	1730-1731	,	_	_	
+21-5	1732-1741	describes	_	_	
+21-6	1742-1751	including	_	_	
+21-7	1752-1760	capsules	_	_	
+21-8	1761-1763	or	_	_	
+21-9	1764-1776	microspheres	_	_	
+21-10	1777-1779	in	_	_	
+21-11	1780-1783	the	_	_	
+21-12	1784-1788	tuft	_	_	
+21-13	1789-1794	holes	_	_	
+21-14	1795-1797	in	_	_	
+21-15	1798-1803	which	_	_	
+21-16	1804-1807	the	_	_	
+21-17	1808-1816	bristles	_	_	
+21-18	1817-1819	of	_	_	
+21-19	1820-1821	a	_	_	
+21-20	1822-1832	toothbrush	_	_	
+21-21	1833-1836	are	_	_	
+21-22	1837-1844	mounted	_	_	
+21-23	1844-1845	.	_	_	
+
+#Text=The capsules or microspheres include a disinfectant or medicant that is released during use.
+22-1	1846-1849	The	_	_	
+22-2	1850-1858	capsules	_	_	
+22-3	1859-1861	or	_	_	
+22-4	1862-1874	microspheres	_	_	
+22-5	1875-1882	include	_	_	
+22-6	1883-1884	a	_	_	
+22-7	1885-1897	disinfectant	_	_	
+22-8	1898-1900	or	_	_	
+22-9	1901-1909	medicant	_	_	
+22-10	1910-1914	that	_	_	
+22-11	1915-1917	is	_	_	
+22-12	1918-1926	released	_	_	
+22-13	1927-1933	during	_	_	
+22-14	1934-1937	use	_	_	
+22-15	1937-1938	.	_	_	
+
+#Text=A dye may also be included in the structures.
+23-1	1939-1940	A	_	_	
+23-2	1941-1944	dye	_	_	
+23-3	1945-1948	may	_	_	
+23-4	1949-1953	also	_	_	
+23-5	1954-1956	be	_	_	
+23-6	1957-1965	included	_	_	
+23-7	1966-1968	in	_	_	
+23-8	1969-1972	the	_	_	
+23-9	1973-1983	structures	_	_	
+23-10	1983-1984	.	_	_	
+
+#Text=The dye also is released over time to enable the user to become aware of when the contents of the capsules are depleted.
+24-1	1985-1988	The	_	_	
+24-2	1989-1992	dye	_	_	
+24-3	1993-1997	also	_	_	
+24-4	1998-2000	is	_	_	
+24-5	2001-2009	released	_	_	
+24-6	2010-2014	over	_	_	
+24-7	2015-2019	time	_	_	
+24-8	2020-2022	to	_	_	
+24-9	2023-2029	enable	_	_	
+24-10	2030-2033	the	_	_	
+24-11	2034-2038	user	_	_	
+24-12	2039-2041	to	_	_	
+24-13	2042-2048	become	_	_	
+24-14	2049-2054	aware	_	_	
+24-15	2055-2057	of	_	_	
+24-16	2058-2062	when	_	_	
+24-17	2063-2066	the	_	_	
+24-18	2067-2075	contents	_	_	
+24-19	2076-2078	of	_	_	
+24-20	2079-2082	the	_	_	
+24-21	2083-2091	capsules	_	_	
+24-22	2092-2095	are	_	_	
+24-23	2096-2104	depleted	_	_	
+24-24	2104-2105	.	_	_	

@@ -1,0 +1,163 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=[0277] As shown in FIG. 36, this datastore contains the following tables: WTGYear, SiteYear, and FaultYear.
+1-1	0-1	[	_	_	
+1-2	1-5	0277	_	_	
+1-3	5-6	]	_	_	
+1-4	7-9	As	_	_	
+1-5	10-15	shown	_	_	
+1-6	16-18	in	_	_	
+1-7	19-22	FIG	_	_	
+1-8	22-23	.	_	_	
+1-9	24-26	36	_	_	
+1-10	26-27	,	_	_	
+1-11	28-32	this	_	_	
+1-12	33-42	datastore	_	_	
+1-13	43-51	contains	_	_	
+1-14	52-55	the	_	_	
+1-15	56-65	following	_	_	
+1-16	66-72	tables	_	_	
+1-17	72-73	:	_	_	
+1-18	74-81	WTGYear	_	_	
+1-19	81-82	,	_	_	
+1-20	83-91	SiteYear	_	_	
+1-21	91-92	,	_	_	
+1-22	93-96	and	_	_	
+1-23	97-106	FaultYear	_	_	
+1-24	106-107	.	_	_	
+
+#Text=To reduce the size and increase efficiency this module contains only data tables.
+#Text=[0278] SWPR Amin PS_Computer.backslash.SWPR.backslash.SWRP_Admin.
+#Text=[0279] Referring now to FIG. 32, this process contains the routines necessary to administer the SWPR application.
+2-1	108-110	To	_	_	
+2-2	111-117	reduce	_	_	
+2-3	118-121	the	_	_	
+2-4	122-126	size	_	_	
+2-5	127-130	and	_	_	
+2-6	131-139	increase	_	_	
+2-7	140-150	efficiency	_	_	
+2-8	151-155	this	_	_	
+2-9	156-162	module	_	_	
+2-10	163-171	contains	_	_	
+2-11	172-176	only	_	_	
+2-12	177-181	data	_	_	
+2-13	182-188	tables	_	_	
+2-14	188-189	.	_	_	
+2-15	190-191	[	_	_	
+2-16	191-195	0278	_	_	
+2-17	195-196	]	_	_	
+2-18	197-201	SWPR	_	_	
+2-19	202-206	Amin	_	_	
+2-20	207-254	PS_Computer.backslash.SWPR.backslash.SWRP_Admin	_	_	
+2-21	254-255	.	_	_	
+2-22	256-257	[	_	_	
+2-23	257-261	0279	_	_	
+2-24	261-262	]	_	_	
+2-25	263-272	Referring	_	_	
+2-26	273-276	now	_	_	
+2-27	277-279	to	_	_	
+2-28	280-283	FIG	_	_	
+2-29	283-284	.	_	_	
+2-30	285-287	32	_	_	
+2-31	287-288	,	_	_	
+2-32	289-293	this	_	_	
+2-33	294-301	process	_	_	
+2-34	302-310	contains	_	_	
+2-35	311-314	the	_	_	
+2-36	315-323	routines	_	_	
+2-37	324-333	necessary	_	_	
+2-38	334-336	to	_	_	
+2-39	337-347	administer	_	_	
+2-40	348-351	the	_	_	
+2-41	352-356	SWPR	_	_	
+2-42	357-368	application	_	_	
+2-43	368-369	.	_	_	
+
+#Text=Included in this module are processes to archive the monthly and yearly data.
+3-1	370-378	Included	*[1]	4-31[2_1]	
+3-2	379-381	in	*[1]	_	
+3-3	382-386	this	*[1]	_	
+3-4	387-393	module	*[1]	_	
+3-5	394-397	are	*[1]	_	
+3-6	398-407	processes	*[1]	_	
+3-7	408-410	to	*[1]	_	
+3-8	411-418	archive	*[1]	_	
+3-9	419-422	the	*[1]	_	
+3-10	423-430	monthly	*[1]	_	
+3-11	431-434	and	*[1]	_	
+3-12	435-441	yearly	*[1]	_	
+3-13	442-446	data	*[1]	_	
+3-14	446-447	.	*[1]	_	
+
+#Text=The module also configures the Config Data for new/existing projects:
+#Text=[0280] SWPR User PS_Computer.backslash.XSWPR.backslash.SWRP_User.
+#Text=[0281] Referring now to FIG. 33, this process contains the routines required for the user of the SWPR application.
+4-1	448-451	The	_	_	
+4-2	452-458	module	_	_	
+4-3	459-463	also	_	_	
+4-4	464-474	configures	_	_	
+4-5	475-478	the	_	_	
+4-6	479-485	Config	_	_	
+4-7	486-490	Data	_	_	
+4-8	491-494	for	_	_	
+4-9	495-498	new	_	_	
+4-10	498-499	/	_	_	
+4-11	499-507	existing	_	_	
+4-12	508-516	projects	_	_	
+4-13	516-517	:	_	_	
+4-14	518-519	[	_	_	
+4-15	519-523	0280	_	_	
+4-16	523-524	]	_	_	
+4-17	525-529	SWPR	_	_	
+4-18	530-534	User	_	_	
+4-19	535-582	PS_Computer.backslash.XSWPR.backslash.SWRP_User	_	_	
+4-20	582-583	.	_	_	
+4-21	584-585	[	_	_	
+4-22	585-589	0281	_	_	
+4-23	589-590	]	_	_	
+4-24	591-600	Referring	_	_	
+4-25	601-604	now	_	_	
+4-26	605-607	to	_	_	
+4-27	608-611	FIG	_	_	
+4-28	611-612	.	_	_	
+4-29	613-615	33	_	_	
+4-30	615-616	,	_	_	
+4-31	617-621	this	*[2]	_	
+4-32	622-629	process	*[2]	_	
+4-33	630-638	contains	_	_	
+4-34	639-642	the	_	_	
+4-35	643-651	routines	_	_	
+4-36	652-660	required	_	_	
+4-37	661-664	for	_	_	
+4-38	665-668	the	_	_	
+4-39	669-673	user	_	_	
+4-40	674-676	of	_	_	
+4-41	677-680	the	_	_	
+4-42	681-685	SWPR	_	_	
+4-43	686-697	application	_	_	
+4-44	697-698	.	_	_	
+
+#Text=FIG. 34 illustrates a screen shot of a sample report menu for the user to select desired reports.
+5-1	699-702	FIG	_	_	
+5-2	702-703	.	_	_	
+5-3	704-706	34	_	_	
+5-4	707-718	illustrates	_	_	
+5-5	719-720	a	_	_	
+5-6	721-727	screen	_	_	
+5-7	728-732	shot	_	_	
+5-8	733-735	of	_	_	
+5-9	736-737	a	_	_	
+5-10	738-744	sample	_	_	
+5-11	745-751	report	_	_	
+5-12	752-756	menu	_	_	
+5-13	757-760	for	_	_	
+5-14	761-764	the	_	_	
+5-15	765-769	user	_	_	
+5-16	770-772	to	_	_	
+5-17	773-779	select	_	_	
+5-18	780-787	desired	_	_	
+5-19	788-795	reports	_	_	
+5-20	795-796	.	_	_	

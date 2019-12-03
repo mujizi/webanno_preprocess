@@ -1,0 +1,5 @@
+Technical Problem
+[0009] In the first of the above-mentioned conventional methods, since it is hard to begin with for the user to achieve an overall understanding of what kind of images are contained in the large amount of image data, an appropriate specification of an AV range is itself difficult. Also, since the display of each image in the AV range is unique, this method cannot always allow the user to view images within the AV range or search for a particular image efficiently.
+[0010] In the other conventional method mentioned above, although each group is scrolled through individually, each image within a group is displayed uniquely, and thus all of the images in a group are shown in the same way. As a result, this method of display cannot always allow the user to view images within the AV range or search for a particular image efficiently.
+[0011] It is an object of the present invention to provide a data display device, integrated circuit, data display method, data display program and recording medium that allow the user to view and search file data, such as image data, efficiently.
+Solution to Problem

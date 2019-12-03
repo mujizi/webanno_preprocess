@@ -1,0 +1,393 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=can be realized only in exceptional cases.
+1-1	0-3	can	_	_	
+1-2	4-6	be	_	_	
+1-3	7-15	realized	_	_	
+1-4	16-20	only	_	_	
+1-5	21-23	in	_	_	
+1-6	24-35	exceptional	_	_	
+1-7	36-41	cases	_	_	
+1-8	41-42	.	_	_	
+
+#Text=Nevertheless, methods have been developed according to which alkyl tin trichloride is formed in addition to dialkyl tin- or trialkyl tin chlorides (cf.
+2-1	43-55	Nevertheless	_	_	
+2-2	55-56	,	_	_	
+2-3	57-64	methods	_	_	
+2-4	65-69	have	_	_	
+2-5	70-74	been	_	_	
+2-6	75-84	developed	_	_	
+2-7	85-94	according	_	_	
+2-8	95-97	to	_	_	
+2-9	98-103	which	_	_	
+2-10	104-109	alkyl	_	_	
+2-11	110-113	tin	_	_	
+2-12	114-125	trichloride	_	_	
+2-13	126-128	is	_	_	
+2-14	129-135	formed	_	_	
+2-15	136-138	in	_	_	
+2-16	139-147	addition	_	_	
+2-17	148-150	to	_	_	
+2-18	151-158	dialkyl	_	_	
+2-19	159-162	tin	_	_	
+2-20	162-163	-	_	_	
+2-21	164-166	or	_	_	
+2-22	167-175	trialkyl	_	_	
+2-23	176-179	tin	_	_	
+2-24	180-189	chlorides	_	_	
+2-25	190-191	(	_	_	
+2-26	191-193	cf	_	_	
+2-27	193-194	.	_	_	
+
+#Text=German Pat.
+3-1	195-201	German	_	_	
+3-2	202-205	Pat	_	_	
+3-3	205-206	.	_	_	
+
+#Text=No. 1,161,893 or British Pat.
+4-1	207-209	No	_	_	
+4-2	209-210	.	_	_	
+4-3	211-220	1,161,893	_	_	
+4-4	221-223	or	_	_	
+4-5	224-231	British	_	_	
+4-6	232-235	Pat	_	_	
+4-7	235-236	.	_	_	
+
+#Text=No. 739,883).
+5-1	237-239	No	_	_	
+5-2	239-240	.	_	_	
+5-3	241-248	739,883	_	_	
+5-4	248-249	)	_	_	
+5-5	249-250	.	_	_	
+
+#Text=Alkyl tin trichloride can be obtained from such mixtures, for example by distillation.
+6-1	251-256	Alkyl	_	_	
+6-2	257-260	tin	_	_	
+6-3	261-272	trichloride	_	_	
+6-4	273-276	can	_	_	
+6-5	277-279	be	_	_	
+6-6	280-288	obtained	_	_	
+6-7	289-293	from	_	_	
+6-8	294-298	such	_	_	
+6-9	299-307	mixtures	_	_	
+6-10	307-308	,	_	_	
+6-11	309-312	for	_	_	
+6-12	313-320	example	_	_	
+6-13	321-323	by	_	_	
+6-14	324-336	distillation	_	_	
+6-15	336-337	.	_	_	
+
+#Text=However, this method is strongly limited because of the high boiling point of long chain alkyl tin trichlorides and can be technically carried out for the preparation of short chain (.ltoreq.
+7-1	338-345	However	_	_	
+7-2	345-346	,	_	_	
+7-3	347-351	this	_	_	
+7-4	352-358	method	_	_	
+7-5	359-361	is	_	_	
+7-6	362-370	strongly	_	_	
+7-7	371-378	limited	_	_	
+7-8	379-386	because	_	_	
+7-9	387-389	of	_	_	
+7-10	390-393	the	_	_	
+7-11	394-398	high	_	_	
+7-12	399-406	boiling	_	_	
+7-13	407-412	point	_	_	
+7-14	413-415	of	_	_	
+7-15	416-420	long	_	_	
+7-16	421-426	chain	_	_	
+7-17	427-432	alkyl	_	_	
+7-18	433-436	tin	_	_	
+7-19	437-449	trichlorides	_	_	
+7-20	450-453	and	_	_	
+7-21	454-457	can	_	_	
+7-22	458-460	be	_	_	
+7-23	461-472	technically	_	_	
+7-24	473-480	carried	_	_	
+7-25	481-484	out	_	_	
+7-26	485-488	for	_	_	
+7-27	489-492	the	_	_	
+7-28	493-504	preparation	_	_	
+7-29	505-507	of	_	_	
+7-30	508-513	short	_	_	
+7-31	514-519	chain	_	_	
+7-32	520-521	(	_	_	
+7-33	521-522	.	_	_	
+7-34	522-528	ltoreq	_	_	
+7-35	528-529	.	_	_	
+
+#Text=C.sub.4) alkyl tin trichlorides only.
+8-1	530-535	C.sub	_	_	
+8-2	535-537	.4	_	_	
+8-3	537-538	)	_	_	
+8-4	539-544	alkyl	_	_	
+8-5	545-548	tin	_	_	
+8-6	549-561	trichlorides	_	_	
+8-7	562-566	only	_	_	
+8-8	566-567	.	_	_	
+
+#Text=The simplest possibility for preparing alkyl tin trichlorides would be by the replacement of a chlorine atom from SnCl.sub.4 by an alkyl group, i.e. by a direct monoalkylation.
+9-1	568-571	The	_	_	
+9-2	572-580	simplest	_	_	
+9-3	581-592	possibility	_	_	
+9-4	593-596	for	_	_	
+9-5	597-606	preparing	_	_	
+9-6	607-612	alkyl	_	_	
+9-7	613-616	tin	_	_	
+9-8	617-629	trichlorides	_	_	
+9-9	630-635	would	_	_	
+9-10	636-638	be	_	_	
+9-11	639-641	by	_	_	
+9-12	642-645	the	_	_	
+9-13	646-657	replacement	_	_	
+9-14	658-660	of	_	_	
+9-15	661-662	a	_	_	
+9-16	663-671	chlorine	_	_	
+9-17	672-676	atom	_	_	
+9-18	677-681	from	_	_	
+9-19	682-690	SnCl.sub	_	_	
+9-20	690-692	.4	_	_	
+9-21	693-695	by	_	_	
+9-22	696-698	an	_	_	
+9-23	699-704	alkyl	_	_	
+9-24	705-710	group	_	_	
+9-25	710-711	,	_	_	
+9-26	712-715	i.e	_	_	
+9-27	715-716	.	_	_	
+9-28	717-719	by	_	_	
+9-29	720-721	a	_	_	
+9-30	722-728	direct	_	_	
+9-31	729-743	monoalkylation	_	_	
+9-32	743-744	.	_	_	
+
+#Text=A monoalkylation of SnCl.sub.4 has heretofore not been successfully carried out with the technically available aluminum trialkyls.
+10-1	745-746	A	_	_	
+10-2	747-761	monoalkylation	_	_	
+10-3	762-764	of	_	_	
+10-4	765-773	SnCl.sub	_	_	
+10-5	773-775	.4	_	_	
+10-6	776-779	has	_	_	
+10-7	780-790	heretofore	_	_	
+10-8	791-794	not	_	_	
+10-9	795-799	been	_	_	
+10-10	800-812	successfully	_	_	
+10-11	813-820	carried	_	_	
+10-12	821-824	out	_	_	
+10-13	825-829	with	_	_	
+10-14	830-833	the	_	_	
+10-15	834-845	technically	_	_	
+10-16	846-855	available	_	_	
+10-17	856-864	aluminum	_	_	
+10-18	865-874	trialkyls	_	_	
+10-19	874-875	.	_	_	
+
+#Text=However, alkyl tin trichlorides can be prepared from SnCl.sub.4 by monoalkylation with alkyl aluminum alkoxides [cf.
+11-1	876-883	However	_	_	
+11-2	883-884	,	_	_	
+11-3	885-890	alkyl	*[1]	17-3[2_1]	
+11-4	891-894	tin	*[1]	_	
+11-5	895-907	trichlorides	*[1]	_	
+11-6	908-911	can	*[1]	_	
+11-7	912-914	be	*[1]	_	
+11-8	915-923	prepared	*[1]	_	
+11-9	924-928	from	*[1]	_	
+11-10	929-937	SnCl.sub	*[1]	_	
+11-11	937-939	.4	*[1]	_	
+11-12	940-942	by	*[1]	_	
+11-13	943-957	monoalkylation	*[1]	_	
+11-14	958-962	with	*[1]	_	
+11-15	963-968	alkyl	*[1]	_	
+11-16	969-977	aluminum	*[1]	_	
+11-17	978-987	alkoxides	*[1]	_	
+11-18	988-989	[	_	_	
+11-19	989-991	cf	_	_	
+11-20	991-992	.	_	_	
+
+#Text=German Offenlegungsschrift Pat.
+12-1	993-999	German	_	_	
+12-2	1000-1019	Offenlegungsschrift	_	_	
+12-3	1020-1023	Pat	_	_	
+12-4	1023-1024	.	_	_	
+
+#Text=No. 2,304,617 and W.
+13-1	1025-1027	No	_	_	
+13-2	1027-1028	.	_	_	
+13-3	1029-1038	2,304,617	_	_	
+13-4	1039-1042	and	_	_	
+13-5	1043-1044	W	_	_	
+13-6	1044-1045	.	_	_	
+
+#Text=P.
+14-1	1046-1047	P	_	_	
+14-2	1047-1048	.	_	_	
+
+#Text=Neumann Ann.
+15-1	1049-1056	Neumann	_	_	
+15-2	1057-1060	Ann	_	_	
+15-3	1060-1061	.	_	_	
+
+#Text=Chem. 653, 163 (1962)].
+16-1	1062-1066	Chem	_	_	
+16-2	1066-1067	.	_	_	
+16-3	1068-1071	653	_	_	
+16-4	1071-1072	,	_	_	
+16-5	1073-1076	163	_	_	
+16-6	1077-1078	(	_	_	
+16-7	1078-1082	1962	_	_	
+16-8	1082-1083	)	_	_	
+16-9	1083-1084	]	_	_	
+16-10	1084-1085	.	_	_	
+
+#Text=But in this process the great economic advantage which the aluminum trialkyls possess in alkylation reactions, in comparison with other akylating agents, is limited.
+17-1	1086-1089	But	_	_	
+17-2	1090-1092	in	_	_	
+17-3	1093-1097	this	*[2]	_	
+17-4	1098-1105	process	*[2]	_	
+17-5	1106-1109	the	_	_	
+17-6	1110-1115	great	_	_	
+17-7	1116-1124	economic	_	_	
+17-8	1125-1134	advantage	_	_	
+17-9	1135-1140	which	_	_	
+17-10	1141-1144	the	_	_	
+17-11	1145-1153	aluminum	_	_	
+17-12	1154-1163	trialkyls	_	_	
+17-13	1164-1171	possess	_	_	
+17-14	1172-1174	in	_	_	
+17-15	1175-1185	alkylation	_	_	
+17-16	1186-1195	reactions	_	_	
+17-17	1195-1196	,	_	_	
+17-18	1197-1199	in	_	_	
+17-19	1200-1210	comparison	_	_	
+17-20	1211-1215	with	_	_	
+17-21	1216-1221	other	_	_	
+17-22	1222-1231	akylating	_	_	
+17-23	1232-1238	agents	_	_	
+17-24	1238-1239	,	_	_	
+17-25	1240-1242	is	_	_	
+17-26	1243-1250	limited	_	_	
+17-27	1250-1251	.	_	_	
+
+#Text=Namely, ith alkyl aluminum akoxides, a maximum of only two alkyl groups can be transferred per aluminum atom.
+18-1	1252-1258	Namely	_	_	
+18-2	1258-1259	,	_	_	
+18-3	1260-1263	ith	_	_	
+18-4	1264-1269	alkyl	_	_	
+18-5	1270-1278	aluminum	_	_	
+18-6	1279-1287	akoxides	_	_	
+18-7	1287-1288	,	_	_	
+18-8	1289-1290	a	_	_	
+18-9	1291-1298	maximum	_	_	
+18-10	1299-1301	of	_	_	
+18-11	1302-1306	only	_	_	
+18-12	1307-1310	two	_	_	
+18-13	1311-1316	alkyl	_	_	
+18-14	1317-1323	groups	_	_	
+18-15	1324-1327	can	_	_	
+18-16	1328-1330	be	_	_	
+18-17	1331-1342	transferred	_	_	
+18-18	1343-1346	per	_	_	
+18-19	1347-1355	aluminum	_	_	
+18-20	1356-1360	atom	_	_	
+18-21	1360-1361	.	_	_	
+
+#Text=According to German Auslegeschrift 1,157,617 and 1,164,407, it is possible, by the use of alkyl aluminum ether complexes or alkyl aluminum amine complexes, to prepare trialkyl tin compounds and dialkyl tin compounds, or mixtures of the same, according to a stoichiometric or non-stoichiometric reaction.
+19-1	1362-1371	According	_	_	
+19-2	1372-1374	to	_	_	
+19-3	1375-1381	German	_	_	
+19-4	1382-1396	Auslegeschrift	_	_	
+19-5	1397-1406	1,157,617	_	_	
+19-6	1407-1410	and	_	_	
+19-7	1411-1420	1,164,407	_	_	
+19-8	1420-1421	,	_	_	
+19-9	1422-1424	it	_	_	
+19-10	1425-1427	is	_	_	
+19-11	1428-1436	possible	_	_	
+19-12	1436-1437	,	_	_	
+19-13	1438-1440	by	_	_	
+19-14	1441-1444	the	_	_	
+19-15	1445-1448	use	_	_	
+19-16	1449-1451	of	_	_	
+19-17	1452-1457	alkyl	_	_	
+19-18	1458-1466	aluminum	_	_	
+19-19	1467-1472	ether	_	_	
+19-20	1473-1482	complexes	_	_	
+19-21	1483-1485	or	_	_	
+19-22	1486-1491	alkyl	_	_	
+19-23	1492-1500	aluminum	_	_	
+19-24	1501-1506	amine	_	_	
+19-25	1507-1516	complexes	_	_	
+19-26	1516-1517	,	_	_	
+19-27	1518-1520	to	_	_	
+19-28	1521-1528	prepare	_	_	
+19-29	1529-1537	trialkyl	_	_	
+19-30	1538-1541	tin	_	_	
+19-31	1542-1551	compounds	_	_	
+19-32	1552-1555	and	_	_	
+19-33	1556-1563	dialkyl	_	_	
+19-34	1564-1567	tin	_	_	
+19-35	1568-1577	compounds	_	_	
+19-36	1577-1578	,	_	_	
+19-37	1579-1581	or	_	_	
+19-38	1582-1590	mixtures	_	_	
+19-39	1591-1593	of	_	_	
+19-40	1594-1597	the	_	_	
+19-41	1598-1602	same	_	_	
+19-42	1602-1603	,	_	_	
+19-43	1604-1613	according	_	_	
+19-44	1614-1616	to	_	_	
+19-45	1617-1618	a	_	_	
+19-46	1619-1633	stoichiometric	_	_	
+19-47	1634-1636	or	_	_	
+19-48	1637-1655	non-stoichiometric	_	_	
+19-49	1656-1664	reaction	_	_	
+19-50	1664-1665	.	_	_	
+
+#Text=The preparation of mono-alkyl tin compounds by this method has heretofore not been possible.
+20-1	1666-1669	The	_	_	
+20-2	1670-1681	preparation	_	_	
+20-3	1682-1684	of	_	_	
+20-4	1685-1695	mono-alkyl	_	_	
+20-5	1696-1699	tin	_	_	
+20-6	1700-1709	compounds	_	_	
+20-7	1710-1712	by	_	_	
+20-8	1713-1717	this	_	_	
+20-9	1718-1724	method	_	_	
+20-10	1725-1728	has	_	_	
+20-11	1729-1739	heretofore	_	_	
+20-12	1740-1743	not	_	_	
+20-13	1744-1748	been	_	_	
+20-14	1749-1757	possible	_	_	
+20-15	1757-1758	.	_	_	
+
+#Text=In a later publication, Liebigs Ann.
+21-1	1759-1761	In	_	_	
+21-2	1762-1763	a	_	_	
+21-3	1764-1769	later	_	_	
+21-4	1770-1781	publication	_	_	
+21-5	1781-1782	,	_	_	
+21-6	1783-1790	Liebigs	_	_	
+21-7	1791-1794	Ann	_	_	
+21-8	1794-1795	.	_	_	
+
+#Text=Chem. 653, 160 (1962), W.
+22-1	1796-1800	Chem	_	_	
+22-2	1800-1801	.	_	_	
+22-3	1802-1805	653	_	_	
+22-4	1805-1806	,	_	_	
+22-5	1807-1810	160	_	_	
+22-6	1811-1812	(	_	_	
+22-7	1812-1816	1962	_	_	
+22-8	1816-1817	)	_	_	
+22-9	1817-1818	,	_	_	
+22-10	1819-1820	W	_	_	
+22-11	1820-1821	.	_	_	
+
+#Text=P.
+23-1	1822-1823	P	_	_	
+23-2	1823-1824	.	_	_	
+
+#Text=Neumann writes:
+24-1	1825-1832	Neumann	_	_	
+24-2	1833-1839	writes	_	_	
+24-3	1839-1840	:	_	_	

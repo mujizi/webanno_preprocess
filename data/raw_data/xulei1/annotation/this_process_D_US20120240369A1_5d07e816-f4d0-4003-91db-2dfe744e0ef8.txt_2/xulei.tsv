@@ -1,0 +1,877 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=[0005] Melt spinning technology involves directing threads of the cast polymer to reduce the diameter of the fiber and induce the orientation of the polymeric chains.
+1-1	0-1	[	_	_	
+1-2	1-5	0005	_	_	
+1-3	5-6	]	_	_	
+1-4	7-11	Melt	*[1]	3-8[2_1]	
+1-5	12-20	spinning	*[1]	_	
+1-6	21-31	technology	*[1]	_	
+1-7	32-40	involves	_	_	
+1-8	41-50	directing	_	_	
+1-9	51-58	threads	_	_	
+1-10	59-61	of	_	_	
+1-11	62-65	the	_	_	
+1-12	66-70	cast	_	_	
+1-13	71-78	polymer	_	_	
+1-14	79-81	to	_	_	
+1-15	82-88	reduce	_	_	
+1-16	89-92	the	_	_	
+1-17	93-101	diameter	_	_	
+1-18	102-104	of	_	_	
+1-19	105-108	the	_	_	
+1-20	109-114	fiber	_	_	
+1-21	115-118	and	_	_	
+1-22	119-125	induce	_	_	
+1-23	126-129	the	_	_	
+1-24	130-141	orientation	_	_	
+1-25	142-144	of	_	_	
+1-26	145-148	the	_	_	
+1-27	149-158	polymeric	_	_	
+1-28	159-165	chains	_	_	
+1-29	165-166	.	_	_	
+
+#Text=One of the limitations of melt spinning is that it is restricted to viscoelastic materials, which can withstand the efforts developed during the process.
+2-1	167-170	One	_	_	
+2-2	171-173	of	_	_	
+2-3	174-177	the	_	_	
+2-4	178-189	limitations	_	_	
+2-5	190-192	of	_	_	
+2-6	193-197	melt	_	_	
+2-7	198-206	spinning	_	_	
+2-8	207-209	is	_	_	
+2-9	210-214	that	_	_	
+2-10	215-217	it	_	_	
+2-11	218-220	is	_	_	
+2-12	221-231	restricted	_	_	
+2-13	232-234	to	_	_	
+2-14	235-247	viscoelastic	_	_	
+2-15	248-257	materials	_	_	
+2-16	257-258	,	_	_	
+2-17	259-264	which	_	_	
+2-18	265-268	can	_	_	
+2-19	269-278	withstand	_	_	
+2-20	279-282	the	_	_	
+2-21	283-290	efforts	_	_	
+2-22	291-300	developed	_	_	
+2-23	301-307	during	_	_	
+2-24	308-311	the	_	_	
+2-25	312-319	process	_	_	
+2-26	319-320	.	_	_	
+
+#Text=The diameter of the fibers made by this process is normally greater than 2 .mu.m.
+#Text=[0006] A variation of melt spinning for producing nanofibers is the islands-in-the-sea process, in which various individual matrices of a polymeric component are produced inside a single biggest thread of a second polymeric component.
+3-1	321-324	The	_	_	
+3-2	325-333	diameter	_	_	
+3-3	334-336	of	_	_	
+3-4	337-340	the	_	_	
+3-5	341-347	fibers	_	_	
+3-6	348-352	made	_	_	
+3-7	353-355	by	_	_	
+3-8	356-360	this	*[2]	_	
+3-9	361-368	process	*[2]	_	
+3-10	369-371	is	_	_	
+3-11	372-380	normally	_	_	
+3-12	381-388	greater	_	_	
+3-13	389-393	than	_	_	
+3-14	394-395	2	_	_	
+3-15	396-397	.	_	_	
+3-16	397-401	mu.m	_	_	
+3-17	401-402	.	_	_	
+3-18	403-404	[	*[3]	5-4[4_3]	
+3-19	404-408	0006	*[3]	_	
+3-20	408-409	]	*[3]	_	
+3-21	410-411	A	*[3]	_	
+3-22	412-421	variation	*[3]	_	
+3-23	422-424	of	*[3]	_	
+3-24	425-429	melt	*[3]	_	
+3-25	430-438	spinning	*[3]	_	
+3-26	439-442	for	*[3]	_	
+3-27	443-452	producing	*[3]	_	
+3-28	453-463	nanofibers	*[3]	_	
+3-29	464-466	is	*[3]	_	
+3-30	467-470	the	*[3]	_	
+3-31	471-489	islands-in-the-sea	*[3]	_	
+3-32	490-497	process	*[3]	_	
+3-33	497-498	,	*[3]	_	
+3-34	499-501	in	*[3]	_	
+3-35	502-507	which	*[3]	_	
+3-36	508-515	various	*[3]	_	
+3-37	516-526	individual	*[3]	_	
+3-38	527-535	matrices	*[3]	_	
+3-39	536-538	of	*[3]	_	
+3-40	539-540	a	*[3]	_	
+3-41	541-550	polymeric	*[3]	_	
+3-42	551-560	component	*[3]	_	
+3-43	561-564	are	*[3]	_	
+3-44	565-573	produced	*[3]	_	
+3-45	574-580	inside	*[3]	_	
+3-46	581-582	a	*[3]	_	
+3-47	583-589	single	*[3]	_	
+3-48	590-597	biggest	*[3]	_	
+3-49	598-604	thread	*[3]	_	
+3-50	605-607	of	*[3]	_	
+3-51	608-609	a	*[3]	_	
+3-52	610-616	second	*[3]	_	
+3-53	617-626	polymeric	*[3]	_	
+3-54	627-636	component	*[3]	_	
+3-55	636-637	.	*[3]	_	
+
+#Text=The bicomponent fibers are degraded at the same time using specialized equipment.
+4-1	638-641	The	*[3]	_	
+4-2	642-653	bicomponent	*[3]	_	
+4-3	654-660	fibers	*[3]	_	
+4-4	661-664	are	*[3]	_	
+4-5	665-673	degraded	*[3]	_	
+4-6	674-676	at	*[3]	_	
+4-7	677-680	the	*[3]	_	
+4-8	681-685	same	*[3]	_	
+4-9	686-690	time	*[3]	_	
+4-10	691-696	using	*[3]	_	
+4-11	697-708	specialized	*[3]	_	
+4-12	709-718	equipment	*[3]	_	
+4-13	718-719	.	*[3]	_	
+
+#Text=A variation of this process that merely requires twin-screw extrusion equipment uses two immiscible polymers.
+5-1	720-721	A	_	_	
+5-2	722-731	variation	_	_	
+5-3	732-734	of	_	_	
+5-4	735-739	this	*[4]	_	
+5-5	740-747	process	*[4]	_	
+5-6	748-752	that	_	_	
+5-7	753-759	merely	_	_	
+5-8	760-768	requires	_	_	
+5-9	769-779	twin-screw	_	_	
+5-10	780-789	extrusion	_	_	
+5-11	790-799	equipment	_	_	
+5-12	800-804	uses	_	_	
+5-13	805-808	two	_	_	
+5-14	809-819	immiscible	_	_	
+5-15	820-828	polymers	_	_	
+5-16	828-829	.	_	_	
+
+#Text=The main limitation of this technique is the need for solvents to remove the sea component and the limited number of polymeric materials which can be treated in this manner.
+#Text=[0007] A technique conventionally used for producing polymeric nanofibers is electrospinning ("electrospinning").
+6-1	830-833	The	_	_	
+6-2	834-838	main	_	_	
+6-3	839-849	limitation	_	_	
+6-4	850-852	of	_	_	
+6-5	853-857	this	_	_	
+6-6	858-867	technique	_	_	
+6-7	868-870	is	_	_	
+6-8	871-874	the	_	_	
+6-9	875-879	need	_	_	
+6-10	880-883	for	_	_	
+6-11	884-892	solvents	_	_	
+6-12	893-895	to	_	_	
+6-13	896-902	remove	_	_	
+6-14	903-906	the	_	_	
+6-15	907-910	sea	_	_	
+6-16	911-920	component	_	_	
+6-17	921-924	and	_	_	
+6-18	925-928	the	_	_	
+6-19	929-936	limited	_	_	
+6-20	937-943	number	_	_	
+6-21	944-946	of	_	_	
+6-22	947-956	polymeric	_	_	
+6-23	957-966	materials	_	_	
+6-24	967-972	which	_	_	
+6-25	973-976	can	_	_	
+6-26	977-979	be	_	_	
+6-27	980-987	treated	_	_	
+6-28	988-990	in	_	_	
+6-29	991-995	this	_	_	
+6-30	996-1002	manner	_	_	
+6-31	1002-1003	.	_	_	
+6-32	1004-1005	[	_	_	
+6-33	1005-1009	0007	_	_	
+6-34	1009-1010	]	_	_	
+6-35	1011-1012	A	_	_	
+6-36	1013-1022	technique	_	_	
+6-37	1023-1037	conventionally	_	_	
+6-38	1038-1042	used	_	_	
+6-39	1043-1046	for	_	_	
+6-40	1047-1056	producing	_	_	
+6-41	1057-1066	polymeric	_	_	
+6-42	1067-1077	nanofibers	_	_	
+6-43	1078-1080	is	_	_	
+6-44	1081-1096	electrospinning	_	_	
+6-45	1097-1098	(	_	_	
+6-46	1098-1099	"	_	_	
+6-47	1099-1114	electrospinning	_	_	
+6-48	1114-1115	"	_	_	
+6-49	1115-1116	)	_	_	
+6-50	1116-1117	.	_	_	
+
+#Text=Electrospinning consists of the application of electrostatic and drag forces in the polymeric solution for forming nanofibers.
+7-1	1118-1133	Electrospinning	_	_	
+7-2	1134-1142	consists	_	_	
+7-3	1143-1145	of	_	_	
+7-4	1146-1149	the	_	_	
+7-5	1150-1161	application	_	_	
+7-6	1162-1164	of	_	_	
+7-7	1165-1178	electrostatic	_	_	
+7-8	1179-1182	and	_	_	
+7-9	1183-1187	drag	_	_	
+7-10	1188-1194	forces	_	_	
+7-11	1195-1197	in	_	_	
+7-12	1198-1201	the	_	_	
+7-13	1202-1211	polymeric	_	_	
+7-14	1212-1220	solution	_	_	
+7-15	1221-1224	for	_	_	
+7-16	1225-1232	forming	_	_	
+7-17	1233-1243	nanofibers	_	_	
+7-18	1243-1244	.	_	_	
+
+#Text=The process includes an electrode connected to a positive (or negative) high voltage power supply inserted in the polymeric solution contained in a capillary tube.
+8-1	1245-1248	The	_	_	
+8-2	1249-1256	process	_	_	
+8-3	1257-1265	includes	_	_	
+8-4	1266-1268	an	_	_	
+8-5	1269-1278	electrode	_	_	
+8-6	1279-1288	connected	_	_	
+8-7	1289-1291	to	_	_	
+8-8	1292-1293	a	_	_	
+8-9	1294-1302	positive	_	_	
+8-10	1303-1304	(	_	_	
+8-11	1304-1306	or	_	_	
+8-12	1307-1315	negative	_	_	
+8-13	1315-1316	)	_	_	
+8-14	1317-1321	high	_	_	
+8-15	1322-1329	voltage	_	_	
+8-16	1330-1335	power	_	_	
+8-17	1336-1342	supply	_	_	
+8-18	1343-1351	inserted	_	_	
+8-19	1352-1354	in	_	_	
+8-20	1355-1358	the	_	_	
+8-21	1359-1368	polymeric	_	_	
+8-22	1369-1377	solution	_	_	
+8-23	1378-1387	contained	_	_	
+8-24	1388-1390	in	_	_	
+8-25	1391-1392	a	_	_	
+8-26	1393-1402	capillary	_	_	
+8-27	1403-1407	tube	_	_	
+8-28	1407-1408	.	_	_	
+
+#Text=Initially, the solution is kept by its surface tension in the form of a drop at the end of the capillary.
+9-1	1409-1418	Initially	_	_	
+9-2	1418-1419	,	_	_	
+9-3	1420-1423	the	_	_	
+9-4	1424-1432	solution	_	_	
+9-5	1433-1435	is	_	_	
+9-6	1436-1440	kept	_	_	
+9-7	1441-1443	by	_	_	
+9-8	1444-1447	its	_	_	
+9-9	1448-1455	surface	_	_	
+9-10	1456-1463	tension	_	_	
+9-11	1464-1466	in	_	_	
+9-12	1467-1470	the	_	_	
+9-13	1471-1475	form	_	_	
+9-14	1476-1478	of	_	_	
+9-15	1479-1480	a	_	_	
+9-16	1481-1485	drop	_	_	
+9-17	1486-1488	at	_	_	
+9-18	1489-1492	the	_	_	
+9-19	1493-1496	end	_	_	
+9-20	1497-1499	of	_	_	
+9-21	1500-1503	the	_	_	
+9-22	1504-1513	capillary	_	_	
+9-23	1513-1514	.	_	_	
+
+#Text=With the increase in the electrical voltage, the surface of the drop extends to form a cone (Taylor cone).
+10-1	1515-1519	With	_	_	
+10-2	1520-1523	the	_	_	
+10-3	1524-1532	increase	_	_	
+10-4	1533-1535	in	_	_	
+10-5	1536-1539	the	_	_	
+10-6	1540-1550	electrical	_	_	
+10-7	1551-1558	voltage	_	_	
+10-8	1558-1559	,	_	_	
+10-9	1560-1563	the	_	_	
+10-10	1564-1571	surface	_	_	
+10-11	1572-1574	of	_	_	
+10-12	1575-1578	the	_	_	
+10-13	1579-1583	drop	_	_	
+10-14	1584-1591	extends	_	_	
+10-15	1592-1594	to	_	_	
+10-16	1595-1599	form	_	_	
+10-17	1600-1601	a	_	_	
+10-18	1602-1606	cone	_	_	
+10-19	1607-1608	(	_	_	
+10-20	1608-1614	Taylor	_	_	
+10-21	1615-1619	cone	_	_	
+10-22	1619-1620	)	_	_	
+10-23	1620-1621	.	_	_	
+
+#Text=When the electrostatic forces overcome the surface tension, a jet laden with the solution at the end of the cone is ejected.
+11-1	1622-1626	When	_	_	
+11-2	1627-1630	the	_	_	
+11-3	1631-1644	electrostatic	_	_	
+11-4	1645-1651	forces	_	_	
+11-5	1652-1660	overcome	_	_	
+11-6	1661-1664	the	_	_	
+11-7	1665-1672	surface	_	_	
+11-8	1673-1680	tension	_	_	
+11-9	1680-1681	,	_	_	
+11-10	1682-1683	a	_	_	
+11-11	1684-1687	jet	_	_	
+11-12	1688-1693	laden	_	_	
+11-13	1694-1698	with	_	_	
+11-14	1699-1702	the	_	_	
+11-15	1703-1711	solution	_	_	
+11-16	1712-1714	at	_	_	
+11-17	1715-1718	the	_	_	
+11-18	1719-1722	end	_	_	
+11-19	1723-1725	of	_	_	
+11-20	1726-1729	the	_	_	
+11-21	1730-1734	cone	_	_	
+11-22	1735-1737	is	_	_	
+11-23	1738-1745	ejected	_	_	
+11-24	1745-1746	.	_	_	
+
+#Text=During the trajectory of the jet, the solvent evaporates and the polymer solidifies, forming a micro and/or nanofibrilar web that is deposited in an earthed metallic collector.
+12-1	1747-1753	During	_	_	
+12-2	1754-1757	the	_	_	
+12-3	1758-1768	trajectory	_	_	
+12-4	1769-1771	of	_	_	
+12-5	1772-1775	the	_	_	
+12-6	1776-1779	jet	_	_	
+12-7	1779-1780	,	_	_	
+12-8	1781-1784	the	_	_	
+12-9	1785-1792	solvent	_	_	
+12-10	1793-1803	evaporates	_	_	
+12-11	1804-1807	and	_	_	
+12-12	1808-1811	the	_	_	
+12-13	1812-1819	polymer	_	_	
+12-14	1820-1830	solidifies	_	_	
+12-15	1830-1831	,	_	_	
+12-16	1832-1839	forming	_	_	
+12-17	1840-1841	a	_	_	
+12-18	1842-1847	micro	_	_	
+12-19	1848-1851	and	_	_	
+12-20	1851-1852	/	_	_	
+12-21	1852-1854	or	_	_	
+12-22	1855-1867	nanofibrilar	_	_	
+12-23	1868-1871	web	_	_	
+12-24	1872-1876	that	_	_	
+12-25	1877-1879	is	_	_	
+12-26	1880-1889	deposited	_	_	
+12-27	1890-1892	in	_	_	
+12-28	1893-1895	an	_	_	
+12-29	1896-1903	earthed	_	_	
+12-30	1904-1912	metallic	_	_	
+12-31	1913-1922	collector	_	_	
+12-32	1922-1923	.	_	_	
+
+#Text=Variables may influence the obtention of nanofibers through this process, such as the polymer/solvent concentration, electrical voltage applied in the solution, addition of salt in the solution, power stream (outflow of the solution from the capillary) and working distance (between the end of the capillary and the collector).
+13-1	1924-1933	Variables	_	_	
+13-2	1934-1937	may	_	_	
+13-3	1938-1947	influence	_	_	
+13-4	1948-1951	the	_	_	
+13-5	1952-1961	obtention	_	_	
+13-6	1962-1964	of	_	_	
+13-7	1965-1975	nanofibers	_	_	
+13-8	1976-1983	through	_	_	
+13-9	1984-1988	this	_	_	
+13-10	1989-1996	process	_	_	
+13-11	1996-1997	,	_	_	
+13-12	1998-2002	such	_	_	
+13-13	2003-2005	as	_	_	
+13-14	2006-2009	the	_	_	
+13-15	2010-2017	polymer	_	_	
+13-16	2017-2018	/	_	_	
+13-17	2018-2025	solvent	_	_	
+13-18	2026-2039	concentration	_	_	
+13-19	2039-2040	,	_	_	
+13-20	2041-2051	electrical	_	_	
+13-21	2052-2059	voltage	_	_	
+13-22	2060-2067	applied	_	_	
+13-23	2068-2070	in	_	_	
+13-24	2071-2074	the	_	_	
+13-25	2075-2083	solution	_	_	
+13-26	2083-2084	,	_	_	
+13-27	2085-2093	addition	_	_	
+13-28	2094-2096	of	_	_	
+13-29	2097-2101	salt	_	_	
+13-30	2102-2104	in	_	_	
+13-31	2105-2108	the	_	_	
+13-32	2109-2117	solution	_	_	
+13-33	2117-2118	,	_	_	
+13-34	2119-2124	power	_	_	
+13-35	2125-2131	stream	_	_	
+13-36	2132-2133	(	_	_	
+13-37	2133-2140	outflow	_	_	
+13-38	2141-2143	of	_	_	
+13-39	2144-2147	the	_	_	
+13-40	2148-2156	solution	_	_	
+13-41	2157-2161	from	_	_	
+13-42	2162-2165	the	_	_	
+13-43	2166-2175	capillary	_	_	
+13-44	2175-2176	)	_	_	
+13-45	2177-2180	and	_	_	
+13-46	2181-2188	working	_	_	
+13-47	2189-2197	distance	_	_	
+13-48	2198-2199	(	_	_	
+13-49	2199-2206	between	_	_	
+13-50	2207-2210	the	_	_	
+13-51	2211-2214	end	_	_	
+13-52	2215-2217	of	_	_	
+13-53	2218-2221	the	_	_	
+13-54	2222-2231	capillary	_	_	
+13-55	2232-2235	and	_	_	
+13-56	2236-2239	the	_	_	
+13-57	2240-2249	collector	_	_	
+13-58	2249-2250	)	_	_	
+13-59	2250-2251	.	_	_	
+
+#Text=The technique of electrospinning produces nanofibers with diameters in the range of 40 nm to 2 .mu.m.
+14-1	2252-2255	The	_	_	
+14-2	2256-2265	technique	_	_	
+14-3	2266-2268	of	_	_	
+14-4	2269-2284	electrospinning	_	_	
+14-5	2285-2293	produces	_	_	
+14-6	2294-2304	nanofibers	_	_	
+14-7	2305-2309	with	_	_	
+14-8	2310-2319	diameters	_	_	
+14-9	2320-2322	in	_	_	
+14-10	2323-2326	the	_	_	
+14-11	2327-2332	range	_	_	
+14-12	2333-2335	of	_	_	
+14-13	2336-2338	40	_	_	
+14-14	2339-2341	nm	_	_	
+14-15	2342-2344	to	_	_	
+14-16	2345-2346	2	_	_	
+14-17	2347-2348	.	_	_	
+14-18	2348-2352	mu.m	_	_	
+14-19	2352-2353	.	_	_	
+
+#Text=Although electrospinning is considered the technique with the greatest potential for large scale production, the low efficiency in the production of fibers is still considered its greatest limitation.
+15-1	2354-2362	Although	_	_	
+15-2	2363-2378	electrospinning	_	_	
+15-3	2379-2381	is	_	_	
+15-4	2382-2392	considered	_	_	
+15-5	2393-2396	the	_	_	
+15-6	2397-2406	technique	_	_	
+15-7	2407-2411	with	_	_	
+15-8	2412-2415	the	_	_	
+15-9	2416-2424	greatest	_	_	
+15-10	2425-2434	potential	_	_	
+15-11	2435-2438	for	_	_	
+15-12	2439-2444	large	_	_	
+15-13	2445-2450	scale	_	_	
+15-14	2451-2461	production	_	_	
+15-15	2461-2462	,	_	_	
+15-16	2463-2466	the	_	_	
+15-17	2467-2470	low	_	_	
+15-18	2471-2481	efficiency	_	_	
+15-19	2482-2484	in	_	_	
+15-20	2485-2488	the	_	_	
+15-21	2489-2499	production	_	_	
+15-22	2500-2502	of	_	_	
+15-23	2503-2509	fibers	_	_	
+15-24	2510-2512	is	_	_	
+15-25	2513-2518	still	_	_	
+15-26	2519-2529	considered	_	_	
+15-27	2530-2533	its	_	_	
+15-28	2534-2542	greatest	_	_	
+15-29	2543-2553	limitation	_	_	
+15-30	2553-2554	.	_	_	
+
+#Text=In the same way, the solvents compatible with electrospinning are limited by its dielectric constant.
+16-1	2555-2557	In	_	_	
+16-2	2558-2561	the	_	_	
+16-3	2562-2566	same	_	_	
+16-4	2567-2570	way	_	_	
+16-5	2570-2571	,	_	_	
+16-6	2572-2575	the	_	_	
+16-7	2576-2584	solvents	_	_	
+16-8	2585-2595	compatible	_	_	
+16-9	2596-2600	with	_	_	
+16-10	2601-2616	electrospinning	_	_	
+16-11	2617-2620	are	_	_	
+16-12	2621-2628	limited	_	_	
+16-13	2629-2631	by	_	_	
+16-14	2632-2635	its	_	_	
+16-15	2636-2646	dielectric	_	_	
+16-16	2647-2655	constant	_	_	
+16-17	2655-2656	.	_	_	
+
+#Text=The process of electrospinning was patented in 1902, by J.
+17-1	2657-2660	The	_	_	
+17-2	2661-2668	process	_	_	
+17-3	2669-2671	of	_	_	
+17-4	2672-2687	electrospinning	_	_	
+17-5	2688-2691	was	_	_	
+17-6	2692-2700	patented	_	_	
+17-7	2701-2703	in	_	_	
+17-8	2704-2708	1902	_	_	
+17-9	2708-2709	,	_	_	
+17-10	2710-2712	by	_	_	
+17-11	2713-2714	J	_	_	
+17-12	2714-2715	.	_	_	
+
+#Text=F.
+18-1	2716-2717	F	_	_	
+18-2	2717-2718	.	_	_	
+
+#Text=Cooley (US692631) and W.
+19-1	2719-2725	Cooley	_	_	
+19-2	2726-2727	(	_	_	
+19-3	2727-2735	US692631	_	_	
+19-4	2735-2736	)	_	_	
+19-5	2737-2740	and	_	_	
+19-6	2741-2742	W	_	_	
+19-7	2742-2743	.	_	_	
+
+#Text=J.
+20-1	2744-2745	J	_	_	
+20-2	2745-2746	.	_	_	
+
+#Text=Morton (US705691).
+21-1	2747-2753	Morton	_	_	
+21-2	2754-2755	(	_	_	
+21-3	2755-2763	US705691	_	_	
+21-4	2763-2764	)	_	_	
+21-5	2764-2765	.	_	_	
+
+#Text=Further developments for manufacturing textile yarns were achieved by Anton Formhals as of 1934 (U.S.
+22-1	2766-2773	Further	_	_	
+22-2	2774-2786	developments	_	_	
+22-3	2787-2790	for	_	_	
+22-4	2791-2804	manufacturing	_	_	
+22-5	2805-2812	textile	_	_	
+22-6	2813-2818	yarns	_	_	
+22-7	2819-2823	were	_	_	
+22-8	2824-2832	achieved	_	_	
+22-9	2833-2835	by	_	_	
+22-10	2836-2841	Anton	_	_	
+22-11	2842-2850	Formhals	_	_	
+22-12	2851-2853	as	_	_	
+22-13	2854-2856	of	_	_	
+22-14	2857-2861	1934	_	_	
+22-15	2862-2863	(	_	_	
+22-16	2863-2866	U.S	_	_	
+22-17	2866-2867	.	_	_	
+
+#Text=Pat.
+23-1	2868-2871	Pat	_	_	
+23-2	2871-2872	.	_	_	
+
+#Text=No. 1,975,504 and U.S.
+24-1	2873-2875	No	_	_	
+24-2	2875-2876	.	_	_	
+24-3	2877-2886	1,975,504	_	_	
+24-4	2887-2890	and	_	_	
+24-5	2891-2894	U.S	_	_	
+24-6	2894-2895	.	_	_	
+
+#Text=Pat.
+25-1	2896-2899	Pat	_	_	
+25-2	2899-2900	.	_	_	
+
+#Text=No. 2,349,950).
+#Text=[0008] Solution spinning is one of the oldest methods for producing nanofibers.
+26-1	2901-2903	No	_	_	
+26-2	2903-2904	.	_	_	
+26-3	2905-2914	2,349,950	_	_	
+26-4	2914-2915	)	_	_	
+26-5	2915-2916	.	_	_	
+26-6	2917-2918	[	_	_	
+26-7	2918-2922	0008	_	_	
+26-8	2922-2923	]	_	_	
+26-9	2924-2932	Solution	_	_	
+26-10	2933-2941	spinning	_	_	
+26-11	2942-2944	is	_	_	
+26-12	2945-2948	one	_	_	
+26-13	2949-2951	of	_	_	
+26-14	2952-2955	the	_	_	
+26-15	2956-2962	oldest	_	_	
+26-16	2963-2970	methods	_	_	
+26-17	2971-2974	for	_	_	
+26-18	2975-2984	producing	_	_	
+26-19	2985-2995	nanofibers	_	_	
+26-20	2995-2996	.	_	_	
+
+#Text=This process includes wet spinning and dry spinning.
+27-1	2997-3001	This	_	_	
+27-2	3002-3009	process	_	_	
+27-3	3010-3018	includes	_	_	
+27-4	3019-3022	wet	_	_	
+27-5	3023-3031	spinning	_	_	
+27-6	3032-3035	and	_	_	
+27-7	3036-3039	dry	_	_	
+27-8	3040-3048	spinning	_	_	
+27-9	3048-3049	.	_	_	
+
+#Text=In both methods, the viscous polymeric solution passes through fine holes disposed sequentially and the solvent is subsequently removed for producing the fibers, which are subsequently stretched to decrease their diameter and to confer orientation in order to increase their resistance.
+28-1	3050-3052	In	_	_	
+28-2	3053-3057	both	_	_	
+28-3	3058-3065	methods	_	_	
+28-4	3065-3066	,	_	_	
+28-5	3067-3070	the	_	_	
+28-6	3071-3078	viscous	_	_	
+28-7	3079-3088	polymeric	_	_	
+28-8	3089-3097	solution	_	_	
+28-9	3098-3104	passes	_	_	
+28-10	3105-3112	through	_	_	
+28-11	3113-3117	fine	_	_	
+28-12	3118-3123	holes	_	_	
+28-13	3124-3132	disposed	_	_	
+28-14	3133-3145	sequentially	_	_	
+28-15	3146-3149	and	_	_	
+28-16	3150-3153	the	_	_	
+28-17	3154-3161	solvent	_	_	
+28-18	3162-3164	is	_	_	
+28-19	3165-3177	subsequently	_	_	
+28-20	3178-3185	removed	_	_	
+28-21	3186-3189	for	_	_	
+28-22	3190-3199	producing	_	_	
+28-23	3200-3203	the	_	_	
+28-24	3204-3210	fibers	_	_	
+28-25	3210-3211	,	_	_	
+28-26	3212-3217	which	_	_	
+28-27	3218-3221	are	_	_	
+28-28	3222-3234	subsequently	_	_	
+28-29	3235-3244	stretched	_	_	
+28-30	3245-3247	to	_	_	
+28-31	3248-3256	decrease	_	_	
+28-32	3257-3262	their	_	_	
+28-33	3263-3271	diameter	_	_	
+28-34	3272-3275	and	_	_	
+28-35	3276-3278	to	_	_	
+28-36	3279-3285	confer	_	_	
+28-37	3286-3297	orientation	_	_	
+28-38	3298-3300	in	_	_	
+28-39	3301-3306	order	_	_	
+28-40	3307-3309	to	_	_	
+28-41	3310-3318	increase	_	_	
+28-42	3319-3324	their	_	_	
+28-43	3325-3335	resistance	_	_	
+28-44	3335-3336	.	_	_	
+
+#Text=In dry spinning, the polymeric solution is pushed through a spinneret inside a heated column called spinning tower, in which the polymeric solution is solidified by evaporating the solvent.
+29-1	3337-3339	In	_	_	
+29-2	3340-3343	dry	_	_	
+29-3	3344-3352	spinning	_	_	
+29-4	3352-3353	,	_	_	
+29-5	3354-3357	the	_	_	
+29-6	3358-3367	polymeric	_	_	
+29-7	3368-3376	solution	_	_	
+29-8	3377-3379	is	_	_	
+29-9	3380-3386	pushed	_	_	
+29-10	3387-3394	through	_	_	
+29-11	3395-3396	a	_	_	
+29-12	3397-3406	spinneret	_	_	
+29-13	3407-3413	inside	_	_	
+29-14	3414-3415	a	_	_	
+29-15	3416-3422	heated	_	_	
+29-16	3423-3429	column	_	_	
+29-17	3430-3436	called	_	_	
+29-18	3437-3445	spinning	_	_	
+29-19	3446-3451	tower	_	_	
+29-20	3451-3452	,	_	_	
+29-21	3453-3455	in	_	_	
+29-22	3456-3461	which	_	_	
+29-23	3462-3465	the	_	_	
+29-24	3466-3475	polymeric	_	_	
+29-25	3476-3484	solution	_	_	
+29-26	3485-3487	is	_	_	
+29-27	3488-3498	solidified	_	_	
+29-28	3499-3501	by	_	_	
+29-29	3502-3513	evaporating	_	_	
+29-30	3514-3517	the	_	_	
+29-31	3518-3525	solvent	_	_	
+29-32	3525-3526	.	_	_	
+
+#Text=In wet spinning, a spinneret is placed in a chemical bath in which the polymer is precipitated by dilution or chemical reaction to form the fibers.
+#Text=[0009] Another conventionally used technique for producing polymeric nanofibers is melt blowing.
+30-1	3527-3529	In	_	_	
+30-2	3530-3533	wet	_	_	
+30-3	3534-3542	spinning	_	_	
+30-4	3542-3543	,	_	_	
+30-5	3544-3545	a	_	_	
+30-6	3546-3555	spinneret	_	_	
+30-7	3556-3558	is	_	_	
+30-8	3559-3565	placed	_	_	
+30-9	3566-3568	in	_	_	
+30-10	3569-3570	a	_	_	
+30-11	3571-3579	chemical	_	_	
+30-12	3580-3584	bath	_	_	
+30-13	3585-3587	in	_	_	
+30-14	3588-3593	which	_	_	
+30-15	3594-3597	the	_	_	
+30-16	3598-3605	polymer	_	_	
+30-17	3606-3608	is	_	_	
+30-18	3609-3621	precipitated	_	_	
+30-19	3622-3624	by	_	_	
+30-20	3625-3633	dilution	_	_	
+30-21	3634-3636	or	_	_	
+30-22	3637-3645	chemical	_	_	
+30-23	3646-3654	reaction	_	_	
+30-24	3655-3657	to	_	_	
+30-25	3658-3662	form	_	_	
+30-26	3663-3666	the	_	_	
+30-27	3667-3673	fibers	_	_	
+30-28	3673-3674	.	_	_	
+30-29	3675-3676	[	_	_	
+30-30	3676-3680	0009	_	_	
+30-31	3680-3681	]	_	_	
+30-32	3682-3689	Another	_	_	
+30-33	3690-3704	conventionally	_	_	
+30-34	3705-3709	used	_	_	
+30-35	3710-3719	technique	_	_	
+30-36	3720-3723	for	_	_	
+30-37	3724-3733	producing	_	_	
+30-38	3734-3743	polymeric	_	_	
+30-39	3744-3754	nanofibers	_	_	
+30-40	3755-3757	is	_	_	
+30-41	3758-3762	melt	_	_	
+30-42	3763-3770	blowing	_	_	
+30-43	3770-3771	.	_	_	
+
+#Text=Melt blowing is a process for producing fibers directly from polymers, through the high speed of a gas jet or another suitable force to mitigate the filaments.
+31-1	3772-3776	Melt	_	_	
+31-2	3777-3784	blowing	_	_	
+31-3	3785-3787	is	_	_	
+31-4	3788-3789	a	_	_	
+31-5	3790-3797	process	_	_	
+31-6	3798-3801	for	_	_	
+31-7	3802-3811	producing	_	_	
+31-8	3812-3818	fibers	_	_	
+31-9	3819-3827	directly	_	_	
+31-10	3828-3832	from	_	_	
+31-11	3833-3841	polymers	_	_	
+31-12	3841-3842	,	_	_	
+31-13	3843-3850	through	_	_	
+31-14	3851-3854	the	_	_	
+31-15	3855-3859	high	_	_	
+31-16	3860-3865	speed	_	_	
+31-17	3866-3868	of	_	_	
+31-18	3869-3870	a	_	_	
+31-19	3871-3874	gas	_	_	
+31-20	3875-3878	jet	_	_	
+31-21	3879-3881	or	_	_	
+31-22	3882-3889	another	_	_	
+31-23	3890-3898	suitable	_	_	
+31-24	3899-3904	force	_	_	
+31-25	3905-3907	to	_	_	
+31-26	3908-3916	mitigate	_	_	
+31-27	3917-3920	the	_	_	
+31-28	3921-3930	filaments	_	_	
+31-29	3930-3931	.	_	_	
+
+#Text=The process can be controlled for producing fibers with diameters varying from 1 to 50 .mu.m.
+32-1	3932-3935	The	_	_	
+32-2	3936-3943	process	_	_	
+32-3	3944-3947	can	_	_	
+32-4	3948-3950	be	_	_	
+32-5	3951-3961	controlled	_	_	
+32-6	3962-3965	for	_	_	
+32-7	3966-3975	producing	_	_	
+32-8	3976-3982	fibers	_	_	
+32-9	3983-3987	with	_	_	
+32-10	3988-3997	diameters	_	_	
+32-11	3998-4005	varying	_	_	
+32-12	4006-4010	from	_	_	
+32-13	4011-4012	1	_	_	
+32-14	4013-4015	to	_	_	
+32-15	4016-4018	50	_	_	
+32-16	4019-4020	.	_	_	
+32-17	4020-4024	mu.m	_	_	
+32-18	4024-4025	.	_	_	
+
+#Text=Carl Freudenberg filed a patent application describing this process in 1965 (U.S.
+33-1	4026-4030	Carl	_	_	
+33-2	4031-4042	Freudenberg	_	_	
+33-3	4043-4048	filed	_	_	
+33-4	4049-4050	a	_	_	
+33-5	4051-4057	patent	_	_	
+33-6	4058-4069	application	_	_	
+33-7	4070-4080	describing	_	_	
+33-8	4081-4085	this	_	_	
+33-9	4086-4093	process	_	_	
+33-10	4094-4096	in	_	_	
+33-11	4097-4101	1965	_	_	
+33-12	4102-4103	(	_	_	
+33-13	4103-4106	U.S	_	_	
+33-14	4106-4107	.	_	_	
+
+#Text=Pat.
+34-1	4108-4111	Pat	_	_	
+34-2	4111-4112	.	_	_	
+
+#Text=No. 3,379,811).
+35-1	4113-4115	No	_	_	
+35-2	4115-4116	.	_	_	
+35-3	4117-4126	3,379,811	_	_	
+35-4	4126-4127	)	_	_	
+35-5	4127-4128	.	_	_	
+
+#Text=The high-speed, hot gas process is also described in patents U.S.
+36-1	4129-4132	The	_	_	
+36-2	4133-4143	high-speed	_	_	
+36-3	4143-4144	,	_	_	
+36-4	4145-4148	hot	_	_	
+36-5	4149-4152	gas	_	_	
+36-6	4153-4160	process	_	_	
+36-7	4161-4163	is	_	_	
+36-8	4164-4168	also	_	_	
+36-9	4169-4178	described	_	_	
+36-10	4179-4181	in	_	_	
+36-11	4182-4189	patents	_	_	
+36-12	4190-4193	U.S	_	_	
+36-13	4193-4194	.	_	_	
+
+#Text=Pat.
+37-1	4195-4198	Pat	_	_	
+37-2	4198-4199	.	_	_	
+
+#Text=No. 3,276,944 and U.S.
+38-1	4200-4202	No	_	_	
+38-2	4202-4203	.	_	_	
+38-3	4204-4213	3,276,944	_	_	
+38-4	4214-4217	and	_	_	
+38-5	4218-4221	U.S	_	_	
+38-6	4221-4222	.	_	_	
+
+#Text=Pat.
+39-1	4223-4226	Pat	_	_	
+39-2	4226-4227	.	_	_	
+
+#Text=No. 3,650,866, among others.
+40-1	4228-4230	No	_	_	
+40-2	4230-4231	.	_	_	
+40-3	4232-4241	3,650,866	_	_	
+40-4	4241-4242	,	_	_	
+40-5	4243-4248	among	_	_	
+40-6	4249-4255	others	_	_	
+40-7	4255-4256	.	_	_	
+
+#Text=One of the limitations of high speed, hot air jet technology is that it is limited to the use of thermoplastic polymers.
+41-1	4257-4260	One	_	_	
+41-2	4261-4263	of	_	_	
+41-3	4264-4267	the	_	_	
+41-4	4268-4279	limitations	_	_	
+41-5	4280-4282	of	_	_	
+41-6	4283-4287	high	_	_	
+41-7	4288-4293	speed	_	_	
+41-8	4293-4294	,	_	_	
+41-9	4295-4298	hot	_	_	
+41-10	4299-4302	air	_	_	
+41-11	4303-4306	jet	_	_	
+41-12	4307-4317	technology	_	_	
+41-13	4318-4320	is	_	_	
+41-14	4321-4325	that	_	_	
+41-15	4326-4328	it	_	_	
+41-16	4329-4331	is	_	_	
+41-17	4332-4339	limited	_	_	
+41-18	4340-4342	to	_	_	
+41-19	4343-4346	the	_	_	
+41-20	4347-4350	use	_	_	
+41-21	4351-4353	of	_	_	
+41-22	4354-4367	thermoplastic	_	_	
+41-23	4368-4376	polymers	_	_	
+41-24	4376-4377	.	_	_	

@@ -1,0 +1,200 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+
+
+#Text=4.5 SAMPLING CAP ARRAY and SWITCHES
+#Text=The CAP ARRAY and SWITCHES circuit X5 contains sampling capacitors that are basically unit sizes.
+1-1	0-3	4.5	_	
+1-2	4-12	SAMPLING	_	
+1-3	13-16	CAP	_	
+1-4	17-22	ARRAY	_	
+1-5	23-26	and	_	
+1-6	27-35	SWITCHES	_	
+1-7	36-39	The	_	
+1-8	40-43	CAP	_	
+1-9	44-49	ARRAY	_	
+1-10	50-53	and	_	
+1-11	54-62	SWITCHES	_	
+1-12	63-70	circuit	_	
+1-13	71-73	X5	_	
+1-14	74-82	contains	_	
+1-15	83-91	sampling	_	
+1-16	92-102	capacitors	_	
+1-17	103-107	that	_	
+1-18	108-111	are	_	
+1-19	112-121	basically	_	
+1-20	122-126	unit	_	
+1-21	127-132	sizes	_	
+1-22	132-133	.	_	
+
+#Text=Due to the variety of voltages sampled, fractions of units are required.
+2-1	134-137	Due	_	
+2-2	138-140	to	_	
+2-3	141-144	the	_	
+2-4	145-152	variety	_	
+2-5	153-155	of	_	
+2-6	156-164	voltages	_	
+2-7	165-172	sampled	_	
+2-8	172-173	,	_	
+2-9	174-183	fractions	_	
+2-10	184-186	of	_	
+2-11	187-192	units	_	
+2-12	193-196	are	_	
+2-13	197-205	required	_	
+2-14	205-206	.	_	
+
+#Text=Poly etch tolerance can cause approximately 0.2% ratio error.
+3-1	207-211	Poly	_	
+3-2	212-216	etch	_	
+3-3	217-226	tolerance	_	
+3-4	227-230	can	_	
+3-5	231-236	cause	_	
+3-6	237-250	approximately	_	
+3-7	251-255	0.2%	_	
+3-8	256-261	ratio	_	
+3-9	262-267	error	_	
+3-10	267-268	.	_	
+
+#Text=Inputs S1, S2, S3, S8 and S9 require signals level shifted above VSS2 (the normal logic level is VSS1, VDD2).
+4-1	269-275	Inputs	*[1]	
+4-2	276-278	S1	*[1]	
+4-3	278-279	,	*[1]	
+4-4	280-282	S2	*[1]	
+4-5	282-283	,	*[1]	
+4-6	284-286	S3	*[1]	
+4-7	286-287	,	*[1]	
+4-8	288-290	S8	*[1]	
+4-9	291-294	and	*[1]	
+4-10	295-297	S9	*[1]	
+4-11	298-305	require	*[1]	
+4-12	306-313	signals	*[1]	
+4-13	314-319	level	*[1]	
+4-14	320-327	shifted	*[1]	
+4-15	328-333	above	*[1]	
+4-16	334-338	VSS2	*[1]	
+4-17	339-340	(	*[1]	
+4-18	340-343	the	*[1]	
+4-19	344-350	normal	*[1]	
+4-20	351-356	logic	*[1]	
+4-21	357-362	level	*[1]	
+4-22	363-365	is	*[1]	
+4-23	366-370	VSS1	*[1]	
+4-24	370-371	,	*[1]	
+4-25	372-376	VDD2	*[1]	
+4-26	376-377	)	*[1]	
+4-27	377-378	.	*[1]	
+
+#Text=Inputs S1, S2, S3, S8, S9 must save bodies tied to VSSI and VDD1.
+5-1	379-385	Inputs	*[2]	
+5-2	386-388	S1	*[2]	
+5-3	388-389	,	*[2]	
+5-4	390-392	S2	*[2]	
+5-5	392-393	,	*[2]	
+5-6	394-396	S3	*[2]	
+5-7	396-397	,	*[2]	
+5-8	398-400	S8	*[2]	
+5-9	400-401	,	*[2]	
+5-10	402-404	S9	*[2]	
+5-11	405-409	must	*[2]	
+5-12	410-414	save	*[2]	
+5-13	415-421	bodies	*[2]	
+5-14	422-426	tied	*[2]	
+5-15	427-429	to	*[2]	
+5-16	430-434	VSSI	*[2]	
+5-17	435-438	and	*[2]	
+5-18	439-443	VDD1	*[2]	
+5-19	443-444	.	*[2]	
+
+#Text=All other switches may be tied to VSSI, VDD2.
+6-1	445-448	All	*[3]	
+6-2	449-454	other	*[3]	
+6-3	455-463	switches	*[3]	
+6-4	464-467	may	*[3]	
+6-5	468-470	be	*[3]	
+6-6	471-475	tied	*[3]	
+6-7	476-478	to	*[3]	
+6-8	479-483	VSSI	*[3]	
+6-9	483-484	,	*[3]	
+6-10	485-489	VDD2	*[3]	
+6-11	489-490	.	*[3]	
+
+#Text=Note that this includes p-channel bodies, since they are isolated from the substrate in this process.
+7-1	491-495	Note	_	
+7-2	496-500	that	_	
+7-3	501-505	this	_	
+7-4	506-514	includes	_	
+7-5	515-524	p-channel	_	
+7-6	525-531	bodies	_	
+7-7	531-532	,	_	
+7-8	533-538	since	_	
+7-9	539-543	they	_	
+7-10	544-547	are	_	
+7-11	548-556	isolated	_	
+7-12	557-561	from	_	
+7-13	562-565	the	_	
+7-14	566-575	substrate	_	
+7-15	576-578	in	_	
+7-16	579-583	this	*[4]	
+7-17	584-591	process	*[4]	
+7-18	591-592	.	_	
+
+#Text=Sampling occurs such that the node OUT should remain at the reference voltage level if the sampled voltage is at its exact trip point.
+8-1	593-601	Sampling	_	
+8-2	602-608	occurs	_	
+8-3	609-613	such	_	
+8-4	614-618	that	_	
+8-5	619-622	the	_	
+8-6	623-627	node	_	
+8-7	628-631	OUT	_	
+8-8	632-638	should	_	
+8-9	639-645	remain	_	
+8-10	646-648	at	_	
+8-11	649-652	the	_	
+8-12	653-662	reference	_	
+8-13	663-670	voltage	_	
+8-14	671-676	level	_	
+8-15	677-679	if	_	
+8-16	680-683	the	_	
+8-17	684-691	sampled	_	
+8-18	692-699	voltage	_	
+8-19	700-702	is	_	
+8-20	703-705	at	_	
+8-21	706-709	its	_	
+8-22	710-715	exact	_	
+8-23	716-720	trip	_	
+8-24	721-726	point	_	
+8-25	726-727	.	_	
+
+#Text=This avoids parasitic capacitance effects at this high-impedance node.
+#Text=100 mV of hysteresis is added to the SL and SVL tests by switching between two slightly different capacitor values.
+9-1	728-732	This	_	
+9-2	733-739	avoids	_	
+9-3	740-749	parasitic	_	
+9-4	750-761	capacitance	_	
+9-5	762-769	effects	_	
+9-6	770-772	at	_	
+9-7	773-777	this	_	
+9-8	778-792	high-impedance	_	
+9-9	793-797	node	_	
+9-10	797-798	.	_	
+9-11	799-802	100	_	
+9-12	803-805	mV	_	
+9-13	806-808	of	_	
+9-14	809-819	hysteresis	_	
+9-15	820-822	is	_	
+9-16	823-828	added	_	
+9-17	829-831	to	_	
+9-18	832-835	the	_	
+9-19	836-838	SL	_	
+9-20	839-842	and	_	
+9-21	843-846	SVL	_	
+9-22	847-852	tests	_	
+9-23	853-855	by	_	
+9-24	856-865	switching	_	
+9-25	866-873	between	_	
+9-26	874-877	two	_	
+9-27	878-886	slightly	_	
+9-28	887-896	different	_	
+9-29	897-906	capacitor	_	
+9-30	907-913	values	_	
+9-31	913-914	.	_	

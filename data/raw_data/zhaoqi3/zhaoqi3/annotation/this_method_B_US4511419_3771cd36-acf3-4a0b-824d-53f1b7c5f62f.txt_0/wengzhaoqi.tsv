@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Diy_coref|
+#T_RL=webanno.custom.Diy_coref_re|BT_webanno.custom.Diy_coref
+
+
+#Text=1.
+1-1	0-1	1	_	_	
+1-2	1-2	.	_	_	
+
+#Text=Field of the Invention
+#Text=The invention relates to a method of laminating at least two foils such as plastic foils, metal foils and ribbons, paper, or fabric, the foils being treated with a low energy gas discharge in vacuo.
+2-1	3-8	Field	_	_	
+2-2	9-11	of	_	_	
+2-3	12-15	the	_	_	
+2-4	16-25	Invention	_	_	
+2-5	26-29	The	_	_	
+2-6	30-39	invention	_	_	
+2-7	40-47	relates	_	_	
+2-8	48-50	to	_	_	
+2-9	51-52	a	*[1]	3-13[2_1]	
+2-10	53-59	method	*[1]	_	
+2-11	60-62	of	*[1]	_	
+2-12	63-73	laminating	*[1]	_	
+2-13	74-76	at	*[1]	_	
+2-14	77-82	least	*[1]	_	
+2-15	83-86	two	*[1]	_	
+2-16	87-92	foils	*[1]	_	
+2-17	93-97	such	_	_	
+2-18	98-100	as	_	_	
+2-19	101-108	plastic	_	_	
+2-20	109-114	foils	_	_	
+2-21	114-115	,	_	_	
+2-22	116-121	metal	_	_	
+2-23	122-127	foils	_	_	
+2-24	128-131	and	_	_	
+2-25	132-139	ribbons	_	_	
+2-26	139-140	,	_	_	
+2-27	141-146	paper	_	_	
+2-28	146-147	,	_	_	
+2-29	148-150	or	_	_	
+2-30	151-157	fabric	_	_	
+2-31	157-158	,	_	_	
+2-32	159-162	the	_	_	
+2-33	163-168	foils	_	_	
+2-34	169-174	being	_	_	
+2-35	175-182	treated	_	_	
+2-36	183-187	with	_	_	
+2-37	188-189	a	_	_	
+2-38	190-193	low	_	_	
+2-39	194-200	energy	_	_	
+2-40	201-204	gas	_	_	
+2-41	205-214	discharge	_	_	
+2-42	215-217	in	_	_	
+2-43	218-223	vacuo	_	_	
+2-44	223-224	.	_	_	
+
+#Text=Moreover, the invention relates to a device for the application of this method.
+3-1	225-233	Moreover	_	_	
+3-2	233-234	,	_	_	
+3-3	235-238	the	_	_	
+3-4	239-248	invention	_	_	
+3-5	249-256	relates	_	_	
+3-6	257-259	to	_	_	
+3-7	260-261	a	_	_	
+3-8	262-268	device	_	_	
+3-9	269-272	for	_	_	
+3-10	273-276	the	_	_	
+3-11	277-288	application	_	_	
+3-12	289-291	of	_	_	
+3-13	292-296	this	*[2]	_	
+3-14	297-303	method	*[2]	_	
+3-15	303-304	.	_	_	
+
+#Text=The field of the invention is laminating two or more foils without using adhesives.
+#Text=2.
+4-1	305-308	The	_	_	
+4-2	309-314	field	_	_	
+4-3	315-317	of	_	_	
+4-4	318-321	the	_	_	
+4-5	322-331	invention	_	_	
+4-6	332-334	is	_	_	
+4-7	335-345	laminating	_	_	
+4-8	346-349	two	_	_	
+4-9	350-352	or	_	_	
+4-10	353-357	more	_	_	
+4-11	358-363	foils	_	_	
+4-12	364-371	without	_	_	
+4-13	372-377	using	_	_	
+4-14	378-387	adhesives	_	_	
+4-15	387-388	.	_	_	
+4-16	389-390	2	_	_	
+4-17	390-391	.	_	_	
+
+#Text=Description of the Prior Art
+5-1	392-403	Description	_	_	
+5-2	404-406	of	_	_	
+5-3	407-410	the	_	_	
+5-4	411-416	Prior	_	_	
+5-5	417-420	Art	_	_	
