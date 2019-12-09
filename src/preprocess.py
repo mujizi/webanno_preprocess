@@ -3,6 +3,7 @@ import re
 import os
 from src.tools import write_jsonline
 
+NUM_REG = re.compile(r'\d')
 ENTITY_TAG = re.compile(r'\*')
 ENTITY_TAG_2 = re.compile(r'\*\[1\]')
 
@@ -21,6 +22,18 @@ def read_tsv(path):
     return new_lines
 
 
+def del_line_index(list):
+    del_l = []
+    for index, i in enumerate(list):
+        try:
+            if len(i) == 6 and i[2] == '[' and NUM_REG.match(list[index + 1][2]) and list[index + 2][2] == ']':
+                del_l.extend([i for i in range(index, index + 3)])
+        except:
+            continue
+    new_list = [list[i] for i in range(len(list)) if i not in del_l]
+    return new_list
+
+
 def increase_token_id(tokens):
     """
 
@@ -33,7 +46,7 @@ def increase_token_id(tokens):
         if len(token) > 1 and token[0][0].isdigit():
             token.insert(0, index)
             index += 1
-        print(token)
+        # print(token)
     return tokens
 
 
@@ -123,6 +136,10 @@ def create_dic(sentences, clusters, speakers, doc_key, pn):
 def tsv2dic(path, doc_key):
     pn = path.split('_')[5]
     tokens = read_tsv(path)
+    # tag = len(tokens)
+    tokens = del_line_index(tokens)
+    # if (tag - len(tokens)) / 3 == 0:
+    #     print(True)
     tokens = increase_token_id(tokens)
     clusters = get_clusters(tokens)
     sentences = get_sentences(tokens)
@@ -151,11 +168,9 @@ def create_jsonline(dest_file, all_dic_list):
 
 
 if __name__ == '__main__':
-    path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/raw_data/xulei1/annotation'
+    path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/raw_data/zhaoqi3/zhaoqi3/annotation'
     dest_path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/' \
-                'xulei1/sentence_coref_xulei1.jsonlines'
+                'zhaoqi3/sentence_coref_zhaoqi3.jsonlines'
 
     all_dic_list = all_tsv2dic(path)
     create_jsonline(dest_path, all_dic_list)
-
-    # pass
