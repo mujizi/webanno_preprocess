@@ -1,5 +1,0 @@
-[0157] [Step SB16] The upper and lower wire guides are moved to the position A.
-[0158] [Step SB17] Only the lower wire guide is moved and thus the wire electrode is brought into contact with the workpiece so as to calculate the value of the coordinate (9) at this time.
-[0159] [Step SB18] Board thickness and an inclination angle of the workpiece are calculated and then this processing is ended.
-[0160] FIG. 28 is a block diagram of a main part of the wire-cut electric discharge machine according to the embodiment of the present invention.
-[0161] A processor (CPU) 11 reads out a system program which is stored in a ROM 12 via a bus 20 and controls the whole of the numerical controller 2 in accordance with this system program. A RAM 13 stores temporary calculation data, display data, and the like. A SRAM 14 is configured as a nonvolatile memory of which a storage status is saved even if the numerical controller 2 is turned off.

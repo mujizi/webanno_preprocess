@@ -1,5 +1,0 @@
-[0059] where u.sub.f is the velocities of the nearest fluid cell, u.sub.o is the true velocity of the occlusion, .alpha..sub.o is the occlusion slip coefficient, and no is the surface normal of the nearest occlusions surface. The slip coefficient parameterizes the range of boundary conditions from full-slip to no-slip along the range [0,1].
-[0060] This described method of preparing the occlusion velocities is used prior to the calculation of the advection and the pressure effects.
-[0061] The fluid velocities resulting from using this method of accurately incorporating the occlusions into the fluid simulation is evident in FIG. 8. There is no visible dampening of the fluid velocities directly adjacent to occlusions in this FIG. (8) unlike in FIG. 7. The fluid velocities in FIG. 8 also follow closely the smooth curved surface of the occlusions.
-[0062] In FIG. 9 is similar to FIG. 8 except that the black occlusion regions have been removed thus exposing the red underlying velocities that have been set using the improved description above.
-[0063] In the accompanying drawings, which illustrate an exemplary embodiment of the present invention:

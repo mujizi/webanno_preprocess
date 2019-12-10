@@ -1,5 +1,0 @@
-[0094] 1. Average Amplitude Ra
-[0095] In practice, "Ra" is the most commonly used roughness parameter. It is the arithmetic average height. Mathematically, Ra is computed as the average distance between each roughness profile point and the mean line. In FIG. 13, the average amplitude is the average length of the arrows.
-[0096] In mathematical terms, this process can be represented as
-Ra = 1 n i = 1 n y i ##EQU00001##
-[0097] 2. Average Peak-to-Valley Roughness Rz
