@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a6ad1ea-c403-45e6-a013-b039dc0653b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statistics/visual_highlight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/cut_off_file/xulei1_zhaoqi3_cut_off.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1/sentence_coref_xulei1.jsonlines" beforeDir="false" afterPath="$PROJECT_DIR$/data/jsonline_data/xulei1/sentence_coref_xulei1.jsonlines" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge/x_z_all_eval.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge/x_z_all_train.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge/x_z_del_cluster.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge/xulei1_zhaoqi3.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/zhaoqi3/sentence_coref_zhaoqi3.jsonlines" beforeDir="false" afterPath="$PROJECT_DIR$/data/jsonline_data/zhaoqi3/sentence_coref_zhaoqi3.jsonlines" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/del_line_id.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_test/del_line_id.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/highlight.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/highlight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/merge_two_jsonline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/merge_two_jsonline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/preprocess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocess_merge_data/cut_off_raw_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/cut_off_raw_text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocess_merge_data/split_train_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/split_train_eval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocess_test/tsv2dic_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_test/tsv2dic_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statistics/visual_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/statistics/visual_distance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statistics/visual_gold_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/statistics/visual_gold_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statistics/visual_gold_predicted.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/statistics/visual_gold_predicted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statistics/visual_span.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/statistics/visual_span.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
