@@ -2,22 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a6ad1ea-c403-45e6-a013-b039dc0653b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/del_line_id.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preprocess_test/dic2json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statistics/visual_highlight.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/jsonline_data/cut_off_file/xulei1_zhaoqi3_cut_off.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/head_entity_for_test/x_z_head.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/head_entity_for_test/x_z_head_eval.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/head_entity_for_test/x_z_head_train.jsonlines" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1/sentence_coref_xulei1.jsonlines" beforeDir="false" afterPath="$PROJECT_DIR$/data/jsonline_data/xulei1/sentence_coref_xulei1.jsonlines" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge/x_z_all_eval.jsonlines" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge/x_z_all_train.jsonlines" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge/x_z_del_cluster.jsonlines" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge/xulei1_zhaoqi3.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/jsonline_data/zhaoqi3/sentence_coref_zhaoqi3.jsonlines" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/jsonline_data/zhaoqi3/sentence_coref_zhaoqi3.jsonlines" beforeDir="false" afterPath="$PROJECT_DIR$/data/jsonline_data/zhaoqi3/sentence_coref_zhaoqi3.jsonlines" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/del_line_id.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_test/del_line_id.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highlight.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/highlight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/merge_two_jsonline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/merge_two_jsonline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/preprocess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/preprocess_merge_data/cut_off_raw_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/cut_off_raw_text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocess_merge_data/get_entity_head.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/get_entity_head.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/preprocess_merge_data/split_train_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_merge_data/split_train_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/preprocess_test/tsv2dic_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocess_test/tsv2dic_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statistics/visual_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/statistics/visual_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statistics/visual_gold_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/statistics/visual_gold_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/statistics/visual_gold_predicted.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/statistics/visual_gold_predicted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statistics/visual_span.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/statistics/visual_span.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +44,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/test_data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/preprocess_merge_data" />
+      <recent name="$PROJECT_DIR$/src/preprocess_test" />
       <recent name="$PROJECT_DIR$/data/jsonline_data/xulei1_zhaoqi3_merge" />
       <recent name="$PROJECT_DIR$/data/test_data/level1_dir/level2_dir" />
       <recent name="$PROJECT_DIR$/data/test_data" />
@@ -65,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.visual_gold_predicted">
+  <component name="RunManager" selected="Python.visual_distance">
     <configuration name="cut_off_raw_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="webanno_preprocess" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,48 +86,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/preprocess_merge_data/cut_off_raw_text.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="get_entity_head" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="webanno_preprocess" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/preprocess_merge_data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/preprocess_merge_data/get_entity_head.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="merge_two_jsonline" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="webanno_preprocess" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/merge_two_jsonline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="visual_gold_predicted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="visual_distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="webanno_preprocess" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +127,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistics/visual_gold_predicted.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistics/visual_distance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visual_gold_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webanno_preprocess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistics/visual_gold_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visual_span" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webanno_preprocess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistics/visual_span.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.visual_gold_predicted" />
-        <item itemvalue="Python.get_entity_head" />
+        <item itemvalue="Python.visual_distance" />
+        <item itemvalue="Python.visual_span" />
+        <item itemvalue="Python.visual_gold_data" />
         <item itemvalue="Python.split_train_eval" />
         <item itemvalue="Python.cut_off_raw_text" />
-        <item itemvalue="Python.merge_two_jsonline" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +206,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

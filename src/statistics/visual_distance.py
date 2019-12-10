@@ -54,7 +54,7 @@ def visual_distance_distribution(distances_list):
     x = id_dic.keys()
     y = id_dic.values()
     print(plt.style.available)
-    plt.style.use('fivethirtyeight')  # bmh
+    # plt.style.use('fivethirtyeight')  # bmh
     plt.figure(figsize=(200, 200))
     plt.bar(x, y, facecolor='lightskyblue', edgecolor='white', lw=2)
     x_tick = ['2', '3', '4', '5-7', '8-15', '16-31', '32-63', '64-128', '129-256', '257-512']
@@ -64,10 +64,13 @@ def visual_distance_distribution(distances_list):
     plt.xticks(list(x), x_tick)
     # plt.locator_params('x', nbins=5)
     plt.title("Distance of coreferent pair")
+    sum_y = sum(y)
+    for x1, y1 in zip(x, y):
+        plt.text(x1, y1 + 10, '{:.2f}%'.format(y1/sum_y * 100), ha="center", va="top")
     plt.show()
 
 
 if __name__ == '__main__':
-    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/cut_off_file/xulei1_zhaoqi3_cut_off.jsonlines"
+    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei4_zhaoqi5_merge/x4_z5_cut_off.jsonlines"
     batch_list = batch_distance(path)
     visual_distance_distribution(batch_list)

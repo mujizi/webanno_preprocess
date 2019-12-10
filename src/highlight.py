@@ -1,8 +1,7 @@
 from collections import OrderedDict
-from src.utils.io import *
-from src.utils.constant import *
+from src.tools import *
 
-
+DEFAULT_COLOR = 'red'
 HIGHLIGHT_COLOR = OrderedDict([
     ('grey', '0;35;47m'),
     ('yellow', '0;30;43m'),
@@ -29,19 +28,6 @@ def data_review(filename, skip_empty=True, lang='cn'):
             print(highlight_by_spans(sent['text'], spans))
 
 
-def get_entity_type_color_mapper(entity_types=ENTITY_TYPES):
-    if len(entity_types) > len(HIGHLIGHT_COLOR):
-        raise ValueError('entity type count is larger than upper bound.')
-    color_mapper = {}
-    for entity_type, color_name in zip(entity_types, HIGHLIGHT_COLOR):
-        color_mapper[entity_type] = color_name
-    if len(color_mapper) <= 1:
-        return None
-    else:
-        return color_mapper
-
-
-ENTITY_TYPE_COLOR_MAPPER = get_entity_type_color_mapper()
 
 
 def highlight_data(data, skip_empty=True, in_token=False, sep_str='===================='):
