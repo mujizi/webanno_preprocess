@@ -44,7 +44,7 @@ def visual_span_distribution(spans_list):
     ax.spines['right'].set_visible(False)
     # ax.spines['bottom'].set_visible(False)
     # ax.spines['left'].set_visible(False)
-    plt.bar(x, y, facecolor='orange', edgecolor='white', lw=2)
+    plt.bar(x, y, facecolor='lightskyblue', edgecolor='white', lw=2)
     plt.ylim(0, 400)
     plt.xlabel("Span of width")
     plt.ylabel("Nums")
@@ -56,6 +56,6 @@ def visual_span_distribution(spans_list):
 
 
 if __name__ == '__main__':
-    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei4_zhaoqi5_merge/x4_z5_cut_off.jsonlines"
+    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei4_zhaoqi5_merge/x4_z5_cut.jsonlines"
     batch_list = batch_span(path)
     visual_span_distribution(batch_list)

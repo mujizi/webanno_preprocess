@@ -36,6 +36,6 @@ def visual_gold_pred(gold_path, predicted_path):
 
 
 if __name__ == '__main__':
-    gold_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/head_entity_for_test/x_z_3_head_eval.jsonlines"
-    predicted_path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/predicted/coref_predictions_3.json'
+    gold_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali/x4_z5_eval.jsonlines"
+    predicted_path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/predicted/xulei4_zhaoqi5_sentence_span_pred.json'
     visual_gold_pred(gold_path, predicted_path)

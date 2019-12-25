@@ -17,7 +17,7 @@ def split_train_eval_dataset(path, train_path, eval_path):
 
 
 if __name__ == '__main__':
-    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei4_zhaoqi5_merge/x4_z5_cut_off.jsonlines"
-    train_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali/x4_z5_train.jsonlines"
-    eval_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali/x4_z5_eval.jsonlines"
+    path = "/data/final_merge/xulei4_zhaoqi5_dup.jsonlines"
+    train_path = "/data/final_merge/final_train.jsonlines"
+    eval_path = "/data/final_merge/final_eval.jsonlines"
     split_train_eval_dataset(path, train_path, eval_path)

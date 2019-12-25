@@ -71,6 +71,6 @@ def visual_distance_distribution(distances_list):
 
 
 if __name__ == '__main__':
-    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei4_zhaoqi5_merge/x4_z5_cut_off.jsonlines"
+    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei4_zhaoqi5_merge/x4_z5_cut.jsonlines"
     batch_list = batch_distance(path)
     visual_distance_distribution(batch_list)
