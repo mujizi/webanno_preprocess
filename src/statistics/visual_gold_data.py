@@ -52,5 +52,6 @@ if __name__ == '__main__':
     # visual_gold_pred(path)
 
     # gold_path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali_sentence_span/cut_off_start_x4_train.jsonlines'
-    gold_path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/bert_test/bert_x4_z5_eval_dup.jsonlines'
+    gold_path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/bert_test/cut_bert_256_merge_x4_z5_x1_z3.jsonlines'
     visual_gold_hight(gold_path)
+import matplotlib.pyplot as plt

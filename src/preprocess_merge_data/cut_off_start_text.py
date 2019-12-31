@@ -42,8 +42,8 @@ def cut_off_sentence(dic):
 
 
 if __name__ == '__main__':
-    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali/x4_z5_eval.jsonlines"
-    dest_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali_sentence_span/cut_off_start_x4_eval.jsonlines"
+    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/bert_test/bert_256_merge_x4_z5_x1_z3.jsonlines"
+    dest_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/bert_test/cut_bert_256_merge_x4_z5_x1_z3.jsonlines"
     file_list = read_jsonline(path)
     new = []
     for dic in file_list:

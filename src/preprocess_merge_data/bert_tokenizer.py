@@ -29,7 +29,7 @@ def get_cls_sep(dic):
     subtoken_map = dic["subtoken_map"]
     for sentence in sentences:
         sentence.insert(0, "[CLS]")
-        sentence.insert(-1, "[SEP]")
+        sentence.append("[SEP]")
     for index in subtoken_map:
         end = index[-1]
         start = index[0]
@@ -110,13 +110,13 @@ def cluster_change(zip_map, cluster):
     return new_cluster
 
 
-def all_file(path, dest_path, vocab_file):
+def all_file(path, dest_path, vocab_file, length):
     file_l = read_jsonline(path)
     tokenizer = FullTokenizer(
         vocab_file=vocab_file, do_lower_case=False)
     new_file = []
     for i in file_l:
-        dic = get_sub_token(i, tokenizer, 128)
+        dic = get_sub_token(i, tokenizer, length)
         dic = get_cls_sep(dic)
         dic = get_speaker(dic)
         dic = get_sentence_map(dic)
@@ -129,6 +129,6 @@ def all_file(path, dest_path, vocab_file):
 if __name__ == '__main__':
     vocab_file = "/home/patsnap/PycharmProjects/webanno_preprocess/data/vocab/vocab.txt"
     path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali/x4_z5_eval_dup.jsonlines"
-    dest = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/bert_test/bert_x4_z5_eval_dup.jsonlines"
-    all_file(path, dest, vocab_file)
+    dest = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/bert_test/bert_256_x4_z5_eval_dup.jsonlines"
+    all_file(path, dest, vocab_file, 256)
 

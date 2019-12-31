@@ -58,7 +58,7 @@ def visual_distance_distribution(distances_list):
     plt.figure(figsize=(200, 200))
     plt.bar(x, y, facecolor='lightskyblue', edgecolor='white', lw=2)
     x_tick = ['2', '3', '4', '5-7', '8-15', '16-31', '32-63', '64-128', '129-256', '257-512']
-    plt.ylim(0, 400)
+    plt.ylim(0, 1000)
     plt.xlabel("Distance of span")
     plt.ylabel("Nums")
     plt.xticks(list(x), x_tick)
@@ -71,6 +71,6 @@ def visual_distance_distribution(distances_list):
 
 
 if __name__ == '__main__':
-    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei4_zhaoqi5_merge/x4_z5_cut.jsonlines"
+    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/conll/dev.english.jsonlines"
     batch_list = batch_distance(path)
     visual_distance_distribution(batch_list)

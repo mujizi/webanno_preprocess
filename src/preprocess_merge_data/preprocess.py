@@ -175,8 +175,8 @@ def create_jsonline(dest_file, all_dic_list):
 
 
 if __name__ == '__main__':
-    path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/raw_data/zhaoqi3/zhaoqi3/annotation'
-    dest_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/zhaoqi3/zhaoqi3.jsonlines"
+    path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/raw_data/xulei2_1/annotation'
+    dest_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei2_1.jsonlines"
 
     all_dic_list = all_tsv2dic(path)
     create_jsonline(dest_path, all_dic_list)

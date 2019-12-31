@@ -26,7 +26,10 @@ def sentence_start_end_index(sentences):
 
 
 if __name__ == '__main__':
-    start_list, end_list = sentence_start_end_index(sentences)
-    print(start_list, len(start_list), type(start_list))
-    print(end_list, len(end_list), type(end_list))
-    # print([i for i in end_list])
+    # start_list, end_list = sentence_start_end_index(sentences)
+    # print(start_list, len(start_list), type(start_list))
+    # print(end_list, len(end_list), type(end_list))
+    l = [1,2,3]
+    l.insert(0,"1")
+    l.append("1")
+    print(l)

@@ -15,7 +15,7 @@ def merge_two_jsonlines(path, path2, dest_path):
 
 
 if __name__ == '__main__':
-    path_1 = '/data/jsonline_data/xulei1_zhaoqi3_merge/x1_z3_dup.jsonlines'
-    path_2 = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali/x4_z5_train.jsonlines'
-    dest_path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/new_training_data/merge_x4_z5_x1_z3.jsonlines'
+    path_1 = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei2_1zhaoqi2_2_dup.jsonlines'
+    path_2 = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali/x4_z5_eval_dup.jsonlines'
+    dest_path = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/train_vali/x4_z5_x2_1_z2_2_dup_eval.jsonlines'
     merge_two_jsonlines(path_1, path_2, dest_path)

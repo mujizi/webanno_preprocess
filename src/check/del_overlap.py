@@ -43,6 +43,6 @@ def del_all_overlap(path, dest_path):
 
 
 if __name__ == '__main__':
-    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei1_zhaoqi3_merge/x1_z3_cut.jsonlines"
-    dest_path = "/data/jsonline_data/xulei1_zhaoqi3_merge/x1_z3_dup.jsonlines"
+    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei2_1zhaoqi2_2_cut.jsonlines"
+    dest_path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei2_1zhaoqi2_2_dup.jsonlines"
     del_all_overlap(path, dest_path)

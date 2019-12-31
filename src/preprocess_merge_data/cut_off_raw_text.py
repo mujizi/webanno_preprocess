@@ -59,14 +59,14 @@ def test_cut_off_result(raw_file, cut_file):
 
 
 if __name__ == '__main__':
-    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei1_zhaoqi3_merge/x1_z3_del.jsonlines"
-    dest_file = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei1_zhaoqi3_merge/x1_z3_cut.jsonlines"
+    path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei2_1zhaoqi2_2_del.jsonlines"
+    dest_file = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei2_1zhaoqi2_2_cut.jsonlines"
     cut_off_jsonlines(path, dest_file)
 
     # path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei1_zhaoqi3_merge/x_z_del_cluster.jsonlines"
     # path2 = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/cut_off_file/xulei1_zhaoqi3_cut_off.jsonlines"
     # test_cut_off_result(path, path2)
 
-    # path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei1_zhaoqi3_merge/x1_z3.jsonlines"
-    # dest = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei1_zhaoqi3_merge/x1_z3_del.jsonlines'
+    # path = "/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei2_1zhaoqi2_2.jsonlines"
+    # dest = '/home/patsnap/PycharmProjects/webanno_preprocess/data/jsonline_data/xulei2_1zhaoqi2_2_del.jsonlines'
     # del_empty_cluster(path, dest)
